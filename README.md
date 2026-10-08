@@ -2,11 +2,13 @@
 
 [Neiden](https://neiden.framer.media/) sitesinin tasarımını, özgün görsellerini, geçişlerini ve scroll animasyonlarını React ile bölüm bölüm yeniden geliştirme projesi. Uygulama planı Astra ile hazırlandı; geliştirme, referans incelemesi ve bağımsız QA için ajan rolleri tanımlandı.
 
+Uygulamada kullanılan marka adı **naiben**. Ortak marka metinleri [src/content/brand.ts](src/content/brand.ts) dosyasında tutulur.
+
 **Geliştirme devam ediyor.** Ana sayfanın ilk bölümleri tamamlandı; tüm bölüm ve iç sayfaların görsel ve hareket eşleşmesi henüz bitmedi.
 
 [Referans site](https://neiden.framer.media/) · [GitHub reposu](https://github.com/omergungor11/neiden-konsept) · [Uygulama planı](docs/IMPLEMENTATION_PLAN.md) · [Görev kuyruğu](docs/TASKS.json)
 
-![Neiden Konsept — yerel Hero bölümünün desktop QA görüntüsü](qa/H01/hero-desktop-local.png)
+![naiben — yerel Hero bölümünün desktop QA görüntüsü](qa/branding/hero-1440.png)
 
 ## Kurulum
 

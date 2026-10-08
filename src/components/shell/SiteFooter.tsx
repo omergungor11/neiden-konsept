@@ -1,6 +1,7 @@
 import { useLayoutEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { assetUrl } from '../../assets';
+import { brand } from '../../content/brand';
 import { springEase, useMotion } from '../../motion';
 import { FramerCredit, ShellLegal, ShellNavigation } from './ShellParts';
 import './shell.css';
@@ -24,7 +25,7 @@ export function SiteFooter() {
   return <footer ref={ref} className="site-footer" data-section-id="S00-footer">
     <div className="shell-footer-inner">
       <div className="shell-footer-top"><div className="shell-footer-navigation"><ShellNavigation /></div><div className="shell-footer-brand">
-        <svg className="shell-footer-wordmark" viewBox="0 0 999.5094551057571 280" role="img" aria-label="ñeiden"><foreignObject width="100%" height="100%"><p>ñeiden</p></foreignObject></svg>
+        <svg className="shell-footer-wordmark" viewBox="0 0 999.5094551057571 280" role="img" aria-label={brand.name}><foreignObject width="100%" height="100%"><p>{brand.name}</p></foreignObject></svg>
         <p className="shell-footer-tagline" aria-label="built around clarity">{'built around clarity'.split(' ').map((word, wordIndex) => <span className="shell-footer-word" key={word}>{wordIndex > 0 && '\u00a0'}{Array.from(word).map((char, index) => <span data-char key={index} aria-hidden="true">{char}</span>)}</span>)}</p>
         <p className="shell-footer-established">EST. <span>2019</span>&nbsp; LAST UPDATE: <span>Q2 2026</span></p>
       </div></div>

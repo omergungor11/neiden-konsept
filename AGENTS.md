@@ -1,5 +1,7 @@
 # Neiden yeniden üretim çalışma kuralları
 
+Kullanıcının güncel marka tercihi **naiben**. Uygulamanın görünen marka metinleri `src/content/brand.ts` üzerinden yönetilir; bu tercih kaynak Neiden yazısına göre önceliklidir. Referans arşivi ve `neiden-konsept` repo adı korunur. Kullanıcı Vercel deploy'unu ve GitHub repo bağlantısını ayrıca yetkilendirdi.
+
 ## Hedef ve mevcut durum
 
 Referans: https://neiden.framer.media/. Kullanıcı, tüm görünür tasarım, özgün medya, geçiş, scroll ve animasyonların bölüm bölüm ajanlarla yeniden üretilmesini ve Lenis kullanılmasını istedi. Planlama lideri kullanıcı isteğiyle `gpt-6-astra` olarak çalıştırıldı. Vite/React/TypeScript, yerel asset/font adaptörü ve Lenis/GSAP temeli kuruldu. S00 shell, H01 Hero, H02 About ve H03 Services bağımsız QA'dan geçti. H04 Portfolio gerçek App'e entegre, QA sürüyor; H05 More Cases ilk kodu hazır ve H04Q bekliyor. Astra'nın hedefli uygulama haritaları docs/reference altında. Güncel doğrulama için TASKS.json ve qa/ kayıtlarını oku.
@@ -38,4 +40,4 @@ Referans: https://neiden.framer.media/. Kullanıcı, tüm görünür tasarım, �
 - Desktop başlangıç ölçümü 1440×1000/DPR1; mobile kayıt 390×844/DPR1 viewport simülasyonudur. Gerçek touch cihaz testi henüz yapılmadı.
 - Her teslim değişen dosyalar, kullanılan kanıtlar, davranışlar, test sonucu, referans/yerel screenshot ve kalan farkları içerir. Görev teslimini ve bağımsız QA'yı integratör birleştirir.
 - `node scripts/validate-plan.mjs` görev grafiği, kanıt dosyaları ve yerel asset hash'lerini doğrular. Bu komut çalışan sitenin görsel QA'sı değildir.
-- Mevcut aşama yerel planlama/geliştirmedir. Deploy ve gerçek form gönderimi bu aşamanın parçası değildir. İleride gerçek form backend'i kullanıcının istediği servis için ayrı yapılandırılır; referans sahibine test mesajı gönderilmez.
+- Geliştirme sürerken kullanıcı Vercel yayını ve GitHub bağlantısını istedi. Gerçek form gönderimi bu aşamanın parçası değildir. İleride gerçek form backend'i kullanıcının istediği servis için ayrı yapılandırılır; referans sahibine test mesajı gönderilmez.

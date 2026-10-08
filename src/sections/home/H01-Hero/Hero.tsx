@@ -58,7 +58,7 @@ function Intro({ onComplete }: { onComplete: () => void }) {
     <div className={styles.introPanelLeft} data-intro-panel="left" />
     <div className={styles.introPanelRight} data-intro-panel="right" />
     <p className={styles.introMessage} data-intro-message><Characters text={content.tagline} intro /></p>
-    <div className={styles.introBrand} data-intro-brand><IntroEmblem /><span>ñeiden<span className={styles.registered}>®</span></span></div>
+    <div className={styles.introBrand} data-intro-brand><IntroEmblem /><span>{content.wordmark}<span className={styles.registered}>®</span></span></div>
   </div>;
 }
 
@@ -75,7 +75,7 @@ export default function Hero() {
   }, [reducedMotion]);
   return <>
     {intro && <Intro onComplete={completeIntro} />}
-    <section ref={root} className={styles.hero} aria-label="Neiden design studio" data-section="H01" inert={intro}>
+    <section ref={root} className={styles.hero} aria-label={`${content.wordmark} design studio`} data-section="H01" inert={intro}>
       <div className={styles.wrapper} data-hero-wrapper>
         <div className={styles.background} aria-hidden="true" data-hero-video-parallax>
           <div className={styles.backgroundAppear} data-hero-background>

@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { assetUrl } from '../../assets';
+import { brand } from '../../content/brand';
 import { MaskIcon } from '../ui/MaskIcon';
 import { TextSwap } from '../ui/TextSwap';
 
@@ -13,8 +14,8 @@ export const shellLinks = [
 ];
 
 export function ShellBrand({ menu = false, onNavigate }: { menu?: boolean; onNavigate?: () => void }) {
-  return <Link className={`shell-brand ${menu ? 'shell-brand-menu' : ''}`} to="/" onClick={onNavigate} aria-label="Neiden home">
-    <span className="shell-brand-lockup"><img className="shell-brand-mark" src={assetUrl(menu ? 'db63dd750eb3f9e0' : '59bc6ecd4c72944e')} alt="" /><span className="shell-brand-name">ñeiden®</span></span>
+  return <Link className={`shell-brand ${menu ? 'shell-brand-menu' : ''}`} to="/" onClick={onNavigate} aria-label={`${brand.name} home`}>
+    <span className="shell-brand-lockup"><img className="shell-brand-mark" src={assetUrl(menu ? 'db63dd750eb3f9e0' : '59bc6ecd4c72944e')} alt="" /><span className="shell-brand-name">{brand.registeredName}</span></span>
     <span className="shell-brand-badge">Built With Purpose</span>
   </Link>;
 }

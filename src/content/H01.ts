@@ -1,5 +1,7 @@
+import { brand } from './brand';
+
 export const heroContent = {
-  wordmark: 'ñeiden',
+  wordmark: brand.name,
   tagline: 'less noise. more direction.',
   description: 'We help brands make better decisions, build stronger products, and move forward with confidence.',
   videoId: 'c573376cd49df849',
