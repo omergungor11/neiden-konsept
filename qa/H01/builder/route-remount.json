@@ -1,0 +1,14 @@
+{
+  "after": {
+    "intro": false,
+    "overflow": "",
+    "scrollY": 0,
+    "triggers": 3
+  },
+  "during": {
+    "intro": false,
+    "overflow": "",
+    "path": "/",
+    "triggers": 3
+  }
+}

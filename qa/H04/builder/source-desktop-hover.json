@@ -1,0 +1,49 @@
+{
+  "scrollY": 5150,
+  "card": {
+    "x": 40,
+    "y": 5182.46875,
+    "w": 1345,
+    "h": 768
+  },
+  "image": {
+    "x": 40,
+    "y": 5214.46875,
+    "w": 1345,
+    "h": 650
+  },
+  "scale": "none",
+  "overlay": "0",
+  "logo": {
+    "rect": {
+      "x": 673,
+      "y": 5528.46875,
+      "w": 79,
+      "h": 22
+    },
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, -39.5, -11)"
+  },
+  "title": [
+    {
+      "text": "Identity",
+      "opacity": "1",
+      "transform": "none"
+    },
+    {
+      "text": "Through",
+      "opacity": "1",
+      "transform": "none"
+    },
+    {
+      "text": "Visual",
+      "opacity": "1",
+      "transform": "none"
+    },
+    {
+      "text": "Contrast",
+      "opacity": "1",
+      "transform": "none"
+    }
+  ]
+}

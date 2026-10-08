@@ -1,0 +1,5379 @@
+{
+  "1440": {
+    "comparisonCount": 61,
+    "sectionStartDelta": 0.0,
+    "maxDelta": 0.015625,
+    "comparisons": [
+      {
+        "name": "boxed",
+        "source": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 0.0
+        },
+        "local": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "headingWrapper",
+        "source": {
+          "height": 2552.09375,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "local": {
+          "height": 2552.09375,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "sticky",
+        "source": {
+          "height": 596.21875,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "local": {
+          "height": 596.21875,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "inner",
+        "source": {
+          "height": 244.8125,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "local": {
+          "height": 244.8125,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "headingBase",
+        "source": {
+          "height": 170,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "local": {
+          "height": 170,
+          "width": 448.328125,
+          "x": 40,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "label",
+        "source": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 40,
+          "y": 149.99999916113282
+        },
+        "local": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 40,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 1e-06
+        },
+        "max": 1e-06
+      },
+      {
+        "name": "headline",
+        "source": {
+          "height": 126,
+          "width": 448.328125,
+          "x": 40,
+          "y": 194.0
+        },
+        "local": {
+          "height": 126,
+          "width": 448.328125,
+          "x": 40,
+          "y": 194.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "introduction",
+        "source": {
+          "height": 44.8125,
+          "width": 309.296875,
+          "x": 40,
+          "y": 349.99998998046874
+        },
+        "local": {
+          "height": 44.8125,
+          "width": 309.296875,
+          "x": 40,
+          "y": 350.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0,
+          "y": 1e-05
+        },
+        "max": 1e-05
+      },
+      {
+        "name": "cards",
+        "source": {
+          "height": 2552.09375,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 150.0
+        },
+        "local": {
+          "height": 2552.09375,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "facts",
+        "source": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 1.078125
+        },
+        "local": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 1.078125
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "booking",
+        "source": {
+          "height": 12,
+          "width": 112.125,
+          "x": 1272.875,
+          "y": 31.078125
+        },
+        "local": {
+          "height": 12,
+          "width": 112.140625,
+          "x": 1272.859375,
+          "y": 31.078125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.015625,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "delivery",
+        "source": {
+          "height": 12,
+          "width": 120.015625,
+          "x": 652.4921875,
+          "y": 2811.171875
+        },
+        "local": {
+          "height": 12,
+          "width": 120.03125,
+          "x": 652.484375,
+          "y": 2811.171875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.007812,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "section",
+        "source": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 0.0
+        },
+        "local": {
+          "height": 2852.09375,
+          "width": 1425,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1",
+        "source": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 150.0
+        },
+        "local": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 150.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.cardHeader",
+        "source": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 200.0
+        },
+        "local": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 508.328125,
+          "y": 200.0
+        },
+        "local": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 508.328125,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardTitle",
+        "source": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 224.0
+        },
+        "local": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 224.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.media",
+        "source": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 300.0
+        },
+        "local": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 300.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardFooter",
+        "source": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 620.0
+        },
+        "local": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 620.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.copy",
+        "source": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 620.0
+        },
+        "local": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 620.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.description",
+        "source": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 620.0
+        },
+        "local": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 620.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.price",
+        "source": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 508.328125,
+          "y": 729.625
+        },
+        "local": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 508.328125,
+          "y": 729.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 620.0
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 620.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.image1",
+        "source": {
+          "height": 270.0000305175781,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 314.9999963042969
+        },
+        "local": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 315.0
+        },
+        "delta": {
+          "height": -3.1e-05,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 4e-06
+        },
+        "max": 3.1e-05
+      },
+      {
+        "name": "card1.image2",
+        "source": {
+          "height": 269.9999694824219,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 315.0000073222656
+        },
+        "local": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 315.0
+        },
+        "delta": {
+          "height": 3.1e-05,
+          "width": 0.0,
+          "x": 0.0,
+          "y": -7e-06
+        },
+        "max": 3.1e-05
+      },
+      {
+        "name": "card2",
+        "source": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 793.625
+        },
+        "local": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 793.625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.cardHeader",
+        "source": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 843.625
+        },
+        "local": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 843.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 508.328125,
+          "y": 843.625
+        },
+        "local": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 508.328125,
+          "y": 843.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardTitle",
+        "source": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 867.625
+        },
+        "local": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 867.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.media",
+        "source": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 943.625
+        },
+        "local": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 943.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardFooter",
+        "source": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1263.625
+        },
+        "local": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1263.625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.copy",
+        "source": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1263.625
+        },
+        "local": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1263.625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.description",
+        "source": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 1263.625
+        },
+        "local": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 1263.625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.price",
+        "source": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 508.328125,
+          "y": 1373.25
+        },
+        "local": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 508.328125,
+          "y": 1373.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1263.625
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1263.625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.image1",
+        "source": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 958.625
+        },
+        "local": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 958.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.image2",
+        "source": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 958.625
+        },
+        "local": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 958.625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3",
+        "source": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1437.25
+        },
+        "local": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1437.25
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.cardHeader",
+        "source": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1487.25
+        },
+        "local": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1487.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 508.328125,
+          "y": 1487.25
+        },
+        "local": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 508.328125,
+          "y": 1487.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardTitle",
+        "source": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 1511.25
+        },
+        "local": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 1511.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.media",
+        "source": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1587.25
+        },
+        "local": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1587.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardFooter",
+        "source": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1907.25
+        },
+        "local": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 1907.25
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.copy",
+        "source": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1907.25
+        },
+        "local": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1907.25
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.description",
+        "source": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 1907.25
+        },
+        "local": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 1907.25
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.price",
+        "source": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 508.328125,
+          "y": 2016.875
+        },
+        "local": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 508.328125,
+          "y": 2016.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1907.25
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1907.25
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.image1",
+        "source": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1602.25
+        },
+        "local": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1602.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.image2",
+        "source": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1602.25
+        },
+        "local": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1602.25
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4",
+        "source": {
+          "height": 621.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2080.875
+        },
+        "local": {
+          "height": 621.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2080.875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.cardHeader",
+        "source": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2130.875
+        },
+        "local": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2130.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 508.328125,
+          "y": 2130.875
+        },
+        "local": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 508.328125,
+          "y": 2130.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardTitle",
+        "source": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 2154.875
+        },
+        "local": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 2154.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.media",
+        "source": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2230.875
+        },
+        "local": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2230.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardFooter",
+        "source": {
+          "height": 101.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2550.875
+        },
+        "local": {
+          "height": 101.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2550.875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.copy",
+        "source": {
+          "height": 101.21875,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 2550.875
+        },
+        "local": {
+          "height": 101.21875,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 2550.875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.description",
+        "source": {
+          "height": 67.21875,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 2550.875
+        },
+        "local": {
+          "height": 67.21875,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 2550.875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.price",
+        "source": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 508.328125,
+          "y": 2638.09375
+        },
+        "local": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 508.328125,
+          "y": 2638.09375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 2550.875
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 2550.875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.image1",
+        "source": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 2245.875
+        },
+        "local": {
+          "height": 270,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 2245.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.image2",
+        "source": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 2245.875
+        },
+        "local": {
+          "height": 270,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 2245.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      }
+    ]
+  },
+  "390": {
+    "comparisonCount": 61,
+    "sectionStartDelta": 0.0,
+    "maxDelta": 0.015625,
+    "comparisons": [
+      {
+        "name": "boxed",
+        "source": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 0.0
+        },
+        "local": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "headingWrapper",
+        "source": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "local": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "sticky",
+        "source": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "local": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "inner",
+        "source": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "local": {
+          "height": 204,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "headingBase",
+        "source": {
+          "height": 142,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "local": {
+          "height": 142,
+          "width": 335,
+          "x": 20,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "label",
+        "source": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 20,
+          "y": 100.0
+        },
+        "local": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 20,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "headline",
+        "source": {
+          "height": 108,
+          "width": 335,
+          "x": 20,
+          "y": 134.0
+        },
+        "local": {
+          "height": 108,
+          "width": 335,
+          "x": 20,
+          "y": 134.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "introduction",
+        "source": {
+          "height": 42,
+          "width": 323.625,
+          "x": 20,
+          "y": 262.0
+        },
+        "local": {
+          "height": 42,
+          "width": 323.625,
+          "x": 20,
+          "y": 262.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "cards",
+        "source": {
+          "height": 3615.53125,
+          "width": 335,
+          "x": 20,
+          "y": 354.0
+        },
+        "local": {
+          "height": 3615.53125,
+          "width": 335,
+          "x": 20,
+          "y": 354.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "facts",
+        "source": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 1.546875
+        },
+        "local": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 1.546875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "booking",
+        "source": {
+          "height": 12,
+          "width": 112.125,
+          "x": 242.875,
+          "y": 21.546875
+        },
+        "local": {
+          "height": 12,
+          "width": 112.140625,
+          "x": 242.859375,
+          "y": 21.546875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.015625,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "delivery",
+        "source": {
+          "height": 12,
+          "width": 120.015625,
+          "x": 127.4921875,
+          "y": 4029.078125
+        },
+        "local": {
+          "height": 12,
+          "width": 120.03125,
+          "x": 127.484375,
+          "y": 4029.078125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.007812,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "section",
+        "source": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 0.0
+        },
+        "local": {
+          "height": 4069.53125,
+          "width": 375,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1",
+        "source": {
+          "height": 917.78125,
+          "width": 334,
+          "x": 21,
+          "y": 354.0
+        },
+        "local": {
+          "height": 917.78125,
+          "width": 334,
+          "x": 21,
+          "y": 354.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.cardHeader",
+        "source": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 394.0
+        },
+        "local": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 394.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 41,
+          "y": 394.0
+        },
+        "local": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 41,
+          "y": 394.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardTitle",
+        "source": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 418.0
+        },
+        "local": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 418.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.media",
+        "source": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 524.0
+        },
+        "local": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 524.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardFooter",
+        "source": {
+          "height": 277.78125,
+          "width": 334,
+          "x": 21,
+          "y": 954.0
+        },
+        "local": {
+          "height": 277.78125,
+          "width": 334,
+          "x": 21,
+          "y": 954.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.copy",
+        "source": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 1082.78125
+        },
+        "local": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 1082.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.description",
+        "source": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 1082.78125
+        },
+        "local": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 1082.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.price",
+        "source": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 41,
+          "y": 1217.78125
+        },
+        "local": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 41,
+          "y": 1217.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.tags",
+        "source": {
+          "height": 98.78125,
+          "width": 334,
+          "x": 21,
+          "y": 954.0
+        },
+        "local": {
+          "height": 98.78125,
+          "width": 334,
+          "x": 21,
+          "y": 954.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.image1",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 523.9999805523443
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 524.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 1.9e-05
+        },
+        "max": 1.9e-05
+      },
+      {
+        "name": "card1.image2",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 724.0
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 724.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2",
+        "source": {
+          "height": 952.375,
+          "width": 334,
+          "x": 21,
+          "y": 1271.78125
+        },
+        "local": {
+          "height": 952.375,
+          "width": 334,
+          "x": 21,
+          "y": 1271.78125
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.cardHeader",
+        "source": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 1311.78125
+        },
+        "local": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 1311.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 41,
+          "y": 1311.78125
+        },
+        "local": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 41,
+          "y": 1311.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardTitle",
+        "source": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 1335.78125
+        },
+        "local": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 1335.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.media",
+        "source": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 1441.78125
+        },
+        "local": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 1441.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardFooter",
+        "source": {
+          "height": 312.375,
+          "width": 334,
+          "x": 21,
+          "y": 1871.78125
+        },
+        "local": {
+          "height": 312.375,
+          "width": 334,
+          "x": 21,
+          "y": 1871.78125
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.copy",
+        "source": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 2035.15625
+        },
+        "local": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 2035.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.description",
+        "source": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 2035.15625
+        },
+        "local": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 2035.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.price",
+        "source": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 41,
+          "y": 2170.15625
+        },
+        "local": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 41,
+          "y": 2170.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.tags",
+        "source": {
+          "height": 133.375,
+          "width": 334,
+          "x": 21,
+          "y": 1871.78125
+        },
+        "local": {
+          "height": 133.375,
+          "width": 334,
+          "x": 21,
+          "y": 1871.78125
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.image1",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 1441.78125
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 1441.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.image2",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 1641.78125
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 1641.78125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3",
+        "source": {
+          "height": 883.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2224.15625
+        },
+        "local": {
+          "height": 883.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2224.15625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.cardHeader",
+        "source": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 2264.15625
+        },
+        "local": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 2264.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 41,
+          "y": 2264.15625
+        },
+        "local": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 41,
+          "y": 2264.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardTitle",
+        "source": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 2288.15625
+        },
+        "local": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 2288.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.media",
+        "source": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 2394.15625
+        },
+        "local": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 2394.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardFooter",
+        "source": {
+          "height": 243.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2824.15625
+        },
+        "local": {
+          "height": 243.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2824.15625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.copy",
+        "source": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 2918.34375
+        },
+        "local": {
+          "height": 149,
+          "width": 334,
+          "x": 21,
+          "y": 2918.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.description",
+        "source": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 2918.34375
+        },
+        "local": {
+          "height": 105,
+          "width": 294,
+          "x": 41,
+          "y": 2918.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.price",
+        "source": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 41,
+          "y": 3053.34375
+        },
+        "local": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 41,
+          "y": 3053.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2824.15625
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 334,
+          "x": 21,
+          "y": 2824.15625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.image1",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 2394.15625
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 2394.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.image2",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 2594.15625
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 2594.15625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4",
+        "source": {
+          "height": 862.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3107.34375
+        },
+        "local": {
+          "height": 862.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3107.34375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.cardHeader",
+        "source": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 3147.34375
+        },
+        "local": {
+          "height": 100,
+          "width": 334,
+          "x": 21,
+          "y": 3147.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 41,
+          "y": 3147.34375
+        },
+        "local": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 41,
+          "y": 3147.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardTitle",
+        "source": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 3171.34375
+        },
+        "local": {
+          "height": 70,
+          "width": 314,
+          "x": 41,
+          "y": 3171.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.media",
+        "source": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 3277.34375
+        },
+        "local": {
+          "height": 400,
+          "width": 334,
+          "x": 21,
+          "y": 3277.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardFooter",
+        "source": {
+          "height": 222.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3707.34375
+        },
+        "local": {
+          "height": 222.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3707.34375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.copy",
+        "source": {
+          "height": 128,
+          "width": 334,
+          "x": 21,
+          "y": 3801.53125
+        },
+        "local": {
+          "height": 128,
+          "width": 334,
+          "x": 21,
+          "y": 3801.53125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.description",
+        "source": {
+          "height": 84,
+          "width": 294,
+          "x": 41,
+          "y": 3801.53125
+        },
+        "local": {
+          "height": 84,
+          "width": 294,
+          "x": 41,
+          "y": 3801.53125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.price",
+        "source": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 41,
+          "y": 3915.53125
+        },
+        "local": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 41,
+          "y": 3915.53125
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3707.34375
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 334,
+          "x": 21,
+          "y": 3707.34375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.image1",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 3277.34375
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 3277.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.image2",
+        "source": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 3477.34375
+        },
+        "local": {
+          "height": 200,
+          "width": 334,
+          "x": 21,
+          "y": 3477.34375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      }
+    ]
+  },
+  "810": {
+    "comparisonCount": 60,
+    "sectionStartDelta": -12.1875,
+    "maxDelta": 78.65625,
+    "comparisons": [
+      {
+        "name": "boxed",
+        "source": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 0
+        },
+        "local": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "headingWrapper",
+        "source": {
+          "height": 158,
+          "width": 715,
+          "x": 40,
+          "y": 100
+        },
+        "local": {
+          "height": 158,
+          "width": 715,
+          "x": 40,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "sticky",
+        "source": {
+          "height": 158,
+          "width": 715,
+          "x": 40,
+          "y": 100
+        },
+        "local": {
+          "height": 158,
+          "width": 715,
+          "x": 40,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "inner",
+        "source": {
+          "height": 86,
+          "width": 357.5,
+          "x": 40,
+          "y": 100
+        },
+        "local": {
+          "height": 86,
+          "width": 357.5,
+          "x": 40,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "label",
+        "source": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 40,
+          "y": 100
+        },
+        "local": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 40,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "headline",
+        "source": {
+          "height": 108,
+          "width": 278.84375,
+          "x": 397.5,
+          "y": 100
+        },
+        "local": {
+          "height": 108,
+          "width": 357.5,
+          "x": 397.5,
+          "y": 100.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 78.65625,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 78.65625
+      },
+      {
+        "name": "introduction",
+        "source": {
+          "height": 42,
+          "width": 323.625,
+          "x": 40,
+          "y": 144
+        },
+        "local": {
+          "height": 42,
+          "width": 323.625,
+          "x": 40,
+          "y": 144.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "cards",
+        "source": {
+          "height": 2512,
+          "width": 715,
+          "x": 40,
+          "y": 258
+        },
+        "local": {
+          "height": 2512,
+          "width": 715,
+          "x": 40,
+          "y": 258.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "facts",
+        "source": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 1.140625
+        },
+        "local": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 1.140625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "booking",
+        "source": {
+          "height": 12,
+          "width": 112.125,
+          "x": 642.875,
+          "y": 31.140625
+        },
+        "local": {
+          "height": 12,
+          "width": 112.140625,
+          "x": 642.859375,
+          "y": 31.140625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.015625,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "delivery",
+        "source": {
+          "height": 12,
+          "width": 120.015625,
+          "x": 337.4921875,
+          "y": 2979.140625
+        },
+        "local": {
+          "height": 12,
+          "width": 120.03125,
+          "x": 337.484375,
+          "y": 2979.140625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.007812,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "section",
+        "source": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 0
+        },
+        "local": {
+          "height": 3020,
+          "width": 795,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1",
+        "source": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 258
+        },
+        "local": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 258.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardHeader",
+        "source": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 308
+        },
+        "local": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 308.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 61,
+          "y": 308
+        },
+        "local": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 61,
+          "y": 308.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardTitle",
+        "source": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 332
+        },
+        "local": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 332.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.media",
+        "source": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 398
+        },
+        "local": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 398.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardFooter",
+        "source": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 718
+        },
+        "local": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 718.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.copy",
+        "source": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 718
+        },
+        "local": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 718.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.description",
+        "source": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 718
+        },
+        "local": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 718.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.price",
+        "source": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 61,
+          "y": 822
+        },
+        "local": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 61,
+          "y": 822.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.tags",
+        "source": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 718
+        },
+        "local": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 718.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.image1",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 413
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 413.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.image2",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 413
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 413.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2",
+        "source": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 886
+        },
+        "local": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 886.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardHeader",
+        "source": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 936
+        },
+        "local": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 936.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 61,
+          "y": 936
+        },
+        "local": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 61,
+          "y": 936.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardTitle",
+        "source": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 960
+        },
+        "local": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 960.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.media",
+        "source": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 1026
+        },
+        "local": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 1026.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardFooter",
+        "source": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 1346
+        },
+        "local": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 1346.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.copy",
+        "source": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 1346
+        },
+        "local": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 1346.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.description",
+        "source": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 1346
+        },
+        "local": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 1346.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.price",
+        "source": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 61,
+          "y": 1450
+        },
+        "local": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 61,
+          "y": 1450.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 357,
+          "x": 398,
+          "y": 1346
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 357,
+          "x": 398,
+          "y": 1346.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.image1",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 1041.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 1041.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.image2",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 1041.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 1041.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3",
+        "source": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 1514
+        },
+        "local": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 1514.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardHeader",
+        "source": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 1564
+        },
+        "local": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 1564.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 61,
+          "y": 1564
+        },
+        "local": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 61,
+          "y": 1564.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardTitle",
+        "source": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 1588
+        },
+        "local": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 1588.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.media",
+        "source": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 1654
+        },
+        "local": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 1654.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardFooter",
+        "source": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 1974
+        },
+        "local": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 1974.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.copy",
+        "source": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 1974
+        },
+        "local": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 1974.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.description",
+        "source": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 1974
+        },
+        "local": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 1974.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.price",
+        "source": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 61,
+          "y": 2078
+        },
+        "local": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 61,
+          "y": 2078.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.tags",
+        "source": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 1974
+        },
+        "local": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 1974.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.image1",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 1669.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 1669.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.image2",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 1669.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 1669.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4",
+        "source": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 2142
+        },
+        "local": {
+          "height": 628,
+          "width": 714,
+          "x": 41,
+          "y": 2142.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardHeader",
+        "source": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 2192
+        },
+        "local": {
+          "height": 70,
+          "width": 714,
+          "x": 41,
+          "y": 2192.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 61,
+          "y": 2192
+        },
+        "local": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 61,
+          "y": 2192.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardTitle",
+        "source": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 2216
+        },
+        "local": {
+          "height": 40,
+          "width": 694,
+          "x": 61,
+          "y": 2216.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.media",
+        "source": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 2282
+        },
+        "local": {
+          "height": 300,
+          "width": 714,
+          "x": 41,
+          "y": 2282.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardFooter",
+        "source": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 2602
+        },
+        "local": {
+          "height": 118,
+          "width": 714,
+          "x": 41,
+          "y": 2602.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.copy",
+        "source": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 2602
+        },
+        "local": {
+          "height": 118,
+          "width": 357,
+          "x": 41,
+          "y": 2602.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.description",
+        "source": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 2602
+        },
+        "local": {
+          "height": 84,
+          "width": 317,
+          "x": 61,
+          "y": 2602.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.price",
+        "source": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 61,
+          "y": 2706
+        },
+        "local": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 61,
+          "y": 2706.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.tags",
+        "source": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 2602
+        },
+        "local": {
+          "height": 98.78125,
+          "width": 357,
+          "x": 398,
+          "y": 2602.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.image1",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 2297.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 41,
+          "y": 2297.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.image2",
+        "source": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 2297.0
+        },
+        "local": {
+          "height": 270,
+          "width": 357,
+          "x": 398,
+          "y": 2297.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0
+      }
+    ],
+    "semanticHeadlineWidthDifference": 78.65625,
+    "visibleTitleGlyphMaxDelta": 0,
+    "layoutMaxDeltaExcludingSemanticHeadlineWidth": 0.015625
+  },
+  "1620": {
+    "comparisonCount": 61,
+    "sectionStartDelta": 0.0,
+    "maxDelta": 0.015625,
+    "comparisons": [
+      {
+        "name": "boxed",
+        "source": {
+          "height": 3224.875,
+          "width": 1550,
+          "x": 27.5,
+          "y": 0.0
+        },
+        "local": {
+          "height": 3224.875,
+          "width": 1550,
+          "x": 27.5,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "headingWrapper",
+        "source": {
+          "height": 2824.875,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "local": {
+          "height": 2824.875,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "sticky",
+        "source": {
+          "height": 652.21875,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "local": {
+          "height": 652.21875,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "inner",
+        "source": {
+          "height": 300.8125,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "local": {
+          "height": 300.8125,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "headingBase",
+        "source": {
+          "height": 226,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "local": {
+          "height": 226,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "label",
+        "source": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "local": {
+          "height": 14,
+          "width": 246.546875,
+          "x": 27.5,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "headline",
+        "source": {
+          "height": 162,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 264.0
+        },
+        "local": {
+          "height": 162,
+          "width": 516.65625,
+          "x": 27.5,
+          "y": 264.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "introduction",
+        "source": {
+          "height": 44.8125,
+          "width": 345.1875,
+          "x": 27.5,
+          "y": 456.0
+        },
+        "local": {
+          "height": 44.8125,
+          "width": 345.1875,
+          "x": 27.5,
+          "y": 456.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "cards",
+        "source": {
+          "height": 2824.875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 200.0
+        },
+        "local": {
+          "height": 2824.875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "facts",
+        "source": {
+          "height": 3224.875,
+          "width": 1550,
+          "x": 27.5,
+          "y": 1.21875
+        },
+        "local": {
+          "height": 3224.875,
+          "width": 1550,
+          "x": 27.5,
+          "y": 1.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "booking",
+        "source": {
+          "height": 12,
+          "width": 112.125,
+          "x": 1465.375,
+          "y": 31.21875
+        },
+        "local": {
+          "height": 12,
+          "width": 112.140625,
+          "x": 1465.359375,
+          "y": 31.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.015625,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "delivery",
+        "source": {
+          "height": 12,
+          "width": 120.015625,
+          "x": 742.4921875,
+          "y": 3184.09375
+        },
+        "local": {
+          "height": 12,
+          "width": 120.03125,
+          "x": 742.484375,
+          "y": 3184.09375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.015625,
+          "x": -0.007812,
+          "y": 0.0
+        },
+        "max": 0.015625
+      },
+      {
+        "name": "section",
+        "source": {
+          "height": 3224.875,
+          "width": 1605,
+          "x": 0,
+          "y": 0.0
+        },
+        "local": {
+          "height": 3224.875,
+          "width": 1605,
+          "x": 0,
+          "y": 0.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1",
+        "source": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 200.0
+        },
+        "local": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 200.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.cardHeader",
+        "source": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 275.0
+        },
+        "local": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 275.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 584.15625,
+          "y": 275.0
+        },
+        "local": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 584.15625,
+          "y": 275.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardTitle",
+        "source": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 299.0
+        },
+        "local": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 299.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.media",
+        "source": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 405.0
+        },
+        "local": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 405.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.cardFooter",
+        "source": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 745.0
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 745.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.copy",
+        "source": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 745.0
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 745.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.description",
+        "source": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 745.0
+        },
+        "local": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 745.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.price",
+        "source": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 584.15625,
+          "y": 842.21875
+        },
+        "local": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 584.15625,
+          "y": 842.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 745.0
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 745.0
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card1.image1",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 405.0
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 405.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card1.image2",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 405.0
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 405.0
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2",
+        "source": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 906.21875
+        },
+        "local": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 906.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.cardHeader",
+        "source": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 981.21875
+        },
+        "local": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 981.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 584.15625,
+          "y": 981.21875
+        },
+        "local": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 584.15625,
+          "y": 981.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardTitle",
+        "source": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 1005.21875
+        },
+        "local": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 1005.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.media",
+        "source": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1111.21875
+        },
+        "local": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1111.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.cardFooter",
+        "source": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1451.21875
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1451.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.copy",
+        "source": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1451.21875
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1451.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.description",
+        "source": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 1451.21875
+        },
+        "local": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 1451.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.price",
+        "source": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 584.15625,
+          "y": 1548.4375
+        },
+        "local": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 584.15625,
+          "y": 1548.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1451.21875
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1451.21875
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card2.image1",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1111.21875
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1111.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card2.image2",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1111.21875
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1111.21875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3",
+        "source": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1612.4375
+        },
+        "local": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1612.4375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.cardHeader",
+        "source": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1687.4375
+        },
+        "local": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1687.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 584.15625,
+          "y": 1687.4375
+        },
+        "local": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 584.15625,
+          "y": 1687.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardTitle",
+        "source": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 1711.4375
+        },
+        "local": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 1711.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.media",
+        "source": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1817.4375
+        },
+        "local": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 1817.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.cardFooter",
+        "source": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2157.4375
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2157.4375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.copy",
+        "source": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2157.4375
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2157.4375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.description",
+        "source": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 2157.4375
+        },
+        "local": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 2157.4375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.price",
+        "source": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 584.15625,
+          "y": 2254.65625
+        },
+        "local": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 584.15625,
+          "y": 2254.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2157.4375
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2157.4375
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card3.image1",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1817.4375
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 1817.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card3.image2",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1817.4375
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 1817.4375
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4",
+        "source": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2318.65625
+        },
+        "local": {
+          "height": 706.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2318.65625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.cardHeader",
+        "source": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2393.65625
+        },
+        "local": {
+          "height": 90,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2393.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.eyebrow",
+        "source": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 584.15625,
+          "y": 2393.65625
+        },
+        "local": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 584.15625,
+          "y": 2393.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardTitle",
+        "source": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 2417.65625
+        },
+        "local": {
+          "height": 60,
+          "width": 993.34375,
+          "x": 584.15625,
+          "y": 2417.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.media",
+        "source": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2523.65625
+        },
+        "local": {
+          "height": 300,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2523.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.cardFooter",
+        "source": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2863.65625
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 1033.34375,
+          "x": 544.15625,
+          "y": 2863.65625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.copy",
+        "source": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2863.65625
+        },
+        "local": {
+          "height": 111.21875,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2863.65625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.description",
+        "source": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 2863.65625
+        },
+        "local": {
+          "height": 67.21875,
+          "width": 436.671875,
+          "x": 584.15625,
+          "y": 2863.65625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.price",
+        "source": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 584.15625,
+          "y": 2960.875
+        },
+        "local": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 584.15625,
+          "y": 2960.875
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.tags",
+        "source": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2863.65625
+        },
+        "local": {
+          "height": 64.1875,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2863.65625
+        },
+        "delta": {
+          "height": 0.0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0.0
+      },
+      {
+        "name": "card4.image1",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2523.65625
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 544.15625,
+          "y": 2523.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      },
+      {
+        "name": "card4.image2",
+        "source": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2523.65625
+        },
+        "local": {
+          "height": 300,
+          "width": 516.671875,
+          "x": 1060.828125,
+          "y": 2523.65625
+        },
+        "delta": {
+          "height": 0,
+          "width": 0.0,
+          "x": 0.0,
+          "y": 0.0
+        },
+        "max": 0
+      }
+    ]
+  }
+}

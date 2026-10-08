@@ -1,0 +1,20 @@
+[
+  {
+    "source_url": "https://framerusercontent.com/sites/5jh5M3MGcAlQTTsDKESN29/framer.B48xgVro.mjs",
+    "local_path": "docs/reference/raw/runtime-evidence/framer.B48xgVro.mjs",
+    "bytes": 533398,
+    "sha256": "a5790671186449012114b88bb9a5cc6a2a5a3a0c22d260b1f87713ba55cbd119",
+    "mime": "text/javascript",
+    "status": "downloaded",
+    "purpose": "Yalnızca hareket ayarlarındaki hız/eşik semantiğinin kaynak kanıtı; yeniden kurulacak uygulama kaynağı değildir."
+  },
+  {
+    "source_url": "https://framerusercontent.com/sites/5jh5M3MGcAlQTTsDKESN29/motion.CMrxPru4.mjs",
+    "local_path": "docs/reference/raw/runtime-evidence/motion.CMrxPru4.mjs",
+    "bytes": 151570,
+    "sha256": "bd27c78ca98529a68ba28b77dd4f9e67521af8501d62ac8cc5cae1c9433cb622",
+    "mime": "text/javascript",
+    "status": "downloaded",
+    "purpose": "Yalnızca hareket ayarlarındaki hız/eşik semantiğinin kaynak kanıtı; yeniden kurulacak uygulama kaynağı değildir."
+  }
+]

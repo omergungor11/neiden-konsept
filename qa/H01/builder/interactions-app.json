@@ -1,0 +1,89 @@
+{
+  "button": {
+    "angle": "-180deg",
+    "background": "rgb(240, 43, 66)",
+    "focused": true,
+    "href": "/contacts",
+    "iconWidth": "20px",
+    "mask": "url(\"http://127.0.0.1:5173/assets/resolved-svg/9d550f944aa94749.svg\")",
+    "radius": "0px"
+  },
+  "glitch": {
+    "after": [
+      {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      {
+        "opacity": "0",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      }
+    ],
+    "during": [
+      {
+        "clip": "polygon(100% 65%, 100% 97%, 0% 97%, 0% 65%)",
+        "opacity": "1"
+      },
+      {
+        "clip": "polygon(100% 59%, 100% 82%, 0% 82%, 0% 59%)",
+        "opacity": "1"
+      },
+      {
+        "clip": "polygon(100% 14%, 100% 37%, 0% 37%, 0% 14%)",
+        "opacity": "1"
+      },
+      {
+        "clip": "polygon(100% 15%, 100% 39%, 0% 39%, 0% 15%)",
+        "opacity": "1"
+      }
+    ]
+  },
+  "playback": {
+    "afterTime": 19.916306,
+    "beforeTime": 19.384269,
+    "paused": false
+  },
+  "scroll": {
+    "layers": [
+      {
+        "factor": "-0.05",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -5)"
+      },
+      {
+        "factor": "-0.15",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -15)"
+      },
+      {
+        "factor": "-0.1",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -10)"
+      },
+      {
+        "factor": "-0.05",
+        "opacity": "1",
+        "transform": "matrix(1, 0, 0, 1, 0, -5)"
+      }
+    ],
+    "maximum": 395,
+    "video": {
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 20)"
+    },
+    "wrapper": {
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, -37.9747)"
+    },
+    "y": 100
+  },
+  "triggers": 3
+}

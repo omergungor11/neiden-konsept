@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "complete": true,
+      "currentSrc": "https://framerusercontent.com/images/H7n1L97Ku2shlmdqtD0ivHx34Dk.png?scale-down-to=512&width=2400&height=1600",
+      "fit": "cover",
+      "naturalHeight": 213,
+      "naturalWidth": 320,
+      "sizes": "(min-width: 1620px) 320px, (min-width: 1200px) and (max-width: 1619.98px) 320px, (max-width: 809.98px) max(max(max(min(min(100vw, 1550px) - 40px, 1550px), 1px), 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) 320px"
+    },
+    {
+      "complete": true,
+      "currentSrc": "https://framerusercontent.com/images/ntx4RF0pVgkv50EiHx03cgEVBeA.png?scale-down-to=1024&width=2400&height=1600",
+      "fit": "cover",
+      "naturalHeight": 213,
+      "naturalWidth": 320,
+      "sizes": "(min-width: 1620px) 320px, (min-width: 1200px) and (max-width: 1619.98px) 320px, (max-width: 809.98px) max(max(max(min(min(100vw, 1550px) - 40px, 1550px), 1px), 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) 320px"
+    },
+    {
+      "complete": true,
+      "currentSrc": "https://framerusercontent.com/images/S5SlUxzXWxG7YPWY61P4MrOl23Q.png?scale-down-to=1024&width=2400&height=1600",
+      "fit": "cover",
+      "naturalHeight": 213,
+      "naturalWidth": 320,
+      "sizes": "(min-width: 1620px) 320px, (min-width: 1200px) and (max-width: 1619.98px) 320px, (max-width: 809.98px) max(max(max(min(min(100vw, 1550px) - 40px, 1550px), 1px), 50px), 1px), (min-width: 810px) and (max-width: 1199.98px) 320px"
+    }
+  ]
+}

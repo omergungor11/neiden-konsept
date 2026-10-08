@@ -1,0 +1,198 @@
+{
+  "route": "/projects/strategic-thinking-and-brand-foundations-for-dribbble",
+  "targets": [
+    {
+      "appear_id": "8de1us",
+      "tag": "div",
+      "class": "framer-j2JSb framer-ZeQNL framer-yVI7Y framer-s7fXR framer-XBVfF framer-8de1us framer-v-h69t9t",
+      "name": "Closed",
+      "context": "XXL / Closed"
+    },
+    {
+      "appear_id": "8de1us",
+      "tag": "div",
+      "class": "framer-j2JSb framer-ZeQNL framer-yVI7Y framer-s7fXR framer-XBVfF framer-8de1us framer-v-h69t9t",
+      "name": "Closed",
+      "context": "1200 / Closed"
+    },
+    {
+      "appear_id": "8de1us",
+      "tag": "div",
+      "class": "framer-j2JSb framer-ZeQNL framer-yVI7Y framer-s7fXR framer-XBVfF framer-8de1us framer-v-6yw4s2",
+      "name": "Mobile Close",
+      "context": "Mob / Mobile Close"
+    },
+    {
+      "appear_id": "8de1us",
+      "tag": "div",
+      "class": "framer-j2JSb framer-ZeQNL framer-yVI7Y framer-s7fXR framer-XBVfF framer-8de1us framer-v-h69t9t",
+      "name": "Closed",
+      "context": "Tab / Closed"
+    },
+    {
+      "appear_id": "8de1us",
+      "tag": "div",
+      "class": "framer-j2JSb framer-ZeQNL framer-yVI7Y framer-s7fXR framer-XBVfF framer-8de1us framer-v-h69t9t",
+      "name": "Closed",
+      "context": "wide-close / Closed"
+    }
+  ],
+  "appear_animations": {
+    "8de1us": {
+      "default": {
+        "initial": {
+          "opacity": 0.001,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 0
+        },
+        "animate": {
+          "opacity": 1,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transition": {
+            "bounce": 0,
+            "delay": 0,
+            "duration": 0.6,
+            "type": "spring"
+          },
+          "x": 0,
+          "y": 0
+        }
+      },
+      "1jir4y2": {
+        "initial": {
+          "opacity": 0.001,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 0
+        },
+        "animate": {
+          "opacity": 1,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transition": {
+            "bounce": 0,
+            "delay": 0,
+            "duration": 0.6,
+            "type": "spring"
+          },
+          "x": 0,
+          "y": 0
+        }
+      },
+      "1ck9kcc": {
+        "initial": {
+          "opacity": 0.001,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 0
+        },
+        "animate": {
+          "opacity": 1,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transition": {
+            "bounce": 0,
+            "delay": 0,
+            "duration": 0.6,
+            "type": "spring"
+          },
+          "x": 0,
+          "y": 0
+        }
+      },
+      "1uptx3p": {
+        "initial": {
+          "opacity": 0.001,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "x": 0,
+          "y": 0
+        },
+        "animate": {
+          "opacity": 1,
+          "rotate": 0,
+          "rotateX": 0,
+          "rotateY": 0,
+          "scale": 1,
+          "skewX": 0,
+          "skewY": 0,
+          "transition": {
+            "bounce": 0,
+            "delay": 0,
+            "duration": 0.6,
+            "type": "spring"
+          },
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  },
+  "breakpoints": [
+    {
+      "hash": "1prtyzf",
+      "mediaQuery": "(min-width: 1620px)"
+    },
+    {
+      "hash": "5j916r",
+      "mediaQuery": "(min-width: 1200px) and (max-width: 1619.98px)"
+    },
+    {
+      "hash": "e0qdzl",
+      "mediaQuery": "(min-width: 810px) and (max-width: 1199.98px)"
+    },
+    {
+      "hash": "s6jc8f",
+      "mediaQuery": "(max-width: 809.98px)"
+    },
+    {
+      "hash": "1ck9kcc",
+      "mediaQuery": "(max-width: 809.98px)"
+    },
+    {
+      "hash": "1uptx3p",
+      "mediaQuery": "(min-width: 810px) and (max-width: 1199.98px)"
+    },
+    {
+      "hash": "1jir4y2",
+      "mediaQuery": "(min-width: 1200px) and (max-width: 1619.98px)"
+    },
+    {
+      "hash": "1b6wofq",
+      "mediaQuery": "(min-width: 1620px)"
+    }
+  ]
+}

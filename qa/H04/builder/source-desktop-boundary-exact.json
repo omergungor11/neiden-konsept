@@ -1,0 +1,57 @@
+[
+  {
+    "scrollY": 5564,
+    "offsetTop": 6066,
+    "layers": [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 1"
+  },
+  {
+    "scrollY": 5565,
+    "offsetTop": 6066,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 5566,
+    "offsetTop": 6066,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 5565,
+    "offsetTop": 6066,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 5564,
+    "offsetTop": 6066,
+    "layers": [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 1"
+  }
+]

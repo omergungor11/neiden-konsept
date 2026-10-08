@@ -1,0 +1,57 @@
+[
+  {
+    "scrollY": 6492,
+    "offsetTop": 6916,
+    "layers": [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 1"
+  },
+  {
+    "scrollY": 6493,
+    "offsetTop": 6916,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 6494,
+    "offsetTop": 6916,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 6493,
+    "offsetTop": 6916,
+    "layers": [
+      "0",
+      "1",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 2"
+  },
+  {
+    "scrollY": 6492,
+    "offsetTop": 6916,
+    "layers": [
+      "1",
+      "0",
+      "0",
+      "0"
+    ],
+    "variant": "Variant 1"
+  }
+]

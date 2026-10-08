@@ -1,0 +1,4104 @@
+{
+  "documentWidth": 375,
+  "fonts": "loaded",
+  "lenisStopped": false,
+  "nodes": [
+    {
+      "class": "_services_11o8w_1",
+      "data": {
+        "section": "H03",
+        "servicesVariant": "phone"
+      },
+      "rect": {
+        "height": 4069.53125,
+        "width": 375,
+        "x": 0,
+        "y": 1624.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "SECTION"
+    },
+    {
+      "class": "_gridLines_11o8w_44",
+      "data": {},
+      "rect": {
+        "height": 4069.53125,
+        "width": 375,
+        "x": 0,
+        "y": 1624.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 4069.53125,
+        "width": 335,
+        "x": 20,
+        "y": 1624.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "I"
+    },
+    {
+      "class": "_boxed_11o8w_2",
+      "data": {},
+      "rect": {
+        "height": 4069.53125,
+        "width": 375,
+        "x": 0,
+        "y": 1624.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_headingWrapper_11o8w_3",
+      "data": {},
+      "rect": {
+        "height": 204,
+        "width": 335,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_sticky_11o8w_4",
+      "data": {},
+      "rect": {
+        "height": 204,
+        "width": 335,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_inner_11o8w_5",
+      "data": {},
+      "rect": {
+        "height": 204,
+        "width": 335,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_headingBase_11o8w_6",
+      "data": {},
+      "rect": {
+        "height": 142,
+        "width": 335,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_label_11o8w_7",
+      "data": {
+        "servicesAppear": "label"
+      },
+      "rect": {
+        "height": 14,
+        "width": 246.546875,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_wave_11o8w_8",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 40,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 12,
+        "x": 20,
+        "y": 1724.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/494851aaceec8e45.svg",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 10,
+        "x": 32,
+        "y": 1724.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/4c2c83d0cab51864.svg",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 8,
+        "x": 42,
+        "y": 1724.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/706019cfe4ca47f8.svg",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 6,
+        "x": 50,
+        "y": 1724.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/e2678138a494bd36.svg",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 4,
+        "x": 56,
+        "y": 1724.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/c86ef7f79086d779.svg",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_labelText_11o8w_10",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 191.546875,
+        "x": 75,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 4.453125,
+        "x": 75,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "["
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 25.3125,
+        "x": 81.453125,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "ND®"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 7.625,
+        "x": 108.765625,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "‒"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 71.375,
+        "x": 118.390625,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "SERVICES / "
+    },
+    {
+      "class": "_translation_11o8w_11",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 68.328125,
+        "x": 191.765625,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "思想と実行"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 4.453125,
+        "x": 262.09375,
+        "y": 1724.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "]"
+    },
+    {
+      "class": "_headline_11o8w_12",
+      "data": {
+        "servicesTitle": "true"
+      },
+      "rect": {
+        "height": 108,
+        "width": 335,
+        "x": 20,
+        "y": 1758.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "letterSpacing": "-3.6px",
+        "lineHeight": "54px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "H2"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesTitleLine": "true"
+      },
+      "rect": {
+        "height": 54,
+        "width": 335,
+        "x": 20,
+        "y": 1758.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "letterSpacing": "-3.6px",
+        "lineHeight": "54px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "What"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesTitleLine": "true"
+      },
+      "rect": {
+        "height": 54,
+        "width": 335,
+        "x": 20,
+        "y": 1812.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "letterSpacing": "-3.6px",
+        "lineHeight": "54px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "We Build"
+    },
+    {
+      "class": "_introduction_11o8w_15",
+      "data": {
+        "servicesAppear": "introduction"
+      },
+      "rect": {
+        "height": 42,
+        "width": 323.625,
+        "x": 20,
+        "y": 1886.78125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.75px",
+        "lineHeight": "21px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "Four core disciplines. One clear goal: helping brands communicate, grow, and stay memorable."
+    },
+    {
+      "class": "_cards_11o8w_25",
+      "data": {},
+      "rect": {
+        "height": 3615.53125,
+        "width": 335,
+        "x": 20,
+        "y": 1978.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_card_11o8w_25",
+      "data": {
+        "servicesCard": "0"
+      },
+      "rect": {
+        "height": 917.78125,
+        "width": 334,
+        "x": 21,
+        "y": 1978.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "ARTICLE"
+    },
+    {
+      "class": "_cardHeader_11o8w_29",
+      "data": {},
+      "rect": {
+        "height": 100,
+        "width": 334,
+        "x": 21,
+        "y": 2018.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "HEADER"
+    },
+    {
+      "class": "_eyebrow_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 105.734375,
+        "x": 41,
+        "y": 2018.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 34.40625,
+        "x": 41,
+        "y": 2018.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "001. /"
+    },
+    {
+      "class": "_translation_11o8w_11",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 68.328125,
+        "x": 78.40625,
+        "y": 2018.78125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "物語と個性"
+    },
+    {
+      "class": "_cardTitle_11o8w_31",
+      "data": {
+        "servicesCardTitle": "true"
+      },
+      "rect": {
+        "height": 70,
+        "width": 314,
+        "x": 41,
+        "y": 2042.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "H3",
+      "text": "   "
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 90.96875,
+        "x": 41,
+        "y": 2042.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "tag": "SPAN",
+      "text": "Brand"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 166.859375,
+        "x": 138.765625,
+        "y": 2042.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "tag": "SPAN",
+      "text": "Positioning"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 25.109375,
+        "x": 312.421875,
+        "y": 2042.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "tag": "SPAN",
+      "text": "&"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 118.96875,
+        "x": 41,
+        "y": 2077.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "tag": "SPAN",
+      "text": "Identity"
+    },
+    {
+      "class": "_media_11o8w_33",
+      "data": {},
+      "rect": {
+        "height": 400,
+        "width": 334,
+        "x": 21,
+        "y": 2148.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "0"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 2148.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 2148.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/b4e37c98f01eb324.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_corner_11o8w_36",
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 2148.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(0, -1, 1, 0, 0, 0)"
+      },
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 2148.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "path"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "1"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 2378.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 2378.78125
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/126384f2fddc955b.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_cardFooter_11o8w_37",
+      "data": {},
+      "rect": {
+        "height": 277.78125,
+        "width": 334,
+        "x": 21,
+        "y": 2578.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_copy_11o8w_38",
+      "data": {},
+      "rect": {
+        "height": 149,
+        "width": 334,
+        "x": 21,
+        "y": 2707.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_description_11o8w_15",
+      "data": {},
+      "rect": {
+        "height": 105,
+        "width": 294,
+        "x": 41,
+        "y": 2707.5625
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.75px",
+        "lineHeight": "21px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "We define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency."
+    },
+    {
+      "class": "_price_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 147.828125,
+        "x": 41,
+        "y": 2842.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "Starting From $4500"
+    },
+    {
+      "class": "_tags_11o8w_20",
+      "data": {},
+      "rect": {
+        "height": 98.78125,
+        "width": 334,
+        "x": 21,
+        "y": 2578.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 64.1875,
+        "width": 294,
+        "x": 41,
+        "y": 2578.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 109.046875,
+        "x": 41,
+        "y": 2578.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Visual identity"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 94.609375,
+        "x": 155.046875,
+        "y": 2578.78125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Typography"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 88.28125,
+        "x": 41,
+        "y": 2613.375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Positioning"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 294,
+        "x": 41,
+        "y": 2647.96875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 94.078125,
+        "x": 41,
+        "y": 2647.96875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Logo design"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 83.53125,
+        "x": 140.078125,
+        "y": 2647.96875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Packaging"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 91.4375,
+        "x": 228.609375,
+        "y": 2647.96875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Rebranding"
+    },
+    {
+      "class": "_card_11o8w_25",
+      "data": {
+        "servicesCard": "1"
+      },
+      "rect": {
+        "height": 952.375,
+        "width": 334,
+        "x": 21,
+        "y": 2896.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "ARTICLE"
+    },
+    {
+      "class": "_cardHeader_11o8w_29",
+      "data": {},
+      "rect": {
+        "height": 100,
+        "width": 334,
+        "x": 21,
+        "y": 2936.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "HEADER"
+    },
+    {
+      "class": "_eyebrow_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 108.078125,
+        "x": 41,
+        "y": 2936.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 36.75,
+        "x": 41,
+        "y": 2936.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "002. /"
+    },
+    {
+      "class": "_translation_11o8w_11",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 68.328125,
+        "x": 80.75,
+        "y": 2936.5625
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "体験と設計"
+    },
+    {
+      "class": "_cardTitle_11o8w_31",
+      "data": {
+        "servicesCardTitle": "true"
+      },
+      "rect": {
+        "height": 70,
+        "width": 314,
+        "x": 41,
+        "y": 2960.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "H3",
+      "text": "  "
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 122.640625,
+        "x": 41,
+        "y": 3010.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Product"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 171.859375,
+        "x": 170.4375,
+        "y": 3010.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Experience"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 103.921875,
+        "x": 41,
+        "y": 3045.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Design"
+    },
+    {
+      "class": "_media_11o8w_33",
+      "data": {},
+      "rect": {
+        "height": 400,
+        "width": 334,
+        "x": 21,
+        "y": 3066.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "0"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 3096.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 3096.5625
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/f79a50e46cc39fef.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_corner_11o8w_36",
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 3096.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(0, -1, 1, 0, 0, 0)"
+      },
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 3096.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "path"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "1"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 3296.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 3296.5625
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/7f49494a516e9351.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_cardFooter_11o8w_37",
+      "data": {},
+      "rect": {
+        "height": 312.375,
+        "width": 334,
+        "x": 21,
+        "y": 3496.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_copy_11o8w_38",
+      "data": {},
+      "rect": {
+        "height": 149,
+        "width": 334,
+        "x": 21,
+        "y": 3659.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_description_11o8w_15",
+      "data": {},
+      "rect": {
+        "height": 105,
+        "width": 294,
+        "x": 41,
+        "y": 3659.9375
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.75px",
+        "lineHeight": "21px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "We design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions."
+    },
+    {
+      "class": "_price_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 147.28125,
+        "x": 41,
+        "y": 3794.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "Starting From $3500"
+    },
+    {
+      "class": "_tags_11o8w_20",
+      "data": {},
+      "rect": {
+        "height": 133.375,
+        "width": 334,
+        "x": 21,
+        "y": 3496.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 64.1875,
+        "width": 294,
+        "x": 41,
+        "y": 3496.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 82.71875,
+        "x": 41,
+        "y": 3496.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "UX Design"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 88.578125,
+        "x": 128.71875,
+        "y": 3496.5625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "UI Systems"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 126.46875,
+        "x": 41,
+        "y": 3531.15625
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Product Strategy"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 64.1875,
+        "width": 294,
+        "x": 41,
+        "y": 3565.75
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 97.25,
+        "x": 41,
+        "y": 3565.75
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Wireframing"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 93.34375,
+        "x": 143.25,
+        "y": 3565.75
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Prototyping"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 105.921875,
+        "x": 41,
+        "y": 3600.34375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Design Audits"
+    },
+    {
+      "class": "_card_11o8w_25",
+      "data": {
+        "servicesCard": "2"
+      },
+      "rect": {
+        "height": 883.1875,
+        "width": 334,
+        "x": 21,
+        "y": 3848.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "ARTICLE"
+    },
+    {
+      "class": "_cardHeader_11o8w_29",
+      "data": {},
+      "rect": {
+        "height": 100,
+        "width": 334,
+        "x": 21,
+        "y": 3888.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "HEADER"
+    },
+    {
+      "class": "_eyebrow_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 108.390625,
+        "x": 41,
+        "y": 3888.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 37.0625,
+        "x": 41,
+        "y": 3888.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "003. /"
+    },
+    {
+      "class": "_translation_11o8w_11",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 68.328125,
+        "x": 81.0625,
+        "y": 3888.9375
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "影響と発信"
+    },
+    {
+      "class": "_cardTitle_11o8w_31",
+      "data": {
+        "servicesCardTitle": "true"
+      },
+      "rect": {
+        "height": 70,
+        "width": 314,
+        "x": 41,
+        "y": 3912.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "H3",
+      "text": "   "
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 90.65625,
+        "x": 41,
+        "y": 3962.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Social"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 143.125,
+        "x": 138.453125,
+        "y": 3962.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Presence"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 25.109375,
+        "x": 288.375,
+        "y": 3962.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "&"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 126.5625,
+        "x": 41,
+        "y": 3997.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Content"
+    },
+    {
+      "class": "_media_11o8w_33",
+      "data": {},
+      "rect": {
+        "height": 400,
+        "width": 334,
+        "x": 21,
+        "y": 4018.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "0"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4048.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4048.9375
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/e3d836d3acb34f48.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_corner_11o8w_36",
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 4048.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(0, -1, 1, 0, 0, 0)"
+      },
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 4048.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "path"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "1"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4248.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4248.9375
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/f185fe2c06ca8daa.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_cardFooter_11o8w_37",
+      "data": {},
+      "rect": {
+        "height": 243.1875,
+        "width": 334,
+        "x": 21,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_copy_11o8w_38",
+      "data": {},
+      "rect": {
+        "height": 149,
+        "width": 334,
+        "x": 21,
+        "y": 4543.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_description_11o8w_15",
+      "data": {},
+      "rect": {
+        "height": 105,
+        "width": 294,
+        "x": 41,
+        "y": 4543.125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.75px",
+        "lineHeight": "21px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "We create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth."
+    },
+    {
+      "class": "_price_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 146.90625,
+        "x": 41,
+        "y": 4678.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "Starting From $2500"
+    },
+    {
+      "class": "_tags_11o8w_20",
+      "data": {},
+      "rect": {
+        "height": 64.1875,
+        "width": 334,
+        "x": 21,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 294,
+        "x": 41,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 73.578125,
+        "x": 41,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Strategy"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 79.453125,
+        "x": 119.578125,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Creatives"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 99.296875,
+        "x": 204.03125,
+        "y": 4448.9375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Art Direction"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 294,
+        "x": 41,
+        "y": 4483.53125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 94.375,
+        "x": 41,
+        "y": 4483.53125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Community"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 111.546875,
+        "x": 140.375,
+        "y": 4483.53125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Brand Content"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 51.125,
+        "x": 256.921875,
+        "y": 4483.53125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "SMM"
+    },
+    {
+      "class": "_card_11o8w_25",
+      "data": {
+        "servicesCard": "3"
+      },
+      "rect": {
+        "height": 862.1875,
+        "width": 334,
+        "x": 21,
+        "y": 4732.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "ARTICLE"
+    },
+    {
+      "class": "_cardHeader_11o8w_29",
+      "data": {},
+      "rect": {
+        "height": 100,
+        "width": 334,
+        "x": 21,
+        "y": 4772.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "HEADER"
+    },
+    {
+      "class": "_eyebrow_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 109.078125,
+        "x": 41,
+        "y": 4772.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 37.75,
+        "x": 41,
+        "y": 4772.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "004. /"
+    },
+    {
+      "class": "_translation_11o8w_11",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 68.328125,
+        "x": 81.75,
+        "y": 4772.125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.4)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "検索と成長"
+    },
+    {
+      "class": "_cardTitle_11o8w_31",
+      "data": {
+        "servicesCardTitle": "true"
+      },
+      "rect": {
+        "height": 70,
+        "width": 314,
+        "x": 41,
+        "y": 4796.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "H3",
+      "text": "   "
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 120.375,
+        "x": 41,
+        "y": 4846.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Organic"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 114.59375,
+        "x": 168.171875,
+        "y": 4846.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Growth"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 25.109375,
+        "x": 289.5625,
+        "y": 4846.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "&"
+    },
+    {
+      "class": null,
+      "data": {
+        "servicesWord": "true"
+      },
+      "rect": {
+        "height": 35,
+        "width": 128.984375,
+        "x": 41,
+        "y": 4881.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "35px",
+        "fontWeight": "600",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "35px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0.001",
+        "position": "static",
+        "transform": "matrix(1, 0, 0, 1, 0, 50)"
+      },
+      "tag": "SPAN",
+      "text": "Visibility"
+    },
+    {
+      "class": "_media_11o8w_33",
+      "data": {},
+      "rect": {
+        "height": 400,
+        "width": 334,
+        "x": 21,
+        "y": 4902.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "0"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4932.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 4932.125
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/3f5f2c5518c893c7.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_corner_11o8w_36",
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 4932.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(0, -1, 1, 0, 0, 0)"
+      },
+      "tag": "svg"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 63,
+        "width": 63,
+        "x": 21,
+        "y": 4932.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "path"
+    },
+    {
+      "class": "_imageFrame_11o8w_34",
+      "data": {
+        "servicesImage": "1"
+      },
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 5132.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "0",
+        "position": "relative",
+        "transform": "matrix(1, 0, 0, 1, 0, 30)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 200,
+        "width": 334,
+        "x": 21,
+        "y": 5132.125
+      },
+      "src": "http://127.0.0.1:5173/assets/responsive/9f62cd4c9ef70636.avif",
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "IMG"
+    },
+    {
+      "class": "_cardFooter_11o8w_37",
+      "data": {},
+      "rect": {
+        "height": 222.1875,
+        "width": 334,
+        "x": 21,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_copy_11o8w_38",
+      "data": {},
+      "rect": {
+        "height": 128,
+        "width": 334,
+        "x": 21,
+        "y": 5426.3125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_description_11o8w_15",
+      "data": {},
+      "rect": {
+        "height": 84,
+        "width": 294,
+        "x": 41,
+        "y": 5426.3125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.7)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "-0.75px",
+        "lineHeight": "21px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "We increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth."
+    },
+    {
+      "class": "_price_11o8w_19",
+      "data": {},
+      "rect": {
+        "height": 14,
+        "width": 148.421875,
+        "x": 41,
+        "y": 5540.3125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "Starting From $6000"
+    },
+    {
+      "class": "_tags_11o8w_20",
+      "data": {},
+      "rect": {
+        "height": 64.1875,
+        "width": 334,
+        "x": 21,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 294,
+        "x": 41,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 102.125,
+        "x": 41,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "SEO Strategy"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 107.671875,
+        "x": 148.125,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Technical SEO"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 71.609375,
+        "x": 260.796875,
+        "y": 5332.125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Content"
+    },
+    {
+      "class": "_tagRow_11o8w_41",
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 294,
+        "x": 41,
+        "y": 5366.71875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "UL"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 74.53125,
+        "x": 41,
+        "y": 5366.71875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Keyword"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 100.6875,
+        "x": 120.53125,
+        "y": 5366.71875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Performance"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 29.59375,
+        "width": 78.28125,
+        "x": 226.21875,
+        "y": 5366.71875
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "19.6px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "relative",
+        "transform": "none"
+      },
+      "tag": "LI",
+      "text": "Analytics"
+    },
+    {
+      "class": "_facts_11o8w_20",
+      "data": {},
+      "rect": {
+        "height": 4069.53125,
+        "width": 375,
+        "x": 0,
+        "y": 1626.328125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(1, 0, 0, 1, -187.5, 0)"
+      },
+      "tag": "DIV"
+    },
+    {
+      "class": "_booking_11o8w_49",
+      "data": {},
+      "rect": {
+        "height": 12,
+        "width": 112.140625,
+        "x": 242.859375,
+        "y": 1646.328125
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.24px",
+        "lineHeight": "12px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "none"
+      },
+      "tag": "P",
+      "text": "NOW BOOKING"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 16,
+        "width": 27.28125,
+        "x": 327.71875,
+        "y": 1644.328125
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.24px",
+        "lineHeight": "12px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": " MAY"
+    },
+    {
+      "class": "_delivery_11o8w_51",
+      "data": {},
+      "rect": {
+        "height": 12,
+        "width": 120.03125,
+        "x": 127.484375,
+        "y": 5653.859375
+      },
+      "style": {
+        "color": "rgb(0, 0, 0)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.24px",
+        "lineHeight": "12px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "absolute",
+        "transform": "matrix(1, 0, 0, 1, -60.0156, 0)"
+      },
+      "tag": "P",
+      "text": " 2–4 WEEKS"
+    },
+    {
+      "class": null,
+      "data": {},
+      "rect": {
+        "height": 16,
+        "width": 52.984375,
+        "x": 127.484375,
+        "y": 5651.859375
+      },
+      "style": {
+        "color": "rgba(0, 0, 0, 0.5)",
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "letterSpacing": "-0.24px",
+        "lineHeight": "12px",
+        "mixBlendMode": "normal",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "opacity": "1",
+        "position": "static",
+        "transform": "none"
+      },
+      "tag": "SPAN",
+      "text": "DELIVERY"
+    }
+  ],
+  "scrollY": 1625,
+  "sectionHeight": 4069.53125,
+  "sectionY": 1624.78125,
+  "triggers": 17,
+  "url": "http://127.0.0.1:5173/",
+  "viewport": {
+    "contentWidth": 375,
+    "dpr": 1,
+    "height": 844,
+    "width": 390
+  }
+}

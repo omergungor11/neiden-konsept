@@ -1,0 +1,269 @@
+{
+  "appears": [
+    {
+      "name": "label",
+      "opacity": "1",
+      "rect": {
+        "h": 14,
+        "w": 270.890625,
+        "x": 488.328125,
+        "y": 1150
+      },
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "name": "description",
+      "opacity": "1",
+      "rect": {
+        "h": 95.1875,
+        "w": 448.328125,
+        "x": 488.328125,
+        "y": 1495
+      },
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    {
+      "name": "author",
+      "opacity": "1",
+      "rect": {
+        "h": 60.1875,
+        "w": 195.234375,
+        "x": 488.328125,
+        "y": 1640.1875
+      },
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  ],
+  "colors": [
+    "rgb(255, 255, 255)"
+  ],
+  "fonts": "loaded",
+  "headline": {
+    "h": 231,
+    "w": 1065.59375,
+    "x": 179.703125,
+    "y": 1214
+  },
+  "images": [
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 14,
+        "w": 12,
+        "x": 488.328125,
+        "y": 1150
+      },
+      "src": "/assets/resolved-svg/494851aaceec8e45.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 14,
+        "w": 10,
+        "x": 500.328125,
+        "y": 1150
+      },
+      "src": "/assets/resolved-svg/4c2c83d0cab51864.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 14,
+        "w": 8,
+        "x": 510.328125,
+        "y": 1150
+      },
+      "src": "/assets/resolved-svg/706019cfe4ca47f8.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 14,
+        "w": 6,
+        "x": 518.328125,
+        "y": 1150
+      },
+      "src": "/assets/resolved-svg/e2678138a494bd36.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 14,
+        "w": 4,
+        "x": 524.328125,
+        "y": 1150
+      },
+      "src": "/assets/resolved-svg/c86ef7f79086d779.svg"
+    },
+    {
+      "objectPosition": "59.1% 88.1%",
+      "rect": {
+        "h": 315,
+        "w": 280,
+        "x": 40,
+        "y": 1235.1875
+      },
+      "src": "/assets/images/tBbzPDsQMxlOlbThB1KDBFxSOiE.png"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 22,
+        "w": 79,
+        "x": 70,
+        "y": 1508.1875
+      },
+      "src": "/assets/resolved-svg/b1ab17a97d022978.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 364,
+        "w": 315,
+        "x": 1070,
+        "y": 1186.1875
+      },
+      "src": "/assets/images/aoRv8epBA7hfsVLfzlMeqgDFwo.png"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 63,
+        "w": 63,
+        "x": 1070,
+        "y": 1186.1875
+      },
+      "src": "/assets/resolved-svg/ad1fdb3ab2ccf842.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 24.199981689453125,
+        "w": 86.89990234375,
+        "x": 1272.050048828125,
+        "y": 1507.0874938964844
+      },
+      "src": "/assets/resolved-svg/067fdb66afa66bbf.svg"
+    },
+    {
+      "objectPosition": "50% 50%",
+      "rect": {
+        "h": 60,
+        "w": 60,
+        "x": 488.328125,
+        "y": 1640.28125
+      },
+      "src": "/assets/images/tKz4t7GASrOBCeaAajhgtS4HA.png"
+    }
+  ],
+  "lines": {
+    "1207": [
+      "W",
+      "e",
+      " ",
+      "a",
+      "r",
+      "e",
+      " ",
+      "a",
+      "n",
+      " ",
+      "i",
+      "n",
+      "t",
+      "e",
+      "r",
+      "n",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n",
+      "a",
+      "l",
+      " ",
+      "s",
+      "t",
+      "u",
+      "d",
+      "i",
+      "o",
+      " "
+    ],
+    "1284": [
+      "c",
+      "o",
+      "l",
+      "l",
+      "e",
+      "c",
+      "t",
+      "i",
+      "v",
+      "e",
+      " ",
+      "—",
+      " ",
+      "t",
+      "h",
+      "a",
+      "t",
+      " ",
+      "h",
+      "e",
+      "l",
+      "p",
+      "s",
+      " ",
+      "b",
+      "r",
+      "a",
+      "n",
+      "d",
+      "s",
+      " ",
+      "c",
+      "r",
+      "a",
+      "f",
+      "t",
+      " "
+    ],
+    "1361": [
+      "u",
+      "n",
+      "i",
+      "q",
+      "u",
+      "e",
+      " ",
+      "d",
+      "i",
+      "g",
+      "i",
+      "t",
+      "a",
+      "l",
+      " ",
+      "e",
+      "x",
+      "p",
+      "e",
+      "r",
+      "i",
+      "e",
+      "n",
+      "c",
+      "e",
+      "s",
+      "."
+    ]
+  },
+  "scrollY": 1000,
+  "section": {
+    "h": 850.375,
+    "w": 1425,
+    "x": 0,
+    "y": 1000
+  }
+}

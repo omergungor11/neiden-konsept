@@ -1,0 +1,92 @@
+.about { position: relative; z-index: 1; width: 100%; padding: 250px 0; overflow: clip; background: #fff; color: #000; font-family: 'DM Sans','DM Sans Placeholder',sans-serif; }
+.gridLines { position: absolute; inset: 0; max-width: 1550px; margin-inline: auto; display: grid; grid-template-columns: repeat(3,minmax(50px,1fr)); pointer-events: none; }
+.gridLines i { border-right: 1px solid rgba(0,0,0,.1); }
+.gridLines i:first-child { border-left: 1px solid rgba(0,0,0,.1); }
+.wrapper { width: 100%; max-width: 1550px; margin-inline: auto; position: relative; z-index: 2; mix-blend-mode: multiply; }
+.quote { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; gap: 50px; width: 100%; background: #fff; mix-blend-mode: difference; }
+.labelGrid,.authorGrid { width: 100%; display: grid; grid-template-columns: repeat(3,minmax(50px,1fr)); }
+.label { grid-column: 2; display: flex; align-items: center; gap: 15px; width: max-content; height: 14px; position: relative; z-index: 2; }
+.wave { display: flex; align-items: center; flex: none; width: 40px; height: 14px; }
+.wave img { height: 14px; max-width: none; flex: none; }
+.labelText { display: flex; align-items: flex-end; gap: 2px; font-size: 14px; font-weight: 600; line-height: 14px; letter-spacing: -.04em; white-space: pre; font-feature-settings: 'blwf' on,'cv03' on,'cv04' on,'cv09' on,'cv11' on,'ss07' on; }
+.translation { color: rgba(0,0,0,.4); font-weight: 500; }
+.headlineFrame { width: 100%; position: relative; z-index: 1; mix-blend-mode: difference; }
+.headlineFrame > i { height: 1px; width: 100%; position: absolute; left: 0; z-index: 1; background: rgba(255,255,255,.1); pointer-events: none; }
+.lineFirst { top: 98px; }
+.lineSecond { bottom: 98px; }
+.lineThird { bottom: -1px; }
+.headlineFrame > .linePhone { display: none; }
+.reveal { display: flex; align-items: center; justify-content: center; width: 100%; }
+.headline { display: block; max-width: 100%; width: fit-content; font-family: var(--body-font); font-size: 90px; font-weight: 600; font-style: normal; line-height: 1.1; letter-spacing: -.06em; text-align: left; word-break: break-word; white-space: pre-wrap; }
+.headline > span { display: inline; color: #fff; }
+.images { position: absolute; z-index: 0; left: 0; right: 0; top: 50%; transform: translateY(-50%); display: grid; grid-template-columns: repeat(3,minmax(50px,1fr)); pointer-events: none; }
+.imageCell { min-height: 450px; position: relative; }
+.imageSpacer { height: 450px; }
+.leftImage,.rightImage { position: absolute; overflow: clip; }
+.leftImage { width: 370px; height: 450px; left: 0; bottom: -80px; }
+.rightImage { width: 80%; height: 450px; right: 0; bottom: -250px; }
+.photo { width: 100%; height: 100%; object-fit: cover; }
+.leftImage .photo { object-position: 59.1% 88.1%; }
+.stackedLab,.alphaWave { position: absolute; bottom: 20px; width: 79px; height: 22px; mix-blend-mode: difference; object-fit: contain; }
+.stackedLab { left: 30px; }
+.alphaWave { right: 30px; transform: scale(1.1); }
+.corner { position: absolute; top: 0; left: 0; width: 63px; height: 63px; transform: rotate(-90deg); }
+.authorWrapper { grid-column: 2; display: flex; flex-direction: column; align-items: flex-start; gap: 50px; }
+.description { font-size: 18px; font-weight: 500; line-height: 1.4em; letter-spacing: -.04em; color: rgba(0,0,0,.7); font-feature-settings: 'blwf' on,'cv03' on,'cv04' on,'cv09' on,'cv11' on; }
+.author { display: flex; align-items: center; gap: 20px; width: max-content; }
+.portrait { width: 60px; height: 60px; border-radius: 60px; object-fit: cover; }
+.authorName { font-size: 14px; font-weight: 600; line-height: 1.4em; letter-spacing: -.04em; }
+.authorRole { display: flex; gap: 3px; font-size: 14px; font-weight: 400; line-height: 21px; letter-spacing: -.04em; color: rgba(0,0,0,.5); }
+.facts { position: absolute; width: 100%; max-width: 1550px; height: 100%; top: .03819709702066%; left: 50%; transform: translateX(-50%); pointer-events: none; z-index: 1; }
+.facts p { position: absolute; font-size: 12px; font-weight: 600; line-height: 12px; letter-spacing: -.02em; text-transform: uppercase; mix-blend-mode: difference; }
+.established { bottom: 30px; left: 0; }
+.projects { top: 30px; right: 0; }
+@media (min-width: 1200px) and (max-width: 1619.98px) {
+  .about { padding: 150px 40px; }
+  .gridLines { max-width: none; padding-inline: 40px; }
+  .headline { font-size: 70px; }
+  .lineFirst { top: 75px; }
+  .lineSecond { bottom: 76px; }
+  .leftImage { width: 280px; height: 315px; bottom: 0; }
+  .rightImage { width: 315px; height: 364px; bottom: -200px; }
+  .imageSpacer { height: 315px; }
+  .description { font-size: 17px; }
+  .established { left: 40px; }
+  .projects { right: 40px; }
+}
+@media (min-width: 810px) and (max-width: 1199.98px) {
+  .about { padding: 100px 40px; }
+  .gridLines { grid-template-columns: repeat(2,minmax(50px,1fr)); padding-inline: 40px; }
+  .gridLines i:last-child { display: none; }
+  .labelGrid { display: flex; justify-content: center; padding-top: 1px; }
+  .authorGrid { grid-template-columns: repeat(2,minmax(50px,1fr)); }
+  .headline { font-size: 50px; }
+  .lineFirst { top: auto; bottom: 54px; }
+  .lineSecond { bottom: auto; top: 53px; }
+  .leftImage { width: 240px; height: 300px; bottom: -57px; }
+  .rightImage { display: none; }
+  .imageSpacer { height: 260px; }
+  .authorWrapper { gap: 40px; }
+  .description { font-size: 18px; }
+  .established { left: 40px; }
+  .projects { right: 40px; }
+}
+@media (max-width: 809.98px) {
+  .about { padding: 150px 20px; }
+  .gridLines { display: block; padding-inline: 20px; }
+  .gridLines i:first-child { display: block; height: 100%; }
+  .gridLines i:not(:first-child) { display: none; }
+  .quote { gap: 30px; }
+  .label { grid-column: 1 / -1; justify-self: center; }
+  .headline { font-size: 31px; }
+  .lineFirst { top: 67px; bottom: auto; }
+  .lineSecond { top: 34px; bottom: auto; }
+  .lineThird { bottom: 33px; }
+  .headlineFrame > .linePhone { display: block; bottom: 0; }
+  .images { display: none; }
+  .authorGrid { padding-inline: 20px; }
+  .authorWrapper { grid-column: 1 / -1; gap: 30px; align-items: center; }
+  .description { width: 100%; font-size: 16px; }
+  .established { bottom: 20px; left: 20px; }
+  .projects { top: 20px; right: 20px; }
+}

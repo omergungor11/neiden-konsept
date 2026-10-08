@@ -1,0 +1,70 @@
+{
+  "errors": [],
+  "images": [
+    {
+      "complete": true,
+      "naturalWidth": 300,
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/494851aaceec8e45.svg"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 300,
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/4c2c83d0cab51864.svg"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 300,
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/706019cfe4ca47f8.svg"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 300,
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/e2678138a494bd36.svg"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 300,
+      "src": "http://127.0.0.1:5173/assets/resolved-svg/c86ef7f79086d779.svg"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/b4e37c98f01eb324.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/126384f2fddc955b.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/f79a50e46cc39fef.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/7f49494a516e9351.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/e3d836d3acb34f48.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/f185fe2c06ca8daa.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 512,
+      "src": "http://127.0.0.1:5173/assets/responsive/3f5f2c5518c893c7.avif"
+    },
+    {
+      "complete": true,
+      "naturalWidth": 847,
+      "src": "http://127.0.0.1:5173/assets/responsive/9f62cd4c9ef70636.avif"
+    }
+  ]
+}

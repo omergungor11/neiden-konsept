@@ -1,0 +1,3349 @@
+{
+  "1440": {
+    "url": "https://neiden.framer.media/",
+    "viewport": {
+      "contentWidth": 1425,
+      "dpr": 1,
+      "height": 1000,
+      "width": 1440
+    },
+    "scrollY": 1000,
+    "sectionY": 1000,
+    "sectionHeight": 850.375,
+    "nodes": [
+      {
+        "tag": "SECTION",
+        "class": "framer-e3sqjn",
+        "name": "Hello",
+        "rect": {
+          "height": 850.375,
+          "width": 1425,
+          "x": 0,
+          "y": 1000
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-emzytj",
+        "name": "Column",
+        "rect": {
+          "height": 850.375,
+          "width": 448.328125,
+          "x": 40,
+          "y": 1000
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-3nkst8 hidden-1pbrz1",
+        "name": "Column",
+        "rect": {
+          "height": 850.375,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1000
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-o0b0iq hidden-13uas0h hidden-1pbrz1",
+        "name": "Column",
+        "rect": {
+          "height": 850.375,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1000
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1siq50b",
+        "name": "Hello wrapper",
+        "rect": {
+          "height": 550.375,
+          "width": 1345,
+          "x": 40,
+          "y": 1150
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1ldnz2x",
+        "name": "Quote",
+        "rect": {
+          "height": 550.375,
+          "width": 1345,
+          "x": 40,
+          "y": 1150
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1s13if6",
+        "name": "Counter",
+        "rect": {
+          "height": 14,
+          "width": 1345,
+          "x": 40,
+          "y": 1150
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-82kouk hidden-1pbrz1",
+        "name": "Spacer",
+        "rect": {
+          "height": 1,
+          "width": 448.328125,
+          "x": 40,
+          "y": 1150
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-dD0qv framer-T5eya framer-RhcMN framer-fOPfD framer-12y4u7d framer-v-12y4u7d",
+        "name": "Variant 1",
+        "rect": {
+          "height": 14,
+          "width": 270.890625,
+          "x": 488.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg-1624066_478",
+        "rect": {
+          "height": 14,
+          "width": 11.464263916015623,
+          "x": 488.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1466482564_472",
+        "rect": {
+          "height": 14,
+          "width": 9.60626220703125,
+          "x": 500.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1831136580_487",
+        "rect": {
+          "height": 14,
+          "width": 7.23095703125,
+          "x": 510.578125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg-149412160_483",
+        "rect": {
+          "height": 14,
+          "width": 5.77301025390625,
+          "x": 518.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1352727656_483",
+        "rect": {
+          "height": 14,
+          "width": 3.88623046875,
+          "x": 524.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-16x0xso",
+        "name": null,
+        "text": "[",
+        "rect": {
+          "height": 14,
+          "width": 4.453125,
+          "x": 543.328125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "ND®",
+        "rect": {
+          "height": 14,
+          "width": 25.3125,
+          "x": 549.78125,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "‒",
+        "rect": {
+          "height": 14,
+          "width": 7.625,
+          "x": 577.09375,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "WHO WE ARE /",
+        "rect": {
+          "height": 14,
+          "width": 95.71875,
+          "x": 586.71875,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1l3oc22",
+        "name": null,
+        "text": "原点と理念",
+        "rect": {
+          "height": 14,
+          "width": 68.328125,
+          "x": 684.4375,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-16x0xso",
+        "name": null,
+        "text": "]",
+        "rect": {
+          "height": 14,
+          "width": 4.453125,
+          "x": 754.765625,
+          "y": 1150.0621032714844
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1cwonxw",
+        "name": "Quote",
+        "rect": {
+          "height": 231,
+          "width": 1345,
+          "x": 40,
+          "y": 1214
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1u8naap",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 1345,
+          "x": 40,
+          "y": 1289
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-swmews",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 1345,
+          "x": 40,
+          "y": 1368
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1eoje60",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 1345,
+          "x": 40,
+          "y": 1445
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "W",
+        "rect": {
+          "height": 91,
+          "width": 62.3125,
+          "x": 179.703125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 242.015625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 279.265625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 292.15625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 91,
+          "width": 22.828125,
+          "x": 328.140625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 350.96875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 388.21875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 401.109375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 437.09375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 475.1875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 488.078125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 502.359375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 24.375,
+          "x": 540.453125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 564.828125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 91,
+          "width": 23.59375,
+          "x": 602.078125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 625.671875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.421875,
+          "x": 663.765625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 699.1875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 724.46875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 91,
+          "width": 38.15625,
+          "x": 738.75,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 776.90625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 815,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 91,
+          "width": 13.59375,
+          "x": 850.984375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 864.578125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 91,
+          "width": 31.234375,
+          "x": 877.46875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 908.703125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 933.984375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 972.078125,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 1013.109375,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 91,
+          "width": 38.15625,
+          "x": 1027.390625,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 1065.546875,
+          "y": 1207
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 91,
+          "width": 37.53125,
+          "x": 179.703125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 91,
+          "width": 38.15625,
+          "x": 217.234375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 91,
+          "width": 13.59375,
+          "x": 255.390625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 91,
+          "width": 13.59375,
+          "x": 268.984375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 282.578125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 91,
+          "width": 36.96875,
+          "x": 319.828125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 356.796875,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 382.078125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "v",
+        "rect": {
+          "height": 91,
+          "width": 32.90625,
+          "x": 396.359375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 429.265625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 466.515625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "—",
+        "rect": {
+          "height": 91,
+          "width": 59.15625,
+          "x": 479.40625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 538.5625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 551.453125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "h",
+        "rect": {
+          "height": 91,
+          "width": 38.15625,
+          "x": 576.734375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.421875,
+          "x": 614.890625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 650.3125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 675.59375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "h",
+        "rect": {
+          "height": 91,
+          "width": 38.15625,
+          "x": 688.484375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 726.640625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 91,
+          "width": 13.59375,
+          "x": 763.890625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "p",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 777.484375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 91,
+          "width": 32.421875,
+          "x": 818.515625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 850.9375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "b",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 863.828125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 91,
+          "width": 23.59375,
+          "x": 904.859375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 928.453125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 964.4375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 1002.53125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 91,
+          "width": 32.421875,
+          "x": 1043.5625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 1075.984375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 91,
+          "width": 37.53125,
+          "x": 1088.875,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 91,
+          "width": 23.59375,
+          "x": 1126.40625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 1150,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "f",
+        "rect": {
+          "height": 91,
+          "width": 21.140625,
+          "x": 1185.984375,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 1207.125,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 1232.40625,
+          "y": 1284
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 179.703125,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 217.796875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 255.890625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "q",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 270.171875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 311.203125,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 349.296875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 386.546875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 399.4375,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 440.46875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "g",
+        "rect": {
+          "height": 91,
+          "width": 36.75,
+          "x": 454.75,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 491.5,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 91,
+          "width": 25.28125,
+          "x": 505.78125,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 91,
+          "width": 35.984375,
+          "x": 531.0625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 91,
+          "width": 13.59375,
+          "x": 567.046875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 91,
+          "width": 12.890625,
+          "x": 580.640625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 35,
+          "x": 593.53125,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "x",
+        "rect": {
+          "height": 91,
+          "width": 34.234375,
+          "x": 628.53125,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "p",
+        "rect": {
+          "height": 91,
+          "width": 41.03125,
+          "x": 662.765625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 703.796875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 91,
+          "width": 23.59375,
+          "x": 741.046875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 91,
+          "width": 14.28125,
+          "x": 764.640625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 778.921875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 91,
+          "width": 38.09375,
+          "x": 816.171875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 91,
+          "width": 37.53125,
+          "x": 854.265625,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 91,
+          "width": 37.25,
+          "x": 891.796875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 91,
+          "width": 32.421875,
+          "x": 929.046875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": ".",
+        "rect": {
+          "height": 91,
+          "width": 12.328125,
+          "x": 961.46875,
+          "y": 1361
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1ym7bkv hidden-1pbrz1",
+        "name": "Images",
+        "rect": {
+          "height": 450,
+          "width": 1345,
+          "x": 40,
+          "y": 1200.1875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-vy3d1e",
+        "name": "Image wrapper",
+        "rect": {
+          "height": 450,
+          "width": 448.328125,
+          "x": 40,
+          "y": 1200.1875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-wfo2oy",
+        "name": "Image",
+        "rect": {
+          "height": 315,
+          "width": 280,
+          "x": 40,
+          "y": 1235.1875
+        }
+      },
+      {
+        "tag": "IMG",
+        "class": null,
+        "name": null,
+        "src": "https://framerusercontent.com/images/tBbzPDsQMxlOlbThB1KDBFxSOiE.png?scale-down-to=1024&width=960&height=1200",
+        "rect": {
+          "height": 315,
+          "width": 280,
+          "x": 40,
+          "y": 1235.1875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-3z0lwb",
+        "name": "Image wrapper",
+        "rect": {
+          "height": 315,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1200.1875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1semxbv",
+        "name": "Image wrapper",
+        "rect": {
+          "height": 450,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1200.1875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-skz14m hidden-13uas0h",
+        "name": "Image",
+        "rect": {
+          "height": 364,
+          "width": 315,
+          "x": 1070,
+          "y": 1186.1875
+        }
+      },
+      {
+        "tag": "IMG",
+        "class": null,
+        "name": null,
+        "src": "https://framerusercontent.com/images/aoRv8epBA7hfsVLfzlMeqgDFwo.png?scale-down-to=1024&width=960&height=1200",
+        "rect": {
+          "height": 364,
+          "width": 315,
+          "x": 1070,
+          "y": 1186.1875
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1006181588_292",
+        "rect": {
+          "height": 63,
+          "width": 63,
+          "x": 1070,
+          "y": 1186.1875
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#3340684060",
+        "rect": {
+          "height": 17.842864990234375,
+          "width": 86.76025390625,
+          "x": 1272.050048828125,
+          "y": 1510.1798400878906
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1vt43ve",
+        "name": "author",
+        "rect": {
+          "height": 205.375,
+          "width": 1345,
+          "x": 40,
+          "y": 1495
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1jmdmb7 hidden-1pbrz1",
+        "name": "Spacer",
+        "rect": {
+          "height": 1,
+          "width": 448.328125,
+          "x": 40,
+          "y": 1495
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-t3b8e3",
+        "name": "Author wrapper",
+        "rect": {
+          "height": 205.375,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1495
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-x1z2ho",
+        "name": null,
+        "text": "Great design is rarely about adding more. It's about understanding what matters, removing what doesn't, and creating experiences that feel effortless for the people who use them.",
+        "rect": {
+          "height": 95.18746948242188,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 1495.2484436035156
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-FH20t framer-h8Vg2 framer-oJtgl framer-1nkcae9 framer-v-1nkcae9",
+        "name": "Variant 1",
+        "rect": {
+          "height": 60.1875,
+          "width": 195.234375,
+          "x": 488.328125,
+          "y": 1640.4359130859375
+        }
+      },
+      {
+        "tag": "IMG",
+        "class": null,
+        "name": null,
+        "src": "https://framerusercontent.com/images/tKz4t7GASrOBCeaAajhgtS4HA.png?scale-down-to=512&width=1086&height=869",
+        "rect": {
+          "height": 60,
+          "width": 60,
+          "x": 488.328125,
+          "y": 1640.5296630859375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-h3n2e3",
+        "name": null,
+        "text": "Lars Nyström",
+        "rect": {
+          "height": 19.59375,
+          "width": 83.078125,
+          "x": 568.328125,
+          "y": 1640.4359130859375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1ln0sch",
+        "name": null,
+        "text": "Head of Strategy",
+        "rect": {
+          "height": 21,
+          "width": 100.4375,
+          "x": 568.328125,
+          "y": 1660.0296630859375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1ln0sch",
+        "name": null,
+        "text": "at",
+        "rect": {
+          "height": 21,
+          "width": 11.796875,
+          "x": 671.765625,
+          "y": 1660.0296630859375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-h3n2e3",
+        "name": null,
+        "text": "Neiden®",
+        "rect": {
+          "height": 19.59375,
+          "width": 51.03125,
+          "x": 568.328125,
+          "y": 1681.0296630859375
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-gzq6k9 hidden-13uas0h hidden-1pbrz1",
+        "name": "Spacer",
+        "rect": {
+          "height": 1,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 1495
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-umbu6c",
+        "name": "Facts",
+        "rect": {
+          "height": 850.375,
+          "width": 1425,
+          "x": 0,
+          "y": 1000.3125
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1lfhf3o",
+        "name": "Fact",
+        "rect": {
+          "height": 12,
+          "width": 51,
+          "x": 40,
+          "y": 1808.6875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-4zq9bz",
+        "name": null,
+        "text": "EST. 2019",
+        "rect": {
+          "height": 12,
+          "width": 51,
+          "x": 40,
+          "y": 1808.6875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1kxtbxb",
+        "name": "Fact",
+        "rect": {
+          "height": 12,
+          "width": 79.359375,
+          "x": 1305.640625,
+          "y": 1030.3125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-4zq9bz",
+        "name": null,
+        "text": "18+ projects",
+        "rect": {
+          "height": 12,
+          "width": 79.359375,
+          "x": 1305.640625,
+          "y": 1030.3125
+        }
+      }
+    ]
+  },
+  "390": {
+    "url": "https://neiden.framer.media/",
+    "viewport": {
+      "contentWidth": 375,
+      "dpr": 1,
+      "height": 844,
+      "width": 390
+    },
+    "scrollY": 844,
+    "sectionY": 844,
+    "sectionHeight": 780.78125,
+    "nodes": [
+      {
+        "tag": "SECTION",
+        "class": "framer-e3sqjn",
+        "name": "Hello",
+        "rect": {
+          "height": 780.78125,
+          "width": 375,
+          "x": 0,
+          "y": 844
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-emzytj",
+        "name": "Column",
+        "rect": {
+          "height": 780.78125,
+          "width": 335,
+          "x": 20,
+          "y": 844
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1siq50b",
+        "name": "Hello wrapper",
+        "rect": {
+          "height": 480.78125,
+          "width": 335,
+          "x": 20,
+          "y": 994
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1ldnz2x",
+        "name": "Quote",
+        "rect": {
+          "height": 480.78125,
+          "width": 335,
+          "x": 20,
+          "y": 994
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1s13if6",
+        "name": "Counter",
+        "rect": {
+          "height": 14,
+          "width": 335,
+          "x": 20,
+          "y": 994
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-dD0qv framer-T5eya framer-RhcMN framer-fOPfD framer-12y4u7d framer-v-12y4u7d",
+        "name": "Variant 1",
+        "rect": {
+          "height": 14,
+          "width": 270.890625,
+          "x": 52.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg-1624066_478",
+        "rect": {
+          "height": 14,
+          "width": 11.464248657226562,
+          "x": 52.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1466482564_472",
+        "rect": {
+          "height": 14,
+          "width": 9.606246948242188,
+          "x": 64.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1831136580_487",
+        "rect": {
+          "height": 14,
+          "width": 7.2310028076171875,
+          "x": 74.296875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg-149412160_483",
+        "rect": {
+          "height": 14,
+          "width": 5.7729949951171875,
+          "x": 82.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "use",
+        "class": null,
+        "name": null,
+        "href": "#svg1352727656_483",
+        "rect": {
+          "height": 14,
+          "width": 3.8862457275390625,
+          "x": 88.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-16x0xso",
+        "name": null,
+        "text": "[",
+        "rect": {
+          "height": 14,
+          "width": 4.453125,
+          "x": 107.046875,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "ND®",
+        "rect": {
+          "height": 14,
+          "width": 25.3125,
+          "x": 113.5,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "‒",
+        "rect": {
+          "height": 14,
+          "width": 7.625,
+          "x": 140.8125,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1x9173r",
+        "name": null,
+        "text": "WHO WE ARE /",
+        "rect": {
+          "height": 14,
+          "width": 95.71875,
+          "x": 150.4375,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1l3oc22",
+        "name": null,
+        "text": "原点と理念",
+        "rect": {
+          "height": 14,
+          "width": 68.328125,
+          "x": 248.15625,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-16x0xso",
+        "name": null,
+        "text": "]",
+        "rect": {
+          "height": 14,
+          "width": 4.453125,
+          "x": 318.484375,
+          "y": 994.0615997314452
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1cwonxw",
+        "name": "Quote",
+        "rect": {
+          "height": 204.5625,
+          "width": 335,
+          "x": 20,
+          "y": 1038
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1u8naap",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 335,
+          "x": 20,
+          "y": 1105
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-swmews",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 335,
+          "x": 20,
+          "y": 1072
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1xjrj1e hidden-a5femu hidden-aj1dkf hidden-13uas0h",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 335,
+          "x": 20,
+          "y": 1241.5625
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1eoje60",
+        "name": "Line",
+        "rect": {
+          "height": 1,
+          "width": 335,
+          "x": 20,
+          "y": 1208.5625
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 20,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 25.71875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 31.4375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 37.15625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 42.875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 48.59375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 54.3125,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "W",
+        "rect": {
+          "height": 41,
+          "width": 27.59375,
+          "x": 60.03125,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 87.625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 104.125,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 109.84375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 41,
+          "width": 10.109375,
+          "x": 125.78125,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 135.890625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 152.390625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 158.109375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 174.046875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 190.921875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 196.640625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 202.96875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 10.796875,
+          "x": 219.84375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 230.640625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 41,
+          "width": 10.453125,
+          "x": 247.140625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 257.59375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.6875,
+          "x": 274.46875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 290.15625,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 301.359375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 41,
+          "width": 16.90625,
+          "x": 307.6875,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 324.59375,
+          "y": 1034
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 20,
+          "y": 1068.09375
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 41,
+          "width": 6.015625,
+          "x": 35.9375,
+          "y": 1068.09375
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 41.953125,
+          "y": 1068.09375
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 41,
+          "width": 13.828125,
+          "x": 20,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 33.828125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 45.03125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 61.90625,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 80.078125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 41,
+          "width": 16.90625,
+          "x": 86.40625,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 103.3125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 41,
+          "width": 16.625,
+          "x": 109.03125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "o",
+        "rect": {
+          "height": 41,
+          "width": 16.90625,
+          "x": 125.65625,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 41,
+          "width": 6.015625,
+          "x": 142.5625,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 41,
+          "width": 6.015625,
+          "x": 148.578125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 154.59375,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 41,
+          "width": 16.375,
+          "x": 171.09375,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 187.46875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 198.671875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "v",
+        "rect": {
+          "height": 41,
+          "width": 14.578125,
+          "x": 205,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 219.578125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 236.078125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "—",
+        "rect": {
+          "height": 41,
+          "width": 26.203125,
+          "x": 241.796875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 268,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 273.71875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "h",
+        "rect": {
+          "height": 41,
+          "width": 16.90625,
+          "x": 284.921875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.6875,
+          "x": 301.828125,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 317.515625,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 328.71875,
+          "y": 1102.1875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "h",
+        "rect": {
+          "height": 41,
+          "width": 16.90625,
+          "x": 20,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 36.90625,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 41,
+          "width": 6.015625,
+          "x": 53.40625,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "p",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 59.421875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 41,
+          "width": 14.359375,
+          "x": 77.59375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 91.953125,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "b",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 97.671875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 41,
+          "width": 10.453125,
+          "x": 115.84375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 126.296875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 142.234375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 159.109375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 41,
+          "width": 14.359375,
+          "x": 177.28125,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 191.640625,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 41,
+          "width": 16.625,
+          "x": 197.359375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 41,
+          "width": 10.453125,
+          "x": 213.984375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 224.4375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "f",
+        "rect": {
+          "height": 41,
+          "width": 9.375,
+          "x": 240.375,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 249.75,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 260.953125,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 266.671875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 283.546875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 300.421875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "q",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 306.75,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "u",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 324.921875,
+          "y": 1136.28125
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 20,
+          "y": 1170.375
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 36.5,
+          "y": 1170.375
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "d",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 20,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 38.171875,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "g",
+        "rect": {
+          "height": 41,
+          "width": 16.28125,
+          "x": 44.5,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 60.78125,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "t",
+        "rect": {
+          "height": 41,
+          "width": 11.203125,
+          "x": 67.109375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "a",
+        "rect": {
+          "height": 41,
+          "width": 15.9375,
+          "x": 78.3125,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "l",
+        "rect": {
+          "height": 41,
+          "width": 6.015625,
+          "x": 94.25,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "rect": {
+          "height": 41,
+          "width": 5.71875,
+          "x": 100.265625,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 15.5,
+          "x": 105.984375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "x",
+        "rect": {
+          "height": 41,
+          "width": 15.171875,
+          "x": 121.484375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "p",
+        "rect": {
+          "height": 41,
+          "width": 18.171875,
+          "x": 136.65625,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 154.828125,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "r",
+        "rect": {
+          "height": 41,
+          "width": 10.453125,
+          "x": 171.328125,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "i",
+        "rect": {
+          "height": 41,
+          "width": 6.328125,
+          "x": 181.78125,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 188.109375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "n",
+        "rect": {
+          "height": 41,
+          "width": 16.875,
+          "x": 204.609375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "c",
+        "rect": {
+          "height": 41,
+          "width": 16.625,
+          "x": 221.484375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "e",
+        "rect": {
+          "height": 41,
+          "width": 16.5,
+          "x": 238.109375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": "s",
+        "rect": {
+          "height": 41,
+          "width": 14.359375,
+          "x": 254.609375,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "SPAN",
+        "class": null,
+        "name": null,
+        "text": ".",
+        "rect": {
+          "height": 41,
+          "width": 5.46875,
+          "x": 268.96875,
+          "y": 1204.46875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1vt43ve",
+        "name": "author",
+        "rect": {
+          "height": 202.21875,
+          "width": 335,
+          "x": 20,
+          "y": 1272.5625
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-t3b8e3",
+        "name": "Author wrapper",
+        "rect": {
+          "height": 202.21875,
+          "width": 295,
+          "x": 40,
+          "y": 1272.5625
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-x1z2ho",
+        "name": null,
+        "text": "Great design is rarely about adding more. It's about understanding what matters, removing what doesn't, and creating experiences that feel effortless for the people who use them.",
+        "rect": {
+          "height": 112.03121948242188,
+          "width": 295,
+          "x": 40,
+          "y": 1272.8109436035156
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-FH20t framer-h8Vg2 framer-oJtgl framer-1nkcae9 framer-v-1nkcae9",
+        "name": "Variant 1",
+        "rect": {
+          "height": 60.1875,
+          "width": 195.234375,
+          "x": 89.875,
+          "y": 1414.8402099609375
+        }
+      },
+      {
+        "tag": "IMG",
+        "class": null,
+        "name": null,
+        "src": "https://framerusercontent.com/images/tKz4t7GASrOBCeaAajhgtS4HA.png?scale-down-to=512&width=1086&height=869",
+        "rect": {
+          "height": 60,
+          "width": 60,
+          "x": 89.875,
+          "y": 1414.9339599609375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-h3n2e3",
+        "name": null,
+        "text": "Lars Nyström",
+        "rect": {
+          "height": 19.59375,
+          "width": 83.078125,
+          "x": 169.875,
+          "y": 1414.8402099609375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1ln0sch",
+        "name": null,
+        "text": "Head of Strategy",
+        "rect": {
+          "height": 21,
+          "width": 100.4375,
+          "x": 169.875,
+          "y": 1434.4339599609375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-1ln0sch",
+        "name": null,
+        "text": "at",
+        "rect": {
+          "height": 21,
+          "width": 11.796875,
+          "x": 273.3125,
+          "y": 1434.4339599609375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-h3n2e3",
+        "name": null,
+        "text": "Neiden®",
+        "rect": {
+          "height": 19.59375,
+          "width": 51.03125,
+          "x": 169.875,
+          "y": 1455.4339599609375
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-umbu6c",
+        "name": "Facts",
+        "rect": {
+          "height": 780.78125,
+          "width": 375,
+          "x": 0,
+          "y": 844.296875
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1lfhf3o",
+        "name": "Fact",
+        "rect": {
+          "height": 12,
+          "width": 51,
+          "x": 20,
+          "y": 1593.078125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-4zq9bz",
+        "name": null,
+        "text": "EST. 2019",
+        "rect": {
+          "height": 12,
+          "width": 51,
+          "x": 20,
+          "y": 1593.078125
+        }
+      },
+      {
+        "tag": "DIV",
+        "class": "framer-1kxtbxb",
+        "name": "Fact",
+        "rect": {
+          "height": 12,
+          "width": 79.359375,
+          "x": 275.640625,
+          "y": 864.296875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "framer-text framer-styles-preset-4zq9bz",
+        "name": null,
+        "text": "18+ projects",
+        "rect": {
+          "height": 12,
+          "width": 79.359375,
+          "x": 275.640625,
+          "y": 864.296875
+        }
+      }
+    ]
+  }
+}

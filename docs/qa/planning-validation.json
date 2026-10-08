@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-07T20:03:34.089Z",
+  "status": "passed",
+  "scope": "Plan grafiği, girdi/rol dosyaları, rota envanteri ve yerel asset SHA256. Uygulama görsel/motion QA değildir.",
+  "tasks": 36,
+  "routes": 26,
+  "assets": 399,
+  "uniqueLocalFiles": 399,
+  "verifiedBytes": 78331890,
+  "captures": [
+    {
+      "directory": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "screenshots": 23
+    },
+    {
+      "directory": "mobile",
+      "viewport": [
+        390,
+        844
+      ],
+      "screenshots": 36
+    }
+  ],
+  "problems": []
+}

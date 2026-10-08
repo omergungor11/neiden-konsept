@@ -1,0 +1,16 @@
+:root {
+  --black: #000;
+  --white: #fff;
+  --accent: #f02b42;
+  --dark: #191919;
+  --surface: #f2f2f2;
+  --line: rgba(0, 0, 0, .1);
+  --line-light: rgba(255, 255, 255, .15);
+  --gutter: 40px;
+  --boxed: 1550px;
+  --body-font: 'DM Sans', sans-serif;
+  --logo-font: 'Cal Sans', sans-serif;
+  --script-font: 'Patung Regular', cursive;
+  --header-height: 44px;
+}
+@media (max-width: 809.98px) { :root { --gutter: 20px; } }

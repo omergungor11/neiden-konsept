@@ -1,0 +1,1052 @@
+{
+  "schemaVersion": 1,
+  "language": "tr",
+  "purpose": "Uygulama başladığında çalıştırılacak plan; mevcut görev tamamlanmışlığı iddiası değildir.",
+  "maxConcurrentIncludingIntegrator": 4,
+  "execution": "ephemeral-subagents",
+  "planningModel": "gpt-6-astra",
+  "defaultBuilderModel": "inherit",
+  "allowedStatuses": [
+    "planned",
+    "ready",
+    "running",
+    "review",
+    "passed",
+    "needs_evidence",
+    "rework"
+  ],
+  "gateOrder": [
+    "D",
+    "L",
+    "M",
+    "R",
+    "Q"
+  ],
+  "taskTemplate": "docs/agents/TASK_TEMPLATE.md",
+  "tasks": [
+    {
+      "id": "F00",
+      "title": "Kanıt envanterini tamamla",
+      "role": "reference-assets",
+      "status": "passed",
+      "dependsOn": [],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "docs/reference/"
+      ],
+      "outputs": [
+        "section/state matrisi",
+        "rota/asset/font envanteri",
+        "Desktop/mobile etkileşim ve motion eksiklerini kapat; mevcut manifestleri yeniden üretmeden kullan"
+      ],
+      "acceptanceGate": "Kaynak/tarayıcı/çıkarım ayrımı; unresolved kayıtları",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/source-audit.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/routes.json",
+        "docs/reference/asset-manifest.json",
+        "docs/reference/motion-audit.md",
+        "docs/reference/design-tokens.json",
+        "docs/reference/screenshots/mobile/capture-index.json",
+        "docs/reference/screenshots/desktop/capture-index.json"
+      ],
+      "notes": "İlk kaynak/asset/motion audit ve desktop/mobile baseline hazır. Bu iş mevcut kanıtı doğrular; her bölümün kalan state/motion ölçümünü ilgili D kapısına atar. Tüm arşivi yeniden indirme. Baseline arşiv doğrulandı; bölüm özelindeki kalan davranışlar D kapılarına kaydedilir. Uygulama SVG adaptörü 399 kayıt/0 unresolved."
+    },
+    {
+      "id": "F01",
+      "title": "Vite React TS temeli ve scroll sözleşmesi",
+      "role": "planner-integrator",
+      "status": "passed",
+      "dependsOn": [
+        "F00"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "package.json",
+        "package-lock.json",
+        "vite.config.ts",
+        "tsconfig*.json",
+        "index.html",
+        "src/app/",
+        "src/styles/",
+        "src/motion/",
+        "src/components/ui/"
+      ],
+      "outputs": [
+        "build/typecheck",
+        "font/token sistemi",
+        "tek Lenis ticker ve cleanup",
+        "SVG symbol bağımlılıklarını koruyan asset adaptörü ve resize sonrası split-text ölçümü"
+      ],
+      "acceptanceGate": "Build/typecheck; StrictMode/resize/reduced-motion scroll smoke",
+      "model": "inherit",
+      "evidence": [
+        "qa/F01/asset-preparation.json",
+        "qa/F01/motion-foundation.md",
+        "qa/F01/integration-qa.md",
+        "qa/F01/foundation-desktop.png"
+      ],
+      "notes": "Build/typecheck ve temel StrictMode/resize/reduced-motion/kilit/anchor browser kontrolleri geçti. Gerçek rota/history ile menü/preloader ortak kilit sınamaları ilgili bölüm kapılarında sürer."
+    },
+    {
+      "id": "S00",
+      "title": "Ortak shell ve navigasyon",
+      "role": "section-builder",
+      "status": "passed",
+      "dependsOn": [
+        "F01"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/components/shell/"
+      ],
+      "outputs": [
+        "desktop/mobile header/menu",
+        "footer bileşeni"
+      ],
+      "acceptanceGate": "D/L/M/R/Q; menu focus ve scroll lock; gözlenen alt blur bandı, pointer cursor ve menü katmanı",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/screenshots/menu-desktop-open.png",
+        "docs/reference/screenshots/menu-mobile-open.png",
+        "qa/S00/integration-qa.md",
+        "qa/S00/menu-desktop-local.png",
+        "qa/S00/menu-mobile-local.png"
+      ],
+      "notes": "Header/menu/footer layout, scroll controls, focus, reduced motion ve scroll lock integration QA geçti. Kaydırılmış mobile380px kaynak varyantı korundu. Route content/transition R görevlerinde."
+    },
+    {
+      "id": "H01",
+      "title": "H01 Hero bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "passed",
+      "dependsOn": [
+        "S00"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H01-Hero/",
+        "src/content/H01.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/screenshots/home-desktop-initial.png",
+        "docs/reference/screenshots/home-mobile-initial.png",
+        "docs/reference/screenshots/home-mobile-loading.png",
+        "docs/reference/raw/index.motion.json",
+        "qa/F00/hero-shell-map.json",
+        "qa/H01/integration-qa.md",
+        "qa/H01/hero-desktop-local.png",
+        "qa/H01/hero-mobile-local.png"
+      ],
+      "notes": "Ana App desktop/mobile layout, video, preloader ve scroll/motion lifecycle QA geçti; fullpageprogress pace ve hardware checks final QA kapsamı."
+    },
+    {
+      "id": "H02",
+      "title": "H02 About bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "passed",
+      "dependsOn": [
+        "H01"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H02-About/",
+        "src/content/H02.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/screenshots/mobile/02-hello-0.png",
+        "docs/reference/home-mobile-dom.json",
+        "qa/H02/builder.md",
+        "qa/H02/integration-qa.md",
+        "qa/H02/about-1440-local.png",
+        "qa/H02/about-390-local.png",
+        "qa/H02/independent-motion.json"
+      ],
+      "notes": "1440/390 bağımsız görsel/geometri ve motion/reduced/resize/route cleanup QA geçti; H02 sahipliği root’a iade edildi."
+    },
+    {
+      "id": "H03",
+      "title": "H03 Services bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "passed",
+      "dependsOn": [
+        "H02"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H03-Services/",
+        "src/content/H03.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [
+        "qa/H03/builder.md",
+        "qa/H03/integration-qa.md",
+        "qa/H03/services-390-local.png",
+        "qa/H03/services-1850-desktop-local.png",
+        "qa/H03/independent-motion.json"
+      ],
+      "notes": "1440/390 geometri/görsel, sticky/CTA/reduced/route cleanup bağımsız QA geçti. 17 optimizedbitmap supplement bağlı; tabletH02başlangıçdrift düzeltildi."
+    },
+    {
+      "id": "H04",
+      "title": "H04 Portfolio bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "running",
+      "dependsOn": [
+        "H03"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json",
+        "docs/reference/portfolio-implementation-map.md",
+        "docs/reference/portfolio-implementation-map.json"
+      ],
+      "owns": [
+        "src/sections/home/H04-Portfolio/",
+        "src/content/H04.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [],
+      "notes": "H03Q geçti, gerçekApp PortfolioSequence içinde H04 mount edildi. Builder local kalibrasyon ve root QA sürüyor."
+    },
+    {
+      "id": "H05",
+      "title": "H05 MoreCases bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "running",
+      "dependsOn": [
+        "H04"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H05-MoreCases/",
+        "src/content/H05.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [],
+      "notes": "Source default/hover/leave/phone keşfi ve ilk kod hazır. H04Q sonrası App entegrasyonu ve yerel QA."
+    },
+    {
+      "id": "H06",
+      "title": "H06 Showreel bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H05"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H06-Showreel/",
+        "src/content/H06.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H07",
+      "title": "H07 Process bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H06"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H07-Process/",
+        "src/content/H07.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H08",
+      "title": "H08 SelectedReview bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H07"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H08-SelectedReview/",
+        "src/content/H08.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H09",
+      "title": "H09 Reviews bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H08"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H09-Reviews/",
+        "src/content/H09.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H10",
+      "title": "H10 Features bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H09"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H10-Features/",
+        "src/content/H10.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H11",
+      "title": "H11 Pricing bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H10"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H11-Pricing/",
+        "src/content/H11.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu; gözlenen Monthly 2500/5500/8500 → Annual 3500/6500/9500, PER MONTH sabit",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/screenshots/pricing-monthly.png",
+        "docs/reference/screenshots/pricing-annual.png"
+      ]
+    },
+    {
+      "id": "H12",
+      "title": "H12 Timeline bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H11"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H12-Timeline/",
+        "src/content/H12.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H12b",
+      "title": "H12b Facts bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H12"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H12b-Facts/",
+        "src/content/H12b.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H13",
+      "title": "H13 Team bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H12b"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H13-Team/",
+        "src/content/H13.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H14",
+      "title": "H14 Belief bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H13"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H14-Belief/",
+        "src/content/H14.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H15",
+      "title": "H15 FAQ bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H14"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H15-FAQ/",
+        "src/content/H15.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu; 01 ilk açık, 02 açıldığında 01 açık kalır; layout refresh",
+      "model": "inherit",
+      "evidence": [
+        "docs/reference/screenshots/faq-default.png",
+        "docs/reference/screenshots/faq-second-open.png"
+      ]
+    },
+    {
+      "id": "H16",
+      "title": "H16 Articles bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H15"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H16-Articles/",
+        "src/content/H16.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H17",
+      "title": "H17 Subscribe bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H16"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H17-Subscribe/",
+        "src/content/H17.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H18",
+      "title": "H18 Contact bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H17"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H18-Contact/",
+        "src/content/H18.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "H19",
+      "title": "H19 Endcap bölümünü keşfet/uygula/doğrula",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "H18"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/sections/home/H19-Endcap/",
+        "src/content/H19.ts"
+      ],
+      "outputs": [
+        "statik ve hareketli bölüm",
+        "aynı viewport/state screenshot çifti",
+        "QA raporu"
+      ],
+      "acceptanceGate": "D → L → M → R → Q; önceki bölüm sınırı regresyonu",
+      "model": "inherit",
+      "evidence": [],
+      "notes": "Kaynak sabit Get Neiden® from $99 rozeti ve lisans seçimi overlay dahil; href yerine client onTap overlay davranışı vardır. S00builder raporundaki ölçü/Polar linklerini kullan."
+    },
+    {
+      "id": "R00",
+      "title": "26 kaynak rotayı ziyaret ve şablonlara ayır",
+      "role": "reference-assets",
+      "status": "planned",
+      "dependsOn": [
+        "F00"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "docs/reference/routes.json",
+        "docs/reference/routes/"
+      ],
+      "outputs": [
+        "26 rota erişim/şablon/durum kaydı"
+      ],
+      "acceptanceGate": "Her rota gerçek URL ve kaynak kanıtıyla sınıflı; erişilemeyen açık",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R01",
+      "title": "/about-us yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "H19"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/About/",
+        "src/content/About.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R02",
+      "title": "/projects yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R01"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/Projects/",
+        "src/content/Projects.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R03",
+      "title": "9 proje detayı yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R02"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/ProjectDetail/",
+        "src/content/ProjectDetail.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R04",
+      "title": "/blog yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R03"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/Blog/",
+        "src/content/Blog.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R05",
+      "title": "7 yazı detayı yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R04"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/ArticleDetail/",
+        "src/content/ArticleDetail.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R06",
+      "title": "/career yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R05"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/Career/",
+        "src/content/Career.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R07",
+      "title": "/contacts yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R06"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/Contacts/",
+        "src/content/Contacts.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R08",
+      "title": "/thank-you yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R07"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/ThankYou/",
+        "src/content/ThankYou.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R09",
+      "title": "/terms-of-services ve /privacy yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R08"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/Legal/",
+        "src/content/Legal.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "R10",
+      "title": "/404 ve bilinmeyen yol yeniden üretimi",
+      "role": "section-builder",
+      "status": "planned",
+      "dependsOn": [
+        "R00",
+        "R09"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "src/pages/NotFound/",
+        "src/content/NotFound.ts"
+      ],
+      "outputs": [
+        "rota içeriği/şablonu",
+        "desktop/mobile/interaction QA"
+      ],
+      "acceptanceGate": "Rota D/L/M/R/Q; tüm kayıtlar, history/hash testi",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "Q90",
+      "title": "Bütün site görsel/motion regresyonu",
+      "role": "visual-qa",
+      "status": "planned",
+      "dependsOn": [
+        "R10"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "qa/Q90/"
+      ],
+      "outputs": [
+        "bölüm/rota state matrisi",
+        "görsel diff",
+        "motion ve erişim raporu"
+      ],
+      "acceptanceGate": "Kritik fark yok; her rota ve bölüm kanıtı var",
+      "model": "inherit",
+      "evidence": []
+    },
+    {
+      "id": "Q99",
+      "title": "Nihai entegrasyon ve kabul raporu",
+      "role": "planner-integrator",
+      "status": "planned",
+      "dependsOn": [
+        "Q90"
+      ],
+      "inputs": [
+        "docs/IMPLEMENTATION_PLAN.md",
+        "docs/reference/site-observations.md",
+        "docs/reference/asset-manifest.json"
+      ],
+      "owns": [
+        "docs/TASKS.json",
+        "docs/IMPLEMENTATION_PLAN.md",
+        "qa/FINAL.md"
+      ],
+      "outputs": [
+        "bilinen farklar ve test kapsamı",
+        "tamamlanma matrisi"
+      ],
+      "acceptanceGate": "Açık blocker yok; doğrulanamayanlar açık; deploy yok",
+      "model": "inherit",
+      "evidence": []
+    }
+  ],
+  "preparedEvidence": {
+    "date": "2026-10-06",
+    "planningCompleted": true,
+    "applicationStarted": true,
+    "planningModelUsed": "gpt-6-astra",
+    "routesArchived": 26,
+    "assetFilesArchived": 399,
+    "assetBytes": 78331890,
+    "desktopViewport": [
+      1440,
+      1000
+    ],
+    "mobileViewport": [
+      390,
+      844
+    ],
+    "devicePixelRatio": 1,
+    "canonicalCaptures": [
+      "docs/reference/screenshots/desktop/capture-index.json",
+      "docs/reference/screenshots/mobile/capture-index.json"
+    ],
+    "unverified": [
+      "Fiziksel touch cihaz testi",
+      "Tüm rota/breakpoint etkileşimleri",
+      "Kaynak motion değerlerinin frame-by-frame karşılaştırması",
+      "Gerçek form/backend sonuçları"
+    ]
+  }
+}

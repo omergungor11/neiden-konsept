@@ -1,0 +1,238 @@
+[
+  {
+    "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?width=1200&height=673",
+    "canonicalAssetId": "c2439cb54f9fe04b",
+    "viewports": [
+      1440,
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/634201db2e77f4f8.avif",
+    "contentType": "image/avif",
+    "width": 1200,
+    "height": 673,
+    "bytes": 22965,
+    "sha256": "4a410da28c2be722d35a03d2feac86d6e391cc6ca3cd05f5a07a948e1311c0f3"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/ThSJMmo8A9ev11PSsUakGJNops.png?scale-down-to=512&width=1200&height=800",
+    "canonicalAssetId": "19a13d1f927f649c",
+    "viewports": [
+      390,
+      810,
+      1440
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/126384f2fddc955b.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 341,
+    "bytes": 17100,
+    "sha256": "72d69022e7bc8bf39a449c57fbb5e25c450cee4b8cc33f0a736f3a647412847b"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gpwwteOl8wQDmMNdmeJasTo.png?scale-down-to=512&width=1200&height=673",
+    "canonicalAssetId": "9fb32b63364017f7",
+    "viewports": [
+      390,
+      810,
+      1440
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/f79a50e46cc39fef.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 287,
+    "bytes": 9015,
+    "sha256": "87785e280897076ba9f12aa8fa5e88b42fdaa73176ec6a1ed9375b3bc3a0a61c"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/4c1sZa6BkCihgjj6NxTNGlcC8sU.png?scale-down-to=512&width=1200&height=904",
+    "canonicalAssetId": "5b95b5e80c77d3d1",
+    "viewports": [
+      390,
+      810,
+      1440
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/7f49494a516e9351.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 386,
+    "bytes": 16855,
+    "sha256": "929cd922c6c1370cb5a1b96dc8c71b8d091b0f5ba475701c1cf7e2045dbde58a"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/A26lxSV6q0TIIPqbUrKvmy4SK0.png?scale-down-to=512&width=1200&height=800",
+    "canonicalAssetId": "256d1050a1780ed0",
+    "viewports": [
+      390,
+      810,
+      1440
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/e3d836d3acb34f48.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 341,
+    "bytes": 29755,
+    "sha256": "cb4354b40f22bf702c1fea2a866b8288f8e4da7a4466285dce2ce454d3796e33"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/rfmUc2KkjlbXoRGKPOx6FB3FA.png?scale-down-to=512&width=1200&height=900",
+    "canonicalAssetId": "b4387741bfa6dc28",
+    "viewports": [
+      390,
+      810,
+      1440
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/f185fe2c06ca8daa.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 384,
+    "bytes": 21524,
+    "sha256": "52f10d72d1686392ac5c847bc2d7f801f6cbb9b0244f0066ca5cb3438b7fbcd2"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=2048&width=2400&height=1800",
+    "canonicalAssetId": "93c60342e279bdfe",
+    "viewports": [
+      1440,
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/2cbe0a80b150c5e5.avif",
+    "contentType": "image/avif",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 181519,
+    "sha256": "6b9f118743620b1d63ea38111065ace99cab5b89cdc01c72293e1ac3da3e1900"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gSpzlP9lUeXmDY0EogvSg85aJR0.png?scale-down-to=1024&width=992&height=1200",
+    "canonicalAssetId": "7c1894afae8c04b1",
+    "viewports": [
+      390,
+      810,
+      1440,
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/9f62cd4c9ef70636.avif",
+    "contentType": "image/avif",
+    "width": 847,
+    "height": 1024,
+    "bytes": 29122,
+    "sha256": "6e3d4fad6f6582505b10bf249888bde4eba4005d3e78a2bb626dd967c3678dbc"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?scale-down-to=512&width=1200&height=673",
+    "canonicalAssetId": "c2439cb54f9fe04b",
+    "viewports": [
+      390
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/b4e37c98f01eb324.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 287,
+    "bytes": 7480,
+    "sha256": "ef36a0d2d1f61badf70ce9767e124e0ef5ae9b4a4885ff3184f844ee0669ab9b"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=512&width=2400&height=1800",
+    "canonicalAssetId": "93c60342e279bdfe",
+    "viewports": [
+      390
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/3f5f2c5518c893c7.avif",
+    "contentType": "image/avif",
+    "width": 512,
+    "height": 384,
+    "bytes": 20500,
+    "sha256": "cf396489b66e98441e3ebd895b0a421a1db719dba175327cb59254bdef5f4384"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?scale-down-to=1024&width=1200&height=673",
+    "canonicalAssetId": "c2439cb54f9fe04b",
+    "viewports": [
+      810
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/c3b73d3795774027.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 574,
+    "bytes": 15806,
+    "sha256": "9ed232a6bf61868507e97e63562a86f130bc25af27772c50b7a5f88ca9534c71"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=1024&width=2400&height=1800",
+    "canonicalAssetId": "93c60342e279bdfe",
+    "viewports": [
+      810
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/d0174c17faff8cb0.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 768,
+    "bytes": 66066,
+    "sha256": "2a5f571aa4e5e3988e6a1a829af662c8063cf715bd634ab2984e3601b24d259d"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/ThSJMmo8A9ev11PSsUakGJNops.png?scale-down-to=1024&width=1200&height=800",
+    "canonicalAssetId": "19a13d1f927f649c",
+    "viewports": [
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/775c99084174d424.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 683,
+    "bytes": 42151,
+    "sha256": "54877c38bed9a02d70f8e33b35e687cf4c78e310cdeac275998278bfd9b5960c"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/gpwwteOl8wQDmMNdmeJasTo.png?scale-down-to=1024&width=1200&height=673",
+    "canonicalAssetId": "9fb32b63364017f7",
+    "viewports": [
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/872931272b00e725.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 574,
+    "bytes": 28449,
+    "sha256": "ce313d90af9d05519b7a22e09a28d6938f9a4fe19163f1c77d456984532f6a2d"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/4c1sZa6BkCihgjj6NxTNGlcC8sU.png?scale-down-to=1024&width=1200&height=904",
+    "canonicalAssetId": "5b95b5e80c77d3d1",
+    "viewports": [
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/017649b60f55a7aa.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 771,
+    "bytes": 36602,
+    "sha256": "fc9c237924b0a3cc346f80dbd183ea07ced2b7ac1ab69c6e395100e8d4ba452b"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/A26lxSV6q0TIIPqbUrKvmy4SK0.png?scale-down-to=1024&width=1200&height=800",
+    "canonicalAssetId": "256d1050a1780ed0",
+    "viewports": [
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/50c4c054aa79d821.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 683,
+    "bytes": 147006,
+    "sha256": "ced1e157da09bafadc65cb3733718f549628af40ed42659b90c03e7ce30baa6a"
+  },
+  {
+    "source_url": "https://framerusercontent.com/images/rfmUc2KkjlbXoRGKPOx6FB3FA.png?scale-down-to=1024&width=1200&height=900",
+    "canonicalAssetId": "b4387741bfa6dc28",
+    "viewports": [
+      1620
+    ],
+    "local_evidence_path": "qa/H03/builder/responsive-evidence/37d5c4917ae82752.avif",
+    "contentType": "image/avif",
+    "width": 1024,
+    "height": 768,
+    "bytes": 52069,
+    "sha256": "131a831b1e7d33ec62dc890bb85a7b50d15945c57050e2b6c2331e83f3ec0e68"
+  }
+]

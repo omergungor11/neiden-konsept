@@ -1,0 +1,480 @@
+{
+  "scope": "Exact Chrome-negotiated source responses, measured at DPR1/390/810/1440/1620; supplemental to original asset archive.",
+  "assets": [
+    {
+      "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?width=1200&height=673",
+      "canonicalAssetId": "c2439cb54f9fe04b",
+      "viewports": [
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/634201db2e77f4f8.avif",
+      "contentType": "image/avif",
+      "width": 1200,
+      "height": 673,
+      "bytes": 22965,
+      "sha256": "4a410da28c2be722d35a03d2feac86d6e391cc6ca3cd05f5a07a948e1311c0f3",
+      "local_path": "public/assets/responsive/634201db2e77f4f8.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/ThSJMmo8A9ev11PSsUakGJNops.png?scale-down-to=512&width=1200&height=800",
+      "canonicalAssetId": "19a13d1f927f649c",
+      "viewports": [
+        390,
+        810,
+        1440
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/126384f2fddc955b.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 341,
+      "bytes": 17100,
+      "sha256": "72d69022e7bc8bf39a449c57fbb5e25c450cee4b8cc33f0a736f3a647412847b",
+      "local_path": "public/assets/responsive/126384f2fddc955b.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gpwwteOl8wQDmMNdmeJasTo.png?scale-down-to=512&width=1200&height=673",
+      "canonicalAssetId": "9fb32b63364017f7",
+      "viewports": [
+        390,
+        810,
+        1440
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/f79a50e46cc39fef.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 287,
+      "bytes": 9015,
+      "sha256": "87785e280897076ba9f12aa8fa5e88b42fdaa73176ec6a1ed9375b3bc3a0a61c",
+      "local_path": "public/assets/responsive/f79a50e46cc39fef.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/4c1sZa6BkCihgjj6NxTNGlcC8sU.png?scale-down-to=512&width=1200&height=904",
+      "canonicalAssetId": "5b95b5e80c77d3d1",
+      "viewports": [
+        390,
+        810,
+        1440
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/7f49494a516e9351.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 386,
+      "bytes": 16855,
+      "sha256": "929cd922c6c1370cb5a1b96dc8c71b8d091b0f5ba475701c1cf7e2045dbde58a",
+      "local_path": "public/assets/responsive/7f49494a516e9351.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/A26lxSV6q0TIIPqbUrKvmy4SK0.png?scale-down-to=512&width=1200&height=800",
+      "canonicalAssetId": "256d1050a1780ed0",
+      "viewports": [
+        390,
+        810,
+        1440
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/e3d836d3acb34f48.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 341,
+      "bytes": 29755,
+      "sha256": "cb4354b40f22bf702c1fea2a866b8288f8e4da7a4466285dce2ce454d3796e33",
+      "local_path": "public/assets/responsive/e3d836d3acb34f48.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/rfmUc2KkjlbXoRGKPOx6FB3FA.png?scale-down-to=512&width=1200&height=900",
+      "canonicalAssetId": "b4387741bfa6dc28",
+      "viewports": [
+        390,
+        810,
+        1440
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/f185fe2c06ca8daa.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 384,
+      "bytes": 21524,
+      "sha256": "52f10d72d1686392ac5c847bc2d7f801f6cbb9b0244f0066ca5cb3438b7fbcd2",
+      "local_path": "public/assets/responsive/f185fe2c06ca8daa.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=2048&width=2400&height=1800",
+      "canonicalAssetId": "93c60342e279bdfe",
+      "viewports": [
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/2cbe0a80b150c5e5.avif",
+      "contentType": "image/avif",
+      "width": 2048,
+      "height": 1536,
+      "bytes": 181519,
+      "sha256": "6b9f118743620b1d63ea38111065ace99cab5b89cdc01c72293e1ac3da3e1900",
+      "local_path": "public/assets/responsive/2cbe0a80b150c5e5.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gSpzlP9lUeXmDY0EogvSg85aJR0.png?scale-down-to=1024&width=992&height=1200",
+      "canonicalAssetId": "7c1894afae8c04b1",
+      "viewports": [
+        390,
+        810,
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/9f62cd4c9ef70636.avif",
+      "contentType": "image/avif",
+      "width": 847,
+      "height": 1024,
+      "bytes": 29122,
+      "sha256": "6e3d4fad6f6582505b10bf249888bde4eba4005d3e78a2bb626dd967c3678dbc",
+      "local_path": "public/assets/responsive/9f62cd4c9ef70636.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?scale-down-to=512&width=1200&height=673",
+      "canonicalAssetId": "c2439cb54f9fe04b",
+      "viewports": [
+        390
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/b4e37c98f01eb324.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 287,
+      "bytes": 7480,
+      "sha256": "ef36a0d2d1f61badf70ce9767e124e0ef5ae9b4a4885ff3184f844ee0669ab9b",
+      "local_path": "public/assets/responsive/b4e37c98f01eb324.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=512&width=2400&height=1800",
+      "canonicalAssetId": "93c60342e279bdfe",
+      "viewports": [
+        390
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/3f5f2c5518c893c7.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 384,
+      "bytes": 20500,
+      "sha256": "cf396489b66e98441e3ebd895b0a421a1db719dba175327cb59254bdef5f4384",
+      "local_path": "public/assets/responsive/3f5f2c5518c893c7.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/SFtrpgoY0jrw6ld77yTQ7zXOd4.png?scale-down-to=1024&width=1200&height=673",
+      "canonicalAssetId": "c2439cb54f9fe04b",
+      "viewports": [
+        810
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/c3b73d3795774027.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 574,
+      "bytes": 15806,
+      "sha256": "9ed232a6bf61868507e97e63562a86f130bc25af27772c50b7a5f88ca9534c71",
+      "local_path": "public/assets/responsive/c3b73d3795774027.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gz751Ln7TDowgGszqhywuWvSj4.png?scale-down-to=1024&width=2400&height=1800",
+      "canonicalAssetId": "93c60342e279bdfe",
+      "viewports": [
+        810
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/d0174c17faff8cb0.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 768,
+      "bytes": 66066,
+      "sha256": "2a5f571aa4e5e3988e6a1a829af662c8063cf715bd634ab2984e3601b24d259d",
+      "local_path": "public/assets/responsive/d0174c17faff8cb0.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/ThSJMmo8A9ev11PSsUakGJNops.png?scale-down-to=1024&width=1200&height=800",
+      "canonicalAssetId": "19a13d1f927f649c",
+      "viewports": [
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/775c99084174d424.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 683,
+      "bytes": 42151,
+      "sha256": "54877c38bed9a02d70f8e33b35e687cf4c78e310cdeac275998278bfd9b5960c",
+      "local_path": "public/assets/responsive/775c99084174d424.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/gpwwteOl8wQDmMNdmeJasTo.png?scale-down-to=1024&width=1200&height=673",
+      "canonicalAssetId": "9fb32b63364017f7",
+      "viewports": [
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/872931272b00e725.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 574,
+      "bytes": 28449,
+      "sha256": "ce313d90af9d05519b7a22e09a28d6938f9a4fe19163f1c77d456984532f6a2d",
+      "local_path": "public/assets/responsive/872931272b00e725.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/4c1sZa6BkCihgjj6NxTNGlcC8sU.png?scale-down-to=1024&width=1200&height=904",
+      "canonicalAssetId": "5b95b5e80c77d3d1",
+      "viewports": [
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/017649b60f55a7aa.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 771,
+      "bytes": 36602,
+      "sha256": "fc9c237924b0a3cc346f80dbd183ea07ced2b7ac1ab69c6e395100e8d4ba452b",
+      "local_path": "public/assets/responsive/017649b60f55a7aa.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/A26lxSV6q0TIIPqbUrKvmy4SK0.png?scale-down-to=1024&width=1200&height=800",
+      "canonicalAssetId": "256d1050a1780ed0",
+      "viewports": [
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/50c4c054aa79d821.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 683,
+      "bytes": 147006,
+      "sha256": "ced1e157da09bafadc65cb3733718f549628af40ed42659b90c03e7ce30baa6a",
+      "local_path": "public/assets/responsive/50c4c054aa79d821.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/rfmUc2KkjlbXoRGKPOx6FB3FA.png?scale-down-to=1024&width=1200&height=900",
+      "canonicalAssetId": "b4387741bfa6dc28",
+      "viewports": [
+        1620
+      ],
+      "local_evidence_path": "qa/H03/builder/responsive-evidence/37d5c4917ae82752.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 768,
+      "bytes": 52069,
+      "sha256": "131a831b1e7d33ec62dc890bb85a7b50d15945c57050e2b6c2331e83f3ec0e68",
+      "local_path": "public/assets/responsive/37d5c4917ae82752.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/H7n1L97Ku2shlmdqtD0ivHx34Dk.png?scale-down-to=512&width=2400&height=1600",
+      "canonicalAssetId": "971e82e195a66983",
+      "viewports": [
+        390,
+        810,
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H05/builder/responsive-evidence/3fa8115ee7a4f578.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 341,
+      "bytes": 26681,
+      "sha256": "c80b2d125d40f85f1dab5f9f39c2ada7a46c742e0a0469ad828493d1e6e956d1",
+      "response_headers": {
+        "Server": "CloudFront",
+        "Content-Type": "image/avif",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Wed, 26 Aug 2026 14:16:21 GMT",
+        "X-Amzn-Trace-Id": "Root=1-6a8ef534-719fe3cb312f33c934049494;Parent=2ee5b759ad42f053;Sampled=0;Lineage=1:f456f256:0",
+        "x-amzn-RequestId": "aeaf9b60-4a17-41c2-90ab-d8edca8c2695",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-frame-options": "deny",
+        "content-security-policy": "default-src 'none'; script-src 'none'; img-src 'self'; media-src 'self'; report-uri https://framer.report-uri.com/r/t/csp/enforce;",
+        "Cache-Control": "public, max-age=31536000, stale-while-revalidate=31536000",
+        "x-content-type-options": "nosniff",
+        "ETag": "\"6542c315d54e073db1bb726962b518f1\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "Vary": "Accept",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 018d49139552bac4221d8e525a1600be.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MXP63-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tvYvMVwqGjVufVUNwTTy47AUHr9nZ0fIhiPoGRwxyYSyvsL8hoj7ag==",
+        "Age": "3652749",
+        "Timing-Allow-Origin": "*",
+        "Server-Timing": "cdn-cache-hit,cdn-pop;desc=\"MXP63-P1\",cdn-rid;desc=\"tvYvMVwqGjVufVUNwTTy47AUHr9nZ0fIhiPoGRwxyYSyvsL8hoj7ag==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=4"
+      },
+      "final_url": "https://framerusercontent.com/images/H7n1L97Ku2shlmdqtD0ivHx34Dk.png?scale-down-to=512&width=2400&height=1600",
+      "local_path": "public/assets/responsive/3fa8115ee7a4f578.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/ntx4RF0pVgkv50EiHx03cgEVBeA.png?scale-down-to=512&width=2400&height=1600",
+      "canonicalAssetId": "5081a3d1c8f20898",
+      "viewports": [
+        390
+      ],
+      "local_evidence_path": "qa/H05/builder/responsive-evidence/73016b343aaa4a97.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 341,
+      "bytes": 26783,
+      "sha256": "293fe6a361b0c24932205557fedb6b3051b6fbe5c247ab4d97a11ac9f8f129d9",
+      "response_headers": {
+        "Server": "CloudFront",
+        "Content-Type": "image/avif",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Tue, 25 Aug 2026 13:22:47 GMT",
+        "X-Amzn-Trace-Id": "Root=1-6a8d9726-652c39a95b188b271b3cf62e;Parent=30a2c42983ce47e6;Sampled=0;Lineage=1:f456f256:0",
+        "x-amzn-RequestId": "76b95c79-cd8e-42c6-b9cc-96a2adcb7451",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-frame-options": "deny",
+        "content-security-policy": "default-src 'none'; script-src 'none'; img-src 'self'; media-src 'self'; report-uri https://framer.report-uri.com/r/t/csp/enforce;",
+        "Cache-Control": "public, max-age=31536000, stale-while-revalidate=31536000",
+        "x-content-type-options": "nosniff",
+        "ETag": "\"d662bb117f56f23cf34ce0f16c600a00\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "Vary": "Accept",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 6f91ea5a7eabbfeeecefb830943f669c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MXP63-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BXBKNSrUbz--tnpFxyR4usPWj-kUPqIeI3XVmh1PJNQWCQgZF8t_QQ==",
+        "Age": "3742363",
+        "Timing-Allow-Origin": "*",
+        "Server-Timing": "cdn-cache-hit,cdn-pop;desc=\"MXP63-P1\",cdn-rid;desc=\"BXBKNSrUbz--tnpFxyR4usPWj-kUPqIeI3XVmh1PJNQWCQgZF8t_QQ==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=4"
+      },
+      "final_url": "https://framerusercontent.com/images/ntx4RF0pVgkv50EiHx03cgEVBeA.png?scale-down-to=512&width=2400&height=1600",
+      "local_path": "public/assets/responsive/73016b343aaa4a97.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/S5SlUxzXWxG7YPWY61P4MrOl23Q.png?scale-down-to=512&width=2400&height=1600",
+      "canonicalAssetId": "b138d993b4500882",
+      "viewports": [
+        390
+      ],
+      "local_evidence_path": "qa/H05/builder/responsive-evidence/5459ab9d2c7bf346.avif",
+      "contentType": "image/avif",
+      "width": 512,
+      "height": 341,
+      "bytes": 19230,
+      "sha256": "06b4ff578de0baaed046ec314adb480d84f68e2acfaf684957a7ea8d05aba164",
+      "response_headers": {
+        "Server": "CloudFront",
+        "Content-Type": "image/avif",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Wed, 26 Aug 2026 16:47:12 GMT",
+        "X-Amzn-Trace-Id": "Root=1-6a8f188f-65cbc6b3742aad2a2c27ac56;Sampled=1;Lineage=1:f456f256:0",
+        "x-amzn-RequestId": "4292c142-1d71-4753-ab9f-7316417d130a",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-frame-options": "deny",
+        "content-security-policy": "default-src 'none'; script-src 'none'; img-src 'self'; media-src 'self'; report-uri https://framer.report-uri.com/r/t/csp/enforce;",
+        "Cache-Control": "public, max-age=31536000, stale-while-revalidate=31536000",
+        "x-content-type-options": "nosniff",
+        "ETag": "\"b5686de1c44c00c7fc303ace75bf0033\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "Vary": "Accept",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 04605b2a5011c712f60b8111aec3723a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MXP63-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qvWnhroxytb78kAq6qXvo1w6AnSb99CJVhkwRVGr7kcX7DPsXJrMNg==",
+        "Age": "3643697",
+        "Timing-Allow-Origin": "*",
+        "Server-Timing": "cdn-cache-hit,cdn-pop;desc=\"MXP63-P1\",cdn-rid;desc=\"qvWnhroxytb78kAq6qXvo1w6AnSb99CJVhkwRVGr7kcX7DPsXJrMNg==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=4"
+      },
+      "final_url": "https://framerusercontent.com/images/S5SlUxzXWxG7YPWY61P4MrOl23Q.png?scale-down-to=512&width=2400&height=1600",
+      "local_path": "public/assets/responsive/5459ab9d2c7bf346.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/ntx4RF0pVgkv50EiHx03cgEVBeA.png?scale-down-to=1024&width=2400&height=1600",
+      "canonicalAssetId": "5081a3d1c8f20898",
+      "viewports": [
+        810,
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H05/builder/responsive-evidence/99701cfacd4786b5.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 683,
+      "bytes": 94287,
+      "sha256": "6da6e2ad64b046f24e3935cb6b0c6a1b85d35429bd6642e9added51d330e033c",
+      "response_headers": {
+        "Server": "CloudFront",
+        "Content-Type": "image/avif",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Wed, 26 Aug 2026 16:48:28 GMT",
+        "X-Amzn-Trace-Id": "Root=1-6a8f18da-79b5c32649fa909121c0a78f;Parent=44631248a341538a;Sampled=0;Lineage=1:f456f256:0",
+        "x-amzn-RequestId": "2c1d6e73-96e8-4bf4-a1d5-33b6812653f5",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-frame-options": "deny",
+        "content-security-policy": "default-src 'none'; script-src 'none'; img-src 'self'; media-src 'self'; report-uri https://framer.report-uri.com/r/t/csp/enforce;",
+        "Cache-Control": "public, max-age=31536000, stale-while-revalidate=31536000",
+        "x-content-type-options": "nosniff",
+        "ETag": "\"a8d02c654bc09a9b50c14697de1ef019\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "Vary": "Accept",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 f1cf0dd6472fa007238228b98c5a369e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MXP63-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kmRfqQLjyHeTTvcJO5k8aZD1HQr-sP0bUXw6LQKr9kgUjhB65F6RNw==",
+        "Age": "3643622",
+        "Timing-Allow-Origin": "*",
+        "Server-Timing": "cdn-cache-hit,cdn-pop;desc=\"MXP63-P1\",cdn-rid;desc=\"kmRfqQLjyHeTTvcJO5k8aZD1HQr-sP0bUXw6LQKr9kgUjhB65F6RNw==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=4"
+      },
+      "final_url": "https://framerusercontent.com/images/ntx4RF0pVgkv50EiHx03cgEVBeA.png?scale-down-to=1024&width=2400&height=1600",
+      "local_path": "public/assets/responsive/99701cfacd4786b5.avif"
+    },
+    {
+      "source_url": "https://framerusercontent.com/images/S5SlUxzXWxG7YPWY61P4MrOl23Q.png?scale-down-to=1024&width=2400&height=1600",
+      "canonicalAssetId": "b138d993b4500882",
+      "viewports": [
+        810,
+        1440,
+        1620
+      ],
+      "local_evidence_path": "qa/H05/builder/responsive-evidence/9d62b8a4238856e3.avif",
+      "contentType": "image/avif",
+      "width": 1024,
+      "height": 683,
+      "bytes": 54034,
+      "sha256": "7bfb0340654a72bc15b5baa927daf6b3c76dd25e42b429314eeb9b9b4db44c4d",
+      "response_headers": {
+        "Server": "CloudFront",
+        "Content-Type": "image/avif",
+        "Transfer-Encoding": "chunked",
+        "Connection": "close",
+        "Date": "Wed, 26 Aug 2026 16:48:32 GMT",
+        "X-Amzn-Trace-Id": "Root=1-6a8f18dc-0c0bc8461485ca1a31f16493;Parent=2d055934b3ce46e4;Sampled=0;Lineage=1:f456f256:0",
+        "x-amzn-RequestId": "565a935d-8a74-48bc-ace9-520fc6f08d1f",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-xss-protection": "0",
+        "access-control-allow-origin": "*",
+        "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+        "x-frame-options": "deny",
+        "content-security-policy": "default-src 'none'; script-src 'none'; img-src 'self'; media-src 'self'; report-uri https://framer.report-uri.com/r/t/csp/enforce;",
+        "Cache-Control": "public, max-age=31536000, stale-while-revalidate=31536000",
+        "x-content-type-options": "nosniff",
+        "ETag": "\"551e6f3a553aadde5e8a7a069fdff041\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "Vary": "Accept",
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 c2375420915a59a31c2575fcfd6cae7a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MXP63-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eb_xC__gAaJT3B8EfhtoaNS7t9OnCueoppy6U6x_BQMi7TsLplAgVA==",
+        "Age": "3643633",
+        "Timing-Allow-Origin": "*",
+        "Server-Timing": "cdn-cache-hit,cdn-pop;desc=\"MXP63-P1\",cdn-rid;desc=\"eb_xC__gAaJT3B8EfhtoaNS7t9OnCueoppy6U6x_BQMi7TsLplAgVA==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=4"
+      },
+      "final_url": "https://framerusercontent.com/images/S5SlUxzXWxG7YPWY61P4MrOl23Q.png?scale-down-to=1024&width=2400&height=1600",
+      "local_path": "public/assets/responsive/9d62b8a4238856e3.avif"
+    }
+  ]
+}

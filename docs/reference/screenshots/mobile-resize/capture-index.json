@@ -1,0 +1,559 @@
+{
+  "url": "https://neiden.framer.media/",
+  "width": 390,
+  "height": 844,
+  "records": [
+    {
+      "section": "Hero Section",
+      "requestedY": 0,
+      "height": 37958,
+      "videos": [
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/ugAzn7fEqsPmmKRMmi19TDmUs.mp4",
+          "time": 10.631254
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 0,
+      "filename": "01-hero-section-0.png"
+    },
+    {
+      "section": "Hello",
+      "requestedY": 844,
+      "height": 37958,
+      "videos": [
+        {
+          "paused": true,
+          "src": "https://framerusercontent.com/assets/ugAzn7fEqsPmmKRMmi19TDmUs.mp4",
+          "time": 12.474055
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 844,
+      "filename": "02-hello-0.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 1420,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 1420,
+      "filename": "03-services-0.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 3033,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 3033,
+      "filename": "04-services-50.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 4646,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 4646,
+      "filename": "05-services-100.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 5490,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 5490,
+      "filename": "06-portfolio-0.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 7197,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 7197,
+      "filename": "07-portfolio-20.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 8904,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 8904,
+      "filename": "08-portfolio-40.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 10612,
+      "height": 37958,
+      "videos": [
+        {
+          "paused": true,
+          "src": "https://framerusercontent.com/assets/qhgTQUkR0fODY63Vgy7BsAVWw.mp4",
+          "time": 0
+        },
+        {
+          "paused": true,
+          "src": "https://framerusercontent.com/assets/s2MMSq00J46ljfxMxYzYSkJUF9s.mp4",
+          "time": 0
+        },
+        {
+          "paused": true,
+          "src": "https://framerusercontent.com/assets/9uPeCVl83tLV2N1f1D7DnvXRic.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/EKhFLCAxRa06YADI4msquvzwPTQ.mp4",
+          "time": 0.348962
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/DxPC0PMfkY1FHJEn3zhu2zeL0Y.mp4",
+          "time": 0.540161
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/UOh1vkxRXJNOKmlDAm9Jwn77W3Y.mp4",
+          "time": 0.356812
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 10612,
+      "filename": "09-portfolio-60.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 12319,
+      "height": 37958,
+      "videos": [
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/qhgTQUkR0fODY63Vgy7BsAVWw.mp4",
+          "time": 0.500203
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/s2MMSq00J46ljfxMxYzYSkJUF9s.mp4",
+          "time": 0.236293
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/9uPeCVl83tLV2N1f1D7DnvXRic.mp4",
+          "time": 0.491633
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/EKhFLCAxRa06YADI4msquvzwPTQ.mp4",
+          "time": 3.020981
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/DxPC0PMfkY1FHJEn3zhu2zeL0Y.mp4",
+          "time": 3.212179
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/UOh1vkxRXJNOKmlDAm9Jwn77W3Y.mp4",
+          "time": 3.028829
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/C7u20SR5SoCFQeL0jtSUXpF8Hs.mp4",
+          "time": 0.340683
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/9QvAOVASZyqPgWxcC9OAdl4NCo8.mp4",
+          "time": 0.329911
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/PUitQ2XFD8ExulHnASL3hF8iDs.mp4",
+          "time": 0.454999
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 12319,
+      "filename": "10-portfolio-80.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 14026,
+      "height": 37958,
+      "videos": [
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/EKhFLCAxRa06YADI4msquvzwPTQ.mp4",
+          "time": 1.381206
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/DxPC0PMfkY1FHJEn3zhu2zeL0Y.mp4",
+          "time": 1.572143
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/UOh1vkxRXJNOKmlDAm9Jwn77W3Y.mp4",
+          "time": 1.386637
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/C7u20SR5SoCFQeL0jtSUXpF8Hs.mp4",
+          "time": 2.708139
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/9QvAOVASZyqPgWxcC9OAdl4NCo8.mp4",
+          "time": 2.697368
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/PUitQ2XFD8ExulHnASL3hF8iDs.mp4",
+          "time": 2.822455
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 14026,
+      "filename": "11-portfolio-100.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 14870,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 14870,
+      "filename": "12-strategy-full-with-0.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 15526,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 15526,
+      "filename": "13-strategy-full-with-50.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 16181,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 16181,
+      "filename": "14-strategy-full-with-100.png"
+    },
+    {
+      "section": "Reviews",
+      "requestedY": 17025,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 17025,
+      "filename": "15-reviews-0.png"
+    },
+    {
+      "section": "Reviews",
+      "requestedY": 18144,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 18144,
+      "filename": "16-reviews-50.png"
+    },
+    {
+      "section": "Reviews",
+      "requestedY": 19263,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 19263,
+      "filename": "17-reviews-100.png"
+    },
+    {
+      "section": "Features",
+      "requestedY": 20108,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 20108,
+      "filename": "18-features-0.png"
+    },
+    {
+      "section": "Features",
+      "requestedY": 21194,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 21194,
+      "filename": "19-features-50.png"
+    },
+    {
+      "section": "Features",
+      "requestedY": 22280,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 22280,
+      "filename": "20-features-100.png"
+    },
+    {
+      "section": "Pricing",
+      "requestedY": 23124,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 23124,
+      "filename": "21-pricing-0.png"
+    },
+    {
+      "section": "Pricing",
+      "requestedY": 24328,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 24328,
+      "filename": "22-pricing-50.png"
+    },
+    {
+      "section": "Pricing",
+      "requestedY": 25532,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 25532,
+      "filename": "23-pricing-100.png"
+    },
+    {
+      "section": "Timeline",
+      "requestedY": 26376,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 26376,
+      "filename": "24-timeline-0.png"
+    },
+    {
+      "section": "Timeline",
+      "requestedY": 26993,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 26993,
+      "filename": "25-timeline-50.png"
+    },
+    {
+      "section": "Timeline",
+      "requestedY": 27610,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 27610,
+      "filename": "26-timeline-100.png"
+    },
+    {
+      "section": "Facts",
+      "requestedY": 28454,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 28454,
+      "filename": "27-facts-0.png"
+    },
+    {
+      "section": "Our Team",
+      "requestedY": 29312,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 29312,
+      "filename": "28-our-team-0.png"
+    },
+    {
+      "section": "Our Team",
+      "requestedY": 30221,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 30221,
+      "filename": "29-our-team-50.png"
+    },
+    {
+      "section": "Our Team",
+      "requestedY": 31129,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 31129,
+      "filename": "30-our-team-100.png"
+    },
+    {
+      "section": "Quote",
+      "requestedY": 31974,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 31974,
+      "filename": "31-quote-0.png"
+    },
+    {
+      "section": "FAQ",
+      "requestedY": 32582,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 32582,
+      "filename": "32-faq-0.png"
+    },
+    {
+      "section": "Blog posts",
+      "requestedY": 34260,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 34260,
+      "filename": "33-blog-posts-0.png"
+    },
+    {
+      "section": "Subscribe",
+      "requestedY": 35776,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 35776,
+      "filename": "34-subscribe-0.png"
+    },
+    {
+      "section": "Contact form",
+      "requestedY": 36336,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 36336,
+      "filename": "35-contact-form-0.png"
+    },
+    {
+      "section": "Phone",
+      "requestedY": 37618,
+      "height": 37958,
+      "videos": [],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "y": 37114,
+      "filename": "36-phone-0.png"
+    }
+  ]
+}

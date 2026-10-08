@@ -1,0 +1,416 @@
+{
+  "1440": {
+    "viewport": {
+      "contentWidth": 1425,
+      "dpr": 1,
+      "height": 1000,
+      "width": 1440
+    },
+    "stable": true,
+    "comparisons": [
+      {
+        "node": "hero",
+        "expected": {
+          "height": 1000,
+          "width": 1425,
+          "x": 0,
+          "y": 0
+        },
+        "observed": {
+          "height": 1000,
+          "width": 1425,
+          "x": 0,
+          "y": 0
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "wrapper",
+        "expected": {
+          "height": 956,
+          "width": 1425,
+          "x": 0,
+          "y": 44
+        },
+        "observed": {
+          "height": 956,
+          "width": 1425,
+          "x": 0,
+          "y": 44
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "services",
+        "expected": {
+          "height": 72,
+          "width": 1345,
+          "x": 40,
+          "y": 198.42
+        },
+        "observed": {
+          "height": 72,
+          "width": 1345,
+          "x": 40,
+          "y": 198.421875
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.00188
+        }
+      },
+      {
+        "node": "logoFrame",
+        "expected": {
+          "height": 377.55,
+          "width": 1345,
+          "x": 40,
+          "y": 270.42
+        },
+        "observed": {
+          "height": 377.546875,
+          "width": 1345,
+          "x": 40,
+          "y": 270.421875
+        },
+        "absoluteDelta": {
+          "height": 0.00313,
+          "width": 0,
+          "x": 0,
+          "y": 0.00187
+        }
+      },
+      {
+        "node": "description",
+        "expected": {
+          "height": 107.59,
+          "width": 1345,
+          "x": 40,
+          "y": 647.97
+        },
+        "observed": {
+          "height": 107.59375,
+          "width": 1345,
+          "x": 40,
+          "y": 647.96875
+        },
+        "absoluteDelta": {
+          "height": 0.00375,
+          "width": 0,
+          "x": 0,
+          "y": 0.00125
+        }
+      },
+      {
+        "node": "ctaCell",
+        "expected": {
+          "height": 60,
+          "width": 448.33,
+          "x": 488.33,
+          "y": 755.56
+        },
+        "observed": {
+          "height": 60,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 755.5625
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0.00187,
+          "x": 0.00187,
+          "y": 0.0025
+        }
+      },
+      {
+        "node": "reviewCell",
+        "expected": {
+          "height": 48,
+          "width": 448.34,
+          "x": 936.66,
+          "y": 761.56
+        },
+        "observed": {
+          "height": 48,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 761.5625
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0.00375,
+          "x": 0.00375,
+          "y": 0.0025
+        }
+      },
+      {
+        "node": "clients",
+        "expected": {
+          "height": 25,
+          "width": 1425,
+          "x": 0,
+          "y": 951
+        },
+        "observed": {
+          "height": 25,
+          "width": 1425,
+          "x": 0,
+          "y": 951
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "social",
+        "expected": {
+          "height": 24,
+          "width": 205.23,
+          "x": 40,
+          "y": 936
+        },
+        "observed": {
+          "height": 24,
+          "width": 205.234375,
+          "x": 40,
+          "y": 936
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0.00438,
+          "x": 0,
+          "y": 0
+        }
+      }
+    ],
+    "dynamicMask": {
+      "height": 956,
+      "width": 1425,
+      "x": 0,
+      "y": 44
+    },
+    "dynamicPhaseNote": "Video/grain affect entire hero background and difference-blended primary group; ticker/availability phases vary. No raw pixel score claimed."
+  },
+  "390": {
+    "viewport": {
+      "contentWidth": 375,
+      "dpr": 1,
+      "height": 844,
+      "width": 390
+    },
+    "stable": true,
+    "comparisons": [
+      {
+        "node": "hero",
+        "expected": {
+          "height": 844,
+          "width": 375,
+          "x": 0,
+          "y": 0
+        },
+        "observed": {
+          "height": 844,
+          "width": 375,
+          "x": 0,
+          "y": 0
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "wrapper",
+        "expected": {
+          "height": 800,
+          "width": 375,
+          "x": 0,
+          "y": 44
+        },
+        "observed": {
+          "height": 800,
+          "width": 375,
+          "x": 0,
+          "y": 44
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "services",
+        "expected": {
+          "height": 66,
+          "width": 335,
+          "x": 20,
+          "y": 164
+        },
+        "observed": {
+          "height": 66,
+          "width": 335,
+          "x": 20,
+          "y": 164
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "logoFrame",
+        "expected": {
+          "height": 114.03,
+          "width": 335,
+          "x": 20,
+          "y": 230
+        },
+        "observed": {
+          "height": 114.03125,
+          "width": 335,
+          "x": 20,
+          "y": 230
+        },
+        "absoluteDelta": {
+          "height": 0.00125,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "node": "description",
+        "expected": {
+          "height": 97.22,
+          "width": 335,
+          "x": 20,
+          "y": 344.03
+        },
+        "observed": {
+          "height": 97.21875,
+          "width": 335,
+          "x": 20,
+          "y": 344.03125
+        },
+        "absoluteDelta": {
+          "height": 0.00125,
+          "width": 0,
+          "x": 0,
+          "y": 0.00125
+        }
+      },
+      {
+        "node": "ctaCell",
+        "expected": {
+          "height": 60,
+          "width": 335,
+          "x": 20,
+          "y": 481.25
+        },
+        "observed": {
+          "height": 60,
+          "width": 335,
+          "x": 20,
+          "y": 481.25
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        }
+      },
+      {
+        "node": "reviewCell",
+        "expected": {
+          "height": 48,
+          "width": 335,
+          "x": 20,
+          "y": 587.25
+        },
+        "observed": {
+          "height": 48,
+          "width": 335,
+          "x": 20,
+          "y": 587.25
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0.0
+        }
+      },
+      {
+        "node": "clients",
+        "expected": {
+          "height": 25,
+          "width": 390,
+          "x": -7.5,
+          "y": 681.25
+        },
+        "observed": {
+          "height": 25,
+          "width": 390,
+          "x": -7.5,
+          "y": 681.25
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0,
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      {
+        "node": "social",
+        "expected": {
+          "height": 24,
+          "width": 205.23,
+          "x": 84.88,
+          "y": 800
+        },
+        "observed": {
+          "height": 24,
+          "width": 205.234375,
+          "x": 84.8828125,
+          "y": 800
+        },
+        "absoluteDelta": {
+          "height": 0,
+          "width": 0.00438,
+          "x": 0.00281,
+          "y": 0
+        }
+      }
+    ],
+    "dynamicMask": {
+      "height": 800,
+      "width": 375,
+      "x": 0,
+      "y": 44
+    },
+    "dynamicPhaseNote": "Video/grain affect entire hero background and difference-blended primary group; ticker/availability phases vary. No raw pixel score claimed."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "afterRelease": {
+    "overflow": ""
+  },
+  "beforeRelease": {
+    "inert": false,
+    "intro": false,
+    "overflow": "hidden",
+    "probe": {
+      "added": 245517.09999999404,
+      "lockEnd": "hidden",
+      "lockStart": "hidden",
+      "removed": 249500.70000000295
+    },
+    "reduced": true,
+    "triggers": 0,
+    "videoPaused": true,
+    "visible": [
+      {
+        "opacity": "1",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "transform": "none"
+      },
+      {
+        "opacity": "1",
+        "transform": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "url": "https://neiden.framer.media/",
+  "width": 1440,
+  "height": 1000,
+  "records": [
+    {
+      "section": "Hero Section",
+      "requestedY": 0,
+      "height": 29425,
+      "videos": [
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/ugAzn7fEqsPmmKRMmi19TDmUs.mp4",
+          "time": 6.028255
+        }
+      ],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 0,
+      "filename": "01-hero-section-0.png"
+    },
+    {
+      "section": "Hello",
+      "requestedY": 1000,
+      "height": 29425,
+      "videos": [
+        {
+          "paused": true,
+          "src": "https://framerusercontent.com/assets/ugAzn7fEqsPmmKRMmi19TDmUs.mp4",
+          "time": 8.018086
+        }
+      ],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 1000,
+      "filename": "02-hello-0.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 1850,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 1850,
+      "filename": "03-services-0.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 2461,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 2461,
+      "filename": "04-services-33.png"
+    },
+    {
+      "section": "Services",
+      "requestedY": 3072,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 3072,
+      "filename": "05-services-66.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 4702,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 4702,
+      "filename": "06-portfolio-0.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 7578,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 7578,
+      "filename": "07-portfolio-33.png"
+    },
+    {
+      "section": "Portfolio",
+      "requestedY": 10454,
+      "height": 29425,
+      "videos": [
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/qhgTQUkR0fODY63Vgy7BsAVWw.mp4",
+          "time": 0.289827
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/s2MMSq00J46ljfxMxYzYSkJUF9s.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/9uPeCVl83tLV2N1f1D7DnvXRic.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/EKhFLCAxRa06YADI4msquvzwPTQ.mp4",
+          "time": 0.316992
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/DxPC0PMfkY1FHJEn3zhu2zeL0Y.mp4",
+          "time": 0.400004
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/UOh1vkxRXJNOKmlDAm9Jwn77W3Y.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/C7u20SR5SoCFQeL0jtSUXpF8Hs.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/9QvAOVASZyqPgWxcC9OAdl4NCo8.mp4",
+          "time": 0
+        },
+        {
+          "paused": false,
+          "src": "https://framerusercontent.com/assets/PUitQ2XFD8ExulHnASL3hF8iDs.mp4",
+          "time": 0
+        }
+      ],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 10454,
+      "filename": "08-portfolio-66.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 14417,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 14417,
+      "filename": "09-strategy-full-with-0.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 15011,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 15011,
+      "filename": "10-strategy-full-with-33.png"
+    },
+    {
+      "section": "Strategy *full with ",
+      "requestedY": 15605,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 15605,
+      "filename": "11-strategy-full-with-66.png"
+    },
+    {
+      "section": "Reviews",
+      "requestedY": 17217,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 17217,
+      "filename": "12-reviews-0.png"
+    },
+    {
+      "section": "Features",
+      "requestedY": 18982,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 18982,
+      "filename": "13-features-0.png"
+    },
+    {
+      "section": "Pricing",
+      "requestedY": 20334,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 20334,
+      "filename": "14-pricing-0.png"
+    },
+    {
+      "section": "Timeline",
+      "requestedY": 21833,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 21833,
+      "filename": "15-timeline-0.png"
+    },
+    {
+      "section": "Facts",
+      "requestedY": 23268,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 23268,
+      "filename": "16-facts-0.png"
+    },
+    {
+      "section": "Our Team",
+      "requestedY": 23611,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 23611,
+      "filename": "17-our-team-0.png"
+    },
+    {
+      "section": "Quote",
+      "requestedY": 24686,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 24686,
+      "filename": "18-quote-0.png"
+    },
+    {
+      "section": "FAQ",
+      "requestedY": 25556,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 25556,
+      "filename": "19-faq-0.png"
+    },
+    {
+      "section": "Blog posts",
+      "requestedY": 26745,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 26745,
+      "filename": "20-blog-posts-0.png"
+    },
+    {
+      "section": "Subscribe",
+      "requestedY": 27748,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 27748,
+      "filename": "21-subscribe-0.png"
+    },
+    {
+      "section": "Contact form",
+      "requestedY": 28158,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 28158,
+      "filename": "22-contact-form-0.png"
+    },
+    {
+      "section": "Desktop",
+      "requestedY": 29030,
+      "height": 29425,
+      "videos": [],
+      "viewport": {
+        "height": 1000,
+        "width": 1440
+      },
+      "y": 28425,
+      "filename": "23-desktop-0.png"
+    }
+  ]
+}

@@ -1,0 +1,935 @@
+Exploring New Digital Interactions - My Framer Site
+Who We Are
+Who We Are
+Projects
+Projects
+35
+Articles
+Articles
+Join Us
+Join Us
+Start a Project
+Start a Project
+ñeiden®
+Built With Purpose
+ñeiden®
+Built With Purpose
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+S
+t
+a
+r
+t
+a
+p
+r
+o
+j
+e
+c
+t
+Terms of Service
+Privacy Policy
+2019-26©
+Forde Lab™
+All rights reserved
+Built in Framer
+Who We Are
+Who We Are
+Projects
+Projects
+35
+Articles
+Articles
+Join Us
+Join Us
+Start a Project
+Start a Project
+ñeiden®
+Built With Purpose
+ñeiden®
+Built With Purpose
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+S
+t
+a
+r
+t
+a
+p
+r
+o
+j
+e
+c
+t
+Terms of Service
+Privacy Policy
+2019-26©
+Forde Lab™
+All rights reserved
+Built in Framer
+ñeiden®
+ñeiden®
+Built With Purpose
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+S
+t
+a
+r
+t
+a
+p
+r
+o
+j
+e
+c
+t
+Terms of Service
+Privacy Policy
+2019-26©
+Forde Lab™
+All rights reserved
+Built in Framer
+ñeiden®
+Built With Purpose
+ñeiden®
+Built With Purpose
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+S
+t
+a
+r
+t
+a
+p
+r
+o
+j
+e
+c
+t
+Terms of Service
+Privacy Policy
+2019-26©
+Forde Lab™
+All rights reserved
+Built in Framer
+ñeiden®
+Built With Purpose
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+S
+t
+a
+r
+t
+a
+p
+r
+o
+j
+e
+c
+t
+Terms of Service
+Privacy Policy
+2019-26©
+Forde Lab™
+All rights reserved
+Built in Framer
+[
+ND®
+‒
+SELECTED PROJECT /
+制作事例
+]
+E
+x
+p
+l
+o
+r
+i
+n
+g
+N
+e
+w
+D
+i
+g
+i
+t
+a
+l
+I
+n
+t
+e
+r
+a
+c
+t
+i
+o
+n
+s
+Exploring New Digital Interactions
+A visual identity and digital system designed to make 
+the brand feel clearer, sharper, and more distinctive.
+A visual identity and digital system designed to make 
+the brand feel clearer, sharper, and more distinctive.
+Client:
+E-commerce Startup
+Services:
+API debugging, Error handling
+Team:
+ND® Creative team
+Stack:
+Node.js, Express, REST APIs, Stripe
+Visit
+project
+Visit project
+[
+ND®
+‒
+intro /
+概要と背景
+]
+Finding the balance between 
+visual expression and a system built to last.
+The project began with a simple goal: create an identity that feels distinctive without unnecessary complexity. We combined expressive imagery, restrained typography, and a flexible visual system designed to work across digital and physical touchpoints.
+The assignment was to dissect complex UI components and establish a unified vocabulary that ensures seamless communication between design systems and engineering teams.
+[
+ND®
+‒
+challenge /
+課題と理解
+]
+Turning strong visual ideas into 
+one clear and recognizable identity.
+The early direction had character and strong visual potential, but photography, typography, and composition still felt like separate ideas rather than parts of one cohesive identity.
+The challenge was to create a shared visual logic without losing that expressive quality, giving the brand enough structure to remain recognizable and consistent across different formats and touchpoints.
+[
+ND®
+‒
+Solution /
+質問と理解
+]
+Building a flexible visual system 
+where every element works together.
+We established a clear framework for imagery, typography, color, and composition, defining how each element should behave while keeping the overall visual language expressive and distinctive.
+The resulting system balances consistency with creative freedom, giving the brand enough flexibility to adapt naturally across digital experiences, editorial layouts, campaigns, and future applications.
+[
+ND®
+‒
+Result /
+質問と理解
+]
+A distinctive identity designed 
+to stay recognizable as the brand evolves.
+The final identity brings every touchpoint into one coherent experience, creating stronger visual recognition while preserving the expressive character and personality established throughout the project.
+With a flexible foundation in place, the identity can continue evolving across new formats, platforms, and applications without sacrificing the clarity, consistency, or distinctive qualities that define the brand.
+Services:
+UX/UI DesignWeb
+Development
+We
+finally
+had
+a
+brand
+system
+everyone
+could
+understand
+and
+use.
+Clear,
+collaborative,
+and
+built
+to
+scale.
+Elin Sørensen
+Head of Product
+at
+Fjordwave®
+Services:
+UX/UI DesignWeb
+Development
+We
+finally
+had
+a
+brand
+system
+everyone
+could
+understand
+and
+use.
+Clear,
+collaborative,
+and
+built
+to
+scale
+with
+confidence.
+Elin Sørensen
+Head of Product
+at
+Fjordwave®
+We
+finally
+had
+a
+brand
+system
+everyone
+could
+understand
+and
+use.
+Clear,
+collaborative,
+and
+built
+to
+scale.
+Elin Sørensen
+CEO
+at
+ACME®
+Services:
+UX/UI DesignWeb
+Development
+We
+finally
+had
+a
+brand
+system
+everyone
+could
+understand
+and
+use.
+Clear,
+collaborative,
+and
+built
+to
+scale.
+Elin Sørensen
+Head of Product
+at
+Fjordwave®
+Increase in 
+qualified leads
++12% MoM
++
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+7
+8
+%
++
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+7
+8
+%
++
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+7
+8
+%
+Higher 
+conversion rate
++6% MoM
+0
+1
+2
+3
+x
+0
+1
+2
+3
+x
+0
+1
+2
+3
+x
+[
+ND®
+‒
+BLOG POSTS /
+思考と記録
+]
+Thoughts, experiments, and lessons from our team —
+covering design, strategy, and everything in between.
+Thoughts and lessons from our team —
+covering design, strategy, and AI.
+[
+ND®
+‒
+BLOG POSTS /
+思考と記録
+]
+Thoughts, experiments, and lessons from our team —
+covering design, strategy, and everything in between.
+Next
+project
+One
+more
+Next project
+Title
+01.
+year
+25
+Client
+Clandesite
+Shaping
+Brands
+Through
+Design
+Frontend
+Backend
+UI/UX
+01.
+year
+25
+Client
+Clandesite
+Shaping
+Brands
+Through
+Design
+Frontend
+Backend
+UI/UX
+year
+25
+Client
+Clandesite
+Shaping
+Brands
+Through
+Design
+Frontend
+Backend
+UI/UX
+year
+25
+Client
+Clandesite
+Shaping
+Brands
+Through
+Design
+[
+ND®
+‒
+CONTACTS /
+対話と連絡
+]
+Whether you're starting fresh or scaling further,
+we're here to help bring your vision to life.
+Let's
+Talk
+Projects
+for
+May
+3
+left
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+Socials
+Local time:
+4 вересня, 15:38
+Name
+phone
+Email
+Message
+S
+t
+a
+r
+t
+c
+o
+n
+v
+e
+r
+s
+a
+t
+i
+o
+n
+Submitting you agree with
+Privacy Policy
+and
+Terms of Service.
+working times
+Mon–Fri:
+09:00 – 18:00
+Sat:
+10:00 – 16:00
+[
+ND®
+‒
+CONTACTS /
+対話と連絡
+]
+Whether you're starting fresh or scaling further,
+we're here to help bring your vision to life.
+Let's
+Talk
+Projects
+for
+May
+3
+left
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+Socials
+Local time:
+4 вересня, 15:38
+Name
+phone
+Email
+Message
+S
+t
+a
+r
+t
+c
+o
+n
+v
+e
+r
+s
+a
+t
+i
+o
+n
+Submitting you agree with
+Privacy Policy
+and
+Terms of Service.
+working times
+Mon–Fri:
+09:00 – 18:00
+Sat:
+10:00 – 16:00
+[
+ND®
+‒
+CONTACTS /
+対話と連絡
+]
+Whether you're starting fresh or scaling further,
+we're here to help bring your vision to life.
+Let's
+Talk
+Projects
+for
+May
+3
+left
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+Socials
+Local time:
+4 вересня, 15:38
+Name
+phone
+Email
+Message
+S
+t
+a
+r
+t
+c
+o
+n
+v
+e
+r
+s
+a
+t
+i
+o
+n
+Submitting you agree with
+Privacy Policy
+and
+Terms of Service.
+working times
+Mon–Fri:
+09:00 – 18:00
+Sat:
+10:00 – 16:00
+[
+ND®
+‒
+CONTACTS /
+対話と連絡
+]
+Whether you're starting fresh or scaling further,
+we're here to help bring your vision to life.
+Let's Talk
+Projects
+for
+May
+3
+left
+Contacts
++1 (312) 555-2468
+hello@neiden.project
+hello@neiden.project
+Dronningens Gate 15, 0152 Oslo, Norway
+Socials
+Local time:
+4 вересня, 15:38
+Name
+phone
+Email
+Message
+S
+t
+a
+r
+t
+c
+o
+n
+v
+e
+r
+s
+a
+t
+i
+o
+n
+Submitting you agree with
+Privacy Policy
+and
+Terms of Service.
+working times
+Mon–Fri:
+09:00 – 18:00
+Sat:
+10:00 – 16:00
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+b
+u
+i
+l
+t
+a
+r
+o
+u
+n
+d
+c
+l
+a
+r
+i
+t
+y
+EST.
+2019
+LAST UPDATE:
+Q2 2026
+Сreated
+With passion
+at
+Forde®
+2016-26
+Førde lab™.
+@ All rights reserved
+Built in Framer
+Terms of Service
+Privacy Policy
+Navigation
+About studio
+About studio
+Projects
+Projects
+15
+Articles
+Articles
+Contact
+Contact
+Career
+Career
+404
+404
+b
+u
+i
+l
+t
+a
+r
+o
+u
+n
+d
+c
+l
+a
+r
+i
+t
+y
+EST.
+2019
+LAST UPDATE:
+Q2 2026
+Сreated
+With passion
+at
+Forde®
+2016-26
+Førde lab™.
+@ All rights reserved
+Built in Framer
+Terms of Service
+Privacy Policy
+b
+u
+i
+l
+t
+a
+r
+o
+u
+n
+d
+c
+l
+a
+r
+i
+t
+y
+EST.
+2019
+LAST UPDATE:
+Q2 2026
+2026
+Førde lab™
+Rights reserved
+Built in Framer
+Terms of Service
+Privacy Policy
+b
+u
+i
+l
+t
+a
+r
+o
+u
+n
+d
+c
+l
+a
+r
+i
+t
+y
+EST.
+2019
+LAST UPDATE:
+Q2 2026
+2016-26
+Førde lab™.
+@ All rights reserved
+Built in Framer
+Terms of Service
+Privacy Policy
+G
+e
+t
+N
+e
+i
+d
+e
+n
+®
+f
+r
+o
+m
+$
+9
+9

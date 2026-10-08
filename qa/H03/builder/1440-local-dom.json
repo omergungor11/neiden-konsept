@@ -1,0 +1,2582 @@
+{
+  "capturedAt": "2026-10-07T20:35:23.805Z",
+  "cards": [
+    {
+      "card": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "50px 0px",
+        "position": "relative",
+        "rect": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2000.375
+        },
+        "text": "001. /物語と個性Brand Positioning & IdentityWe define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500Visual identityTypographyBrandingLogo designPackaging designRebranding",
+        "top": "0px",
+        "transform": "none"
+      },
+      "cardFooter": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2470.375
+        },
+        "text": "We define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500Visual identityTypographyBrandingLogo designPackaging designRebranding",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardHeader": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "10px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 0px 6px 20px",
+        "position": "static",
+        "rect": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2050.375
+        },
+        "text": "001. /物語と個性Brand Positioning & Identity",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardTitle": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-2.5px",
+        "lineHeight": "50px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 2074.375
+        },
+        "text": "Brand Positioning & Identity",
+        "top": "auto",
+        "transform": "none"
+      },
+      "copy": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 2470.375
+        },
+        "text": "We define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "description": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "-0.8px",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 2470.375
+        },
+        "text": "We define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.",
+        "top": "auto",
+        "transform": "none"
+      },
+      "eyebrow": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "3px",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 105.734375,
+          "x": 508.328125,
+          "y": 2050.375
+        },
+        "text": "001. /物語と個性",
+        "top": "auto",
+        "transform": "none"
+      },
+      "images": [
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 2165.375
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 673,
+            "naturalWidth": 1200,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 2165.375
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/634201db2e77f4f8.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        },
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 2165.375
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 341,
+            "naturalWidth": 512,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 2165.375
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/126384f2fddc955b.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        }
+      ],
+      "media": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2150.375
+        },
+        "text": "",
+        "top": "auto",
+        "transform": "none"
+      },
+      "price": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 147.828125,
+          "x": 508.328125,
+          "y": 2580
+        },
+        "text": "Starting From $4500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "tagRows": [
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 2470.375
+            },
+            "text": "Visual identityTypographyBranding",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 109.046875,
+                "x": 956.65625,
+                "y": 2470.375
+              },
+              "text": "Visual identity",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 94.609375,
+                "x": 1070.703125,
+                "y": 2470.375
+              },
+              "text": "Typography",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 75.75,
+                "x": 1170.3125,
+                "y": 2470.375
+              },
+              "text": "Branding",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        },
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 2504.96875
+            },
+            "text": "Logo designPackaging designRebranding",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 94.078125,
+                "x": 956.65625,
+                "y": 2504.96875
+              },
+              "text": "Logo design",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 128.015625,
+                "x": 1055.734375,
+                "y": 2504.96875
+              },
+              "text": "Packaging design",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 91.4375,
+                "x": 1188.75,
+                "y": 2504.96875
+              },
+              "text": "Rebranding",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "5px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 2470.375
+        },
+        "text": "Visual identityTypographyBrandingLogo designPackaging designRebranding",
+        "top": "auto",
+        "transform": "none"
+      },
+      "words": [
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 129.953125,
+            "x": 508.328125,
+            "y": 2074.375
+          },
+          "text": "Brand",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 238.359375,
+            "x": 647.984375,
+            "y": 2074.375
+          },
+          "text": "Positioning",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 35.859375,
+            "x": 896.046875,
+            "y": 2074.375
+          },
+          "text": "&",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 169.953125,
+            "x": 941.609375,
+            "y": 2074.375
+          },
+          "text": "Identity",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ]
+    },
+    {
+      "card": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "50px 0px",
+        "position": "relative",
+        "rect": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2644
+        },
+        "text": "002. /体験と設計Product Experience DesignWe design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits",
+        "top": "0px",
+        "transform": "none"
+      },
+      "cardFooter": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3114
+        },
+        "text": "We design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardHeader": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "10px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 0px 6px 20px",
+        "position": "static",
+        "rect": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2694
+        },
+        "text": "002. /体験と設計Product Experience Design",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardTitle": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-2.5px",
+        "lineHeight": "50px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 2718
+        },
+        "text": "Product Experience Design",
+        "top": "auto",
+        "transform": "none"
+      },
+      "copy": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 3114
+        },
+        "text": "We design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "description": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "-0.8px",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 3114
+        },
+        "text": "We design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.",
+        "top": "auto",
+        "transform": "none"
+      },
+      "eyebrow": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "3px",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 108.078125,
+          "x": 508.328125,
+          "y": 2694
+        },
+        "text": "002. /体験と設計",
+        "top": "auto",
+        "transform": "none"
+      },
+      "images": [
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 2839
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 287,
+            "naturalWidth": 512,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 2839
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/f79a50e46cc39fef.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        },
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 2839
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 386,
+            "naturalWidth": 512,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 2839
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/7f49494a516e9351.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        }
+      ],
+      "media": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 2794
+        },
+        "text": "",
+        "top": "auto",
+        "transform": "none"
+      },
+      "price": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 147.28125,
+          "x": 508.328125,
+          "y": 3223.625
+        },
+        "text": "Starting From $3500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "tagRows": [
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 3114
+            },
+            "text": "UX DesignUI SystemsProduct Strategy",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 82.71875,
+                "x": 956.65625,
+                "y": 3114
+              },
+              "text": "UX Design",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 88.578125,
+                "x": 1044.375,
+                "y": 3114
+              },
+              "text": "UI Systems",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 126.46875,
+                "x": 1137.953125,
+                "y": 3114
+              },
+              "text": "Product Strategy",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        },
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 3148.59375
+            },
+            "text": "WireframingPrototypingDesign Audits",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 97.25,
+                "x": 956.65625,
+                "y": 3148.59375
+              },
+              "text": "Wireframing",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 93.34375,
+                "x": 1058.90625,
+                "y": 3148.59375
+              },
+              "text": "Prototyping",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 105.921875,
+                "x": 1157.25,
+                "y": 3148.59375
+              },
+              "text": "Design Audits",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "5px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 3114
+        },
+        "text": "UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits",
+        "top": "auto",
+        "transform": "none"
+      },
+      "words": [
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 175.203125,
+            "x": 508.328125,
+            "y": 2718
+          },
+          "text": "Product",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 245.5,
+            "x": 693.234375,
+            "y": 2718
+          },
+          "text": "Experience",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "1",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 148.453125,
+            "x": 948.4375,
+            "y": 2718
+          },
+          "text": "Design",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ]
+    },
+    {
+      "card": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "50px 0px",
+        "position": "relative",
+        "rect": {
+          "height": 643.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3287.625
+        },
+        "text": "003. /影響と発信Social Presence & ContentWe create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media",
+        "top": "0px",
+        "transform": "none"
+      },
+      "cardFooter": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3757.625
+        },
+        "text": "We create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardHeader": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "10px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 0px 6px 20px",
+        "position": "static",
+        "rect": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3337.625
+        },
+        "text": "003. /影響と発信Social Presence & Content",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardTitle": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-2.5px",
+        "lineHeight": "50px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 3361.625
+        },
+        "text": "Social Presence & Content",
+        "top": "auto",
+        "transform": "none"
+      },
+      "copy": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 123.625,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 3757.625
+        },
+        "text": "We create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "description": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "-0.8px",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 89.625,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 3757.625
+        },
+        "text": "We create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.",
+        "top": "auto",
+        "transform": "none"
+      },
+      "eyebrow": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "3px",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 108.390625,
+          "x": 508.328125,
+          "y": 3337.625
+        },
+        "text": "003. /影響と発信",
+        "top": "auto",
+        "transform": "none"
+      },
+      "images": [
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 3482.625
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 341,
+            "naturalWidth": 512,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 3482.625
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/e3d836d3acb34f48.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        },
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 3482.625
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 384,
+            "naturalWidth": 512,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 3482.625
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/f185fe2c06ca8daa.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        }
+      ],
+      "media": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3437.625
+        },
+        "text": "",
+        "top": "auto",
+        "transform": "none"
+      },
+      "price": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 146.90625,
+          "x": 508.328125,
+          "y": 3867.25
+        },
+        "text": "Starting From $2500",
+        "top": "auto",
+        "transform": "none"
+      },
+      "tagRows": [
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 3757.625
+            },
+            "text": "Content StrategyCreativesArt Direction",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 128.03125,
+                "x": 956.65625,
+                "y": 3757.625
+              },
+              "text": "Content Strategy",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 79.453125,
+                "x": 1089.6875,
+                "y": 3757.625
+              },
+              "text": "Creatives",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 99.296875,
+                "x": 1174.140625,
+                "y": 3757.625
+              },
+              "text": "Art Direction",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        },
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 3792.21875
+            },
+            "text": "NetworkingBrand ContentSocial Media",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 91.640625,
+                "x": 956.65625,
+                "y": 3792.21875
+              },
+              "text": "Networking",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 111.546875,
+                "x": 1053.296875,
+                "y": 3792.21875
+              },
+              "text": "Brand Content",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 98.453125,
+                "x": 1169.84375,
+                "y": 3792.21875
+              },
+              "text": "Social Media",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "5px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 3757.625
+        },
+        "text": "Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media",
+        "top": "auto",
+        "transform": "none"
+      },
+      "words": [
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 129.5,
+            "x": 508.328125,
+            "y": 3411.625
+          },
+          "text": "Social",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 204.453125,
+            "x": 647.53125,
+            "y": 3411.625
+          },
+          "text": "Presence",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 35.859375,
+            "x": 861.6875,
+            "y": 3411.625
+          },
+          "text": "&",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 180.8125,
+            "x": 907.25,
+            "y": 3411.625
+          },
+          "text": "Content",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        }
+      ]
+    },
+    {
+      "card": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "50px 0px",
+        "position": "relative",
+        "rect": {
+          "height": 621.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3931.25
+        },
+        "text": "004. /検索と成長Organic Growth & VisibilityWe increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000SEO StrategyTechnical SEOContentKeywordsPerformance Analytics",
+        "top": "0px",
+        "transform": "none"
+      },
+      "cardFooter": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 101.21875,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 4401.25
+        },
+        "text": "We increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000SEO StrategyTechnical SEOContentKeywordsPerformance Analytics",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardHeader": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "10px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 0px 6px 20px",
+        "position": "static",
+        "rect": {
+          "height": 80,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 3981.25
+        },
+        "text": "004. /検索と成長Organic Growth & Visibility",
+        "top": "auto",
+        "transform": "none"
+      },
+      "cardTitle": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-2.5px",
+        "lineHeight": "50px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 50,
+          "width": 876.671875,
+          "x": 508.328125,
+          "y": 4005.25
+        },
+        "text": "Organic Growth & Visibility",
+        "top": "auto",
+        "transform": "none"
+      },
+      "copy": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "20px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 101.21875,
+          "width": 448.328125,
+          "x": 488.328125,
+          "y": 4401.25
+        },
+        "text": "We increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000",
+        "top": "auto",
+        "transform": "none"
+      },
+      "description": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "-0.8px",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 67.21875,
+          "width": 408.328125,
+          "x": 508.328125,
+          "y": 4401.25
+        },
+        "text": "We increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.",
+        "top": "auto",
+        "transform": "none"
+      },
+      "eyebrow": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "3px",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 109.078125,
+          "x": 508.328125,
+          "y": 3981.25
+        },
+        "text": "004. /検索と成長",
+        "top": "auto",
+        "transform": "none"
+      },
+      "images": [
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 4126.25
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 1536,
+            "naturalWidth": 2048,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.328125,
+              "x": 488.328125,
+              "y": 4126.25
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/2cbe0a80b150c5e5.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        },
+        {
+          "frame": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "0",
+            "padding": "0px",
+            "position": "relative",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 4126.25
+            },
+            "text": "",
+            "top": "0px",
+            "transform": "matrix(1, 0, 0, 1, 0, 30)"
+          },
+          "image": {
+            "complete": true,
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "normal",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "naturalHeight": 1024,
+            "naturalWidth": 847,
+            "objectFit": "cover",
+            "objectPosition": "50% 50%",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 270,
+              "width": 448.34375,
+              "x": 936.65625,
+              "y": 4126.25
+            },
+            "src": "http://127.0.0.1:5173/assets/responsive/9f62cd4c9ef70636.avif",
+            "text": "",
+            "top": "auto",
+            "transform": "none"
+          }
+        }
+      ],
+      "media": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "normal",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 300,
+          "width": 896.671875,
+          "x": 488.328125,
+          "y": 4081.25
+        },
+        "text": "",
+        "top": "auto",
+        "transform": "none"
+      },
+      "price": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "gap": "normal",
+        "letterSpacing": "-0.56px",
+        "lineHeight": "14px",
+        "opacity": "1",
+        "padding": "0px",
+        "position": "static",
+        "rect": {
+          "height": 14,
+          "width": 148.421875,
+          "x": 508.328125,
+          "y": 4488.46875
+        },
+        "text": "Starting From $6000",
+        "top": "auto",
+        "transform": "none"
+      },
+      "tagRows": [
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 4401.25
+            },
+            "text": "SEO StrategyTechnical SEOContent",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 102.125,
+                "x": 956.65625,
+                "y": 4401.25
+              },
+              "text": "SEO Strategy",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 107.671875,
+                "x": 1063.78125,
+                "y": 4401.25
+              },
+              "text": "Technical SEO",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 71.609375,
+                "x": 1176.453125,
+                "y": 4401.25
+              },
+              "text": "Content",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        },
+        {
+          "row": {
+            "filter": "none",
+            "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "gap": "5px",
+            "letterSpacing": "normal",
+            "lineHeight": "22.4px",
+            "opacity": "1",
+            "padding": "0px",
+            "position": "static",
+            "rect": {
+              "height": 29.59375,
+              "width": 408.34375,
+              "x": 956.65625,
+              "y": 4435.84375
+            },
+            "text": "KeywordsPerformance Analytics",
+            "top": "auto",
+            "transform": "none"
+          },
+          "tags": [
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 81.28125,
+                "x": 956.65625,
+                "y": 4435.84375
+              },
+              "text": "Keywords",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 100.6875,
+                "x": 1042.9375,
+                "y": 4435.84375
+              },
+              "text": "Performance",
+              "top": "0px",
+              "transform": "none"
+            },
+            {
+              "filter": "none",
+              "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+              "fontSize": "14px",
+              "fontWeight": "600",
+              "gap": "normal",
+              "letterSpacing": "-0.56px",
+              "lineHeight": "19.6px",
+              "opacity": "1",
+              "padding": "5px 10px",
+              "position": "relative",
+              "rect": {
+                "height": 29.59375,
+                "width": 81.125,
+                "x": 1148.625,
+                "y": 4435.84375
+              },
+              "text": " Analytics",
+              "top": "0px",
+              "transform": "none"
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "filter": "none",
+        "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "gap": "5px",
+        "letterSpacing": "normal",
+        "lineHeight": "22.4px",
+        "opacity": "1",
+        "padding": "0px 20px",
+        "position": "static",
+        "rect": {
+          "height": 64.1875,
+          "width": 448.34375,
+          "x": 936.65625,
+          "y": 4401.25
+        },
+        "text": "SEO StrategyTechnical SEOContentKeywordsPerformance Analytics",
+        "top": "auto",
+        "transform": "none"
+      },
+      "words": [
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 171.953125,
+            "x": 508.328125,
+            "y": 4055.25
+          },
+          "text": "Organic",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 163.703125,
+            "x": 689.984375,
+            "y": 4055.25
+          },
+          "text": "Growth",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 35.859375,
+            "x": 863.390625,
+            "y": 4055.25
+          },
+          "text": "&",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        },
+        {
+          "filter": "none",
+          "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+          "fontSize": "50px",
+          "fontWeight": "600",
+          "gap": "normal",
+          "letterSpacing": "-2.5px",
+          "lineHeight": "50px",
+          "opacity": "0.001",
+          "padding": "0px",
+          "position": "static",
+          "rect": {
+            "height": 50,
+            "width": 184.25,
+            "x": 908.953125,
+            "y": 4055.25
+          },
+          "text": "Visibility",
+          "top": "auto",
+          "transform": "matrix(1, 0, 0, 1, 0, 50)"
+        }
+      ]
+    }
+  ],
+  "fontStatus": "loaded",
+  "nodes": {
+    "booking": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "gap": "normal",
+      "letterSpacing": "-0.24px",
+      "lineHeight": "12px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "absolute",
+      "rect": {
+        "height": 12,
+        "width": 112.140625,
+        "x": 1272.859375,
+        "y": 1881.453125
+      },
+      "text": "NOW BOOKING MAY",
+      "top": "30px",
+      "transform": "none"
+    },
+    "boxed": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "150px 40px",
+      "position": "relative",
+      "rect": {
+        "height": 2852.09375,
+        "width": 1425,
+        "x": 0,
+        "y": 1850.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe BuildFour core disciplines. One goal: helping brands communicate, grow, and stay memorable.BEYOND STANDARD PROJECT SCOPEMade for different. Built together.Discuss Your ProjectDiscuss Your ProjectDiscuss Your Project001. /物語と個性Brand Positioning & IdentityWe define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500Visual identityTypographyBrandingLogo designPackaging designRebranding002. /体験と設計Product Experience DesignWe design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits003. /影響と発信Social Presence & ContentWe create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media004. /検索と成長Organic Growth & VisibilityWe increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000SEO StrategyTechnical SEOContentKeywordsPerformance Analytics",
+      "top": "0px",
+      "transform": "none"
+    },
+    "cards": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "relative",
+      "rect": {
+        "height": 2552.09375,
+        "width": 896.671875,
+        "x": 488.328125,
+        "y": 2000.375
+      },
+      "text": "001. /物語と個性Brand Positioning & IdentityWe define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500Visual identityTypographyBrandingLogo designPackaging designRebranding002. /体験と設計Product Experience DesignWe design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits003. /影響と発信Social Presence & ContentWe create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media004. /検索と成長Organic Growth & VisibilityWe increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000SEO StrategyTechnical SEOContentKeywordsPerformance Analytics",
+      "top": "0px",
+      "transform": "none"
+    },
+    "delivery": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "600",
+      "gap": "normal",
+      "letterSpacing": "-0.24px",
+      "lineHeight": "12px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "absolute",
+      "rect": {
+        "height": 12,
+        "width": 120.03125,
+        "x": 652.484375,
+        "y": 4661.546875
+      },
+      "text": "DELIVERY 2–4 WEEKS",
+      "top": "2810.09px",
+      "transform": "matrix(1, 0, 0, 1, -60.0156, 0)"
+    },
+    "facts": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "absolute",
+      "rect": {
+        "height": 2852.09375,
+        "width": 1425,
+        "x": 0,
+        "y": 1851.453125
+      },
+      "text": "NOW BOOKING MAYDELIVERY 2–4 WEEKS",
+      "top": "1.07812px",
+      "transform": "matrix(1, 0, 0, 1, -712.5, 0)"
+    },
+    "headingBase": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "30px",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "static",
+      "rect": {
+        "height": 170,
+        "width": 448.328125,
+        "x": 40,
+        "y": 2000.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe Build",
+      "top": "auto",
+      "transform": "none"
+    },
+    "headingWrapper": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "relative",
+      "rect": {
+        "height": 2552.09375,
+        "width": 448.328125,
+        "x": 40,
+        "y": 2000.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe BuildFour core disciplines. One goal: helping brands communicate, grow, and stay memorable.BEYOND STANDARD PROJECT SCOPEMade for different. Built together.Discuss Your ProjectDiscuss Your ProjectDiscuss Your Project",
+      "top": "0px",
+      "transform": "none"
+    },
+    "headline": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "70px",
+      "fontWeight": "600",
+      "gap": "normal",
+      "letterSpacing": "-4.2px",
+      "lineHeight": "63px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "static",
+      "rect": {
+        "height": 126,
+        "width": 448.328125,
+        "x": 40,
+        "y": 2044.375
+      },
+      "text": "WhatWe Build",
+      "top": "auto",
+      "transform": "none"
+    },
+    "inner": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "30px",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "static",
+      "rect": {
+        "height": 244.8125,
+        "width": 448.328125,
+        "x": 40,
+        "y": 2000.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe BuildFour core disciplines. One goal: helping brands communicate, grow, and stay memorable.",
+      "top": "auto",
+      "transform": "none"
+    },
+    "introduction": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "-0.8px",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "static",
+      "rect": {
+        "height": 44.8125,
+        "width": 309.296875,
+        "x": 40,
+        "y": 2200.375
+      },
+      "text": "Four core disciplines. One goal: helping brands communicate, grow, and stay memorable.",
+      "top": "auto",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "label": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "15px",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "static",
+      "rect": {
+        "height": 14,
+        "width": 246.546875,
+        "x": 40,
+        "y": 2000.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]",
+      "top": "auto",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "section": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "normal",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "relative",
+      "rect": {
+        "height": 2852.09375,
+        "width": 1425,
+        "x": 0,
+        "y": 1850.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe BuildFour core disciplines. One goal: helping brands communicate, grow, and stay memorable.BEYOND STANDARD PROJECT SCOPEMade for different. Built together.Discuss Your ProjectDiscuss Your ProjectDiscuss Your Project001. /物語と個性Brand Positioning & IdentityWe define how your brand looks, speaks, and is remembered. From positioning and visual identity to scalable design systems, every element is built to create recognition and consistency.Starting From $4500Visual identityTypographyBrandingLogo designPackaging designRebranding002. /体験と設計Product Experience DesignWe design websites, platforms, and digital products that balance usability, performance, and visual clarity. Every interaction is shaped to help users move faster and make better decisions.Starting From $3500UX DesignUI SystemsProduct StrategyWireframingPrototypingDesign Audits003. /影響と発信Social Presence & ContentWe create content systems that keep brands active, consistent, and recognizable across social platforms. From strategy to execution, every touchpoint supports long-term brand growth.Starting From $2500Content StrategyCreativesArt DirectionNetworkingBrand ContentSocial Media004. /検索と成長Organic Growth & VisibilityWe increase visibility where it matters most. Through SEO, content strategy, and technical improvements, we help brands attract the right audience and create lasting growth.Starting From $6000SEO StrategyTechnical SEOContentKeywordsPerformance AnalyticsNOW BOOKING MAYDELIVERY 2–4 WEEKS",
+      "top": "0px",
+      "transform": "none"
+    },
+    "sticky": {
+      "filter": "none",
+      "fontFamily": "\"DM Sans\", \"DM Sans Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "gap": "200px",
+      "letterSpacing": "normal",
+      "lineHeight": "22.4px",
+      "opacity": "1",
+      "padding": "0px",
+      "position": "sticky",
+      "rect": {
+        "height": 596.21875,
+        "width": 448.328125,
+        "x": 40,
+        "y": 2000.375
+      },
+      "text": "[ND®‒SERVICES / 思想と実行]WhatWe BuildFour core disciplines. One goal: helping brands communicate, grow, and stay memorable.BEYOND STANDARD PROJECT SCOPEMade for different. Built together.Discuss Your ProjectDiscuss Your ProjectDiscuss Your Project",
+      "top": "100px",
+      "transform": "none"
+    }
+  },
+  "scrollY": 1850,
+  "stable": true,
+  "triggerCount": 22,
+  "variant": "desktop",
+  "viewport": {
+    "contentWidth": 1425,
+    "dpr": 1,
+    "height": 1000,
+    "width": 1440
+  }
+}
