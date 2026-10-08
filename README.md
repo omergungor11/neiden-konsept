@@ -6,7 +6,7 @@ Uygulamada kullanılan marka adı **naiben**. Ortak marka metinleri [src/content
 
 **Geliştirme devam ediyor.** Ana sayfanın ilk bölümleri tamamlandı; tüm bölüm ve iç sayfaların görsel ve hareket eşleşmesi henüz bitmedi.
 
-[Referans site](https://neiden.framer.media/) · [GitHub reposu](https://github.com/omergungor11/neiden-konsept) · [Uygulama planı](docs/IMPLEMENTATION_PLAN.md) · [Görev kuyruğu](docs/TASKS.json)
+[Canlı site](https://neiden-konsept.vercel.app/) · [Referans site](https://neiden.framer.media/) · [GitHub reposu](https://github.com/omergungor11/neiden-konsept) · [Uygulama planı](docs/IMPLEMENTATION_PLAN.md) · [Görev kuyruğu](docs/TASKS.json)
 
 ![naiben — yerel Hero bölümünün desktop QA görüntüsü](qa/branding/hero-1440.png)
 
@@ -31,6 +31,14 @@ npm run preview
 ```
 
 Önizleme varsayılan olarak [http://127.0.0.1:4173/](http://127.0.0.1:4173/) adresinde açılır. Build çıktısı `dist/` dizinine yazılır.
+
+## Vercel yayını
+
+Canlı adres: **[neiden-konsept.vercel.app](https://neiden-konsept.vercel.app/)**.
+
+[Vercel projesi](https://vercel.com/pitonworks-projects/neiden-konsept), GitHub'daki `omergungor11/neiden-konsept` reposuna bağlıdır. `main` dalına gönderilen commit'ler otomatik olarak production ortamına deploy edilir. İlk GitHub deploy'u, `naiben` marka güncellemesini içeren `e0997cb` commit'iyle doğrulandı.
+
+Proje Node.js `22.x`, Vite, `npm ci`, `npm run build` ve `dist` çıktı dizinini kullanır. [vercel.json](vercel.json) içindeki SPA rewrite, iç adreslerin doğrudan açıldığında React Router'a ulaşmasını sağlar. Yerel `.vercel/` bağlantı dosyaları Git'e dahil edilmez.
 
 ## Komutlar
 
